@@ -1,0 +1,76 @@
+# HEAVYSB11: dissociation energies in heavy-element compounds.
+#
+# refs: goerigk2017
+#
+# This set is part of the GMTKN55, Goerigk et al.
+# http://dx.doi.org/10.1039/C7CP04913G
+# https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/GMTKN/gmtkn55
+# Please also look up and cite the original refeference if you use this set.
+#
+#@ fieldasrxn -1
+2
+heavysb11_geh3
+-1
+heavysb11_ge2h6
+0
+73.82
+2
+heavysb11_snme3
+-1
+heavysb11_sn2me6
+0
+61.74
+2
+heavysb11_pbme3
+-1
+heavysb11_pb2me6
+0
+52.92
+2
+heavysb11_sh
+-1
+heavysb11_h2s2
+0
+67.85
+2
+heavysb11_seh
+-1
+heavysb11_h2se2
+0
+58.37
+2
+heavysb11_teme
+-1
+heavysb11_te2me2
+0
+52.91
+2
+heavysb11_pme2
+-1
+heavysb11_p2me4
+0
+61.85
+2
+heavysb11_asme2
+-1
+heavysb11_as2me4
+0
+52.18
+2
+heavysb11_sbme2
+-1
+heavysb11_sb2me4
+0
+43.79
+2
+heavysb11_cl
+-1
+heavysb11_cl2
+0
+59.65
+2
+heavysb11_br
+-1
+heavysb11_br2
+0
+53.17

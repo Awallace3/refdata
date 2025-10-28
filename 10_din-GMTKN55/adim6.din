@@ -1,0 +1,46 @@
+# ADIM6: interaction eenrgies of n-alkane dimers.
+#
+# refs: grimme2010b goerigk2017
+#
+# This set is part of the GMTKN55, Goerigk et al.
+# http://dx.doi.org/10.1039/C7CP04913G
+# https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/GMTKN/gmtkn55
+# Please also look up and cite the original refeference if you use this set.
+#
+#@ fieldasrxn -1
+2
+adim6_AM2
+-1
+adim6_AD2
+0
+1.34
+2
+adim6_AM3
+-1
+adim6_AD3
+0
+1.99
+2
+adim6_AM4
+-1
+adim6_AD4
+0
+2.89
+2
+adim6_AM5
+-1
+adim6_AD5
+0
+3.78
+2
+adim6_AM6
+-1
+adim6_AD6
+0
+4.60
+2
+adim6_AM7
+-1
+adim6_AD7
+0
+5.55

@@ -1,0 +1,58 @@
+# CHB6: interaction energines in cation-neutral dimers.
+#
+# refs: lao2015 goerigk2017
+#
+# This set is part of the GMTKN55, Goerigk et al.
+# http://dx.doi.org/10.1039/C7CP04913G
+# https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/GMTKN/gmtkn55
+# Please also look up and cite the original refeference if you use this set.
+#
+#@ fieldasrxn 1
+1
+chb6_22
+-1
+chb6_22A
+-1
+chb6_22B
+0
+-34.43
+1
+chb6_23
+-1
+chb6_23A
+-1
+chb6_23B
+0
+-23.83
+1
+chb6_24
+-1
+chb6_24A
+-1
+chb6_24B
+0
+-17.83
+1
+chb6_25
+-1
+chb6_25A
+-1
+chb6_25B
+0
+-39.09
+1
+chb6_26
+-1
+chb6_26A
+-1
+chb6_26B
+0
+-25.63
+1
+chb6_27
+-1
+chb6_27A
+-1
+chb6_27B
+0
+-19.90

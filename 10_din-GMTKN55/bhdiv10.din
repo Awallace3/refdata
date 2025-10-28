@@ -1,0 +1,70 @@
+# BHDIV10: diverse reaction barrier heights.
+#
+# refs: goerigk2017
+#
+# This set is part of the GMTKN55, Goerigk et al.
+# http://dx.doi.org/10.1039/C7CP04913G
+# https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/GMTKN/gmtkn55
+# Please also look up and cite the original refeference if you use this set.
+#
+#@ fieldasrxn -1
+-1
+bhdiv10_ed1
+1
+bhdiv10_ts1
+0
+25.65
+-1
+bhdiv10_ed2
+1
+bhdiv10_ts2
+0
+56.90
+-1
+bhdiv10_ed3
+1
+bhdiv10_ts3
+0
+36.53
+-1
+bhdiv10_ed4
+1
+bhdiv10_ts4
+0
+96.17
+-1
+bhdiv10_ed5
+1
+bhdiv10_ts5
+0
+15.94
+-1
+bhdiv10_ed6
+1
+bhdiv10_ts6
+0
+13.64
+-1
+bhdiv10_ed7
+1
+bhdiv10_ts7
+0
+27.49
+-1
+bhdiv10_ed8
+1
+bhdiv10_ts8
+0
+50.24
+-1
+bhdiv10_ed9
+1
+bhdiv10_ts9
+0
+65.84
+-1
+bhdiv10_ed10
+1
+bhdiv10_ts10
+0
+64.93
