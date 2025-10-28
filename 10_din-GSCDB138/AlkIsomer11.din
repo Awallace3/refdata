@@ -1,0 +1,85 @@
+# Dataset: AlkIsomer11
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of alkanes with 4-8 carbon atoms.
+# Theory level = W1h and W3.2lite
+# Number of datapoints = 11.0
+# RMS energy (kcal/mol) = 1.80971368967574
+# Min energy (kcal/mol) = -3.69499984744567
+# Max energy (kcal/mol) = -0.225999990644753
+# Year last updated = 2009
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+19_isobutane_Alk44
+-1
+14_butane_Alk44
+0
+-1.4409999313 AlkIsomer11_391
+1
+20_isopentane_Alk44
+-1
+15_pentane_Alk44
+0
+-0.9089999566 AlkIsomer11_392
+1
+24_neopentane_Alk44
+-1
+15_pentane_Alk44
+0
+-3.6949998235 AlkIsomer11_393
+1
+21_isohexane_Alk44
+-1
+16_hexane_Alk44
+0
+-0.8789999581 AlkIsomer11_394
+1
+25_neohexane_Alk44
+-1
+16_hexane_Alk44
+0
+-2.4939998806 AlkIsomer11_395
+1
+28_diisopropyl_Alk44
+-1
+16_hexane_Alk44
+0
+-1.0799999487 AlkIsomer11_396
+1
+27_3methylpentane_Alk44
+-1
+16_hexane_Alk44
+0
+-0.2259999892 AlkIsomer11_397
+1
+22_isoheptane_Alk44
+-1
+17_heptane_Alk44
+0
+-0.9079999569 AlkIsomer11_398
+1
+26_neoheptane_Alk44
+-1
+17_heptane_Alk44
+0
+-2.4369998835 AlkIsomer11_399
+1
+29_hexamethylethane_Alk44
+-1
+18_octane_Alk44
+0
+-1.3669999345 AlkIsomer11_400
+1
+23_isooctane_Alk44
+-1
+18_octane_Alk44
+0
+-1.6209999227 AlkIsomer11_401

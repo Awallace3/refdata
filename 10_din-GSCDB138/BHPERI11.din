@@ -1,0 +1,101 @@
+# Dataset: BHPERI11
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Barrier heights of pericyclic reactions
+# Theory level = W1-F12,W2-F12
+# Number of datapoints = 11.0
+# RMS energy (kcal/mol) = 23.0043252508954
+# Min energy (kcal/mol) = 14.5000107643592
+# Max energy (kcal/mol) = 31.3000238463674
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+BHPERI_ortho-xylylene
+1
+BHPERI_TS3
+0
+28.1000209038 BHPERI11_1568
+-1
+BHPERI_1-3-Cyclopentadiene
+-1
+BHPERI_Ethylene
+1
+BHPERI_TS8
+0
+18.0000137655 BHPERI11_1569
+-2
+BHPERI_1-3-Cyclopentadiene
+1
+BHPERI_TS11
+0
+14.5000106705 BHPERI11_1570
+-1
+BHPERI_Cis-triscyclopropacyclohexane
+1
+BHPERI_TS9
+0
+26.4000199384 BHPERI11_1571
+-1
+BHPERI_02r
+-1
+BHPERI_00r
+1
+BHPERI_02ts
+0
+18.1000136746 BHPERI11_1572
+-1
+BHPERI_03r
+-1
+BHPERI_00r
+1
+BHPERI_03ts
+0
+16.6000125275 BHPERI11_1573
+-1
+BHPERI_04r
+-1
+BHPERI_00r
+1
+BHPERI_04ts
+0
+22.9000168434 BHPERI11_1574
+-1
+BHPERI_05r
+-1
+BHPERI_00r
+1
+BHPERI_06ts
+0
+27.8000205489 BHPERI11_1575
+-1
+BHPERI_07r
+-1
+BHPERI_00r
+1
+BHPERI_07ts
+0
+21.3000157872 BHPERI11_1576
+-1
+BHPERI_07r
+-1
+BHPERI_00r
+1
+BHPERI_08ts
+0
+21.6000161421 BHPERI11_1577
+-1
+BHPERI_09r
+-1
+BHPERI_00r
+1
+BHPERI_09ts
+0
+31.3000236439 BHPERI11_1578

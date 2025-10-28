@@ -1,0 +1,1619 @@
+# Dataset: X40x5
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = PECs for X40
+# Theory level = half-CP MP2-F12/[TQ]Z-F12 + half-CP CCSD(T)/ha[TQ]Z (or ha[DT]Z)
+# Number of datapoints = 200.0
+# RMS energy (kcal/mol) = 4.01748917068721
+# Min energy (kcal/mol) = -14.1229999347966
+# Max energy (kcal/mol) = 11.94900026452
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+X40x10_01_methane-F2_0.80
+-1
+X40x10_01_methane-F2_monA
+-1
+X40x10_01_methane-F2_monB
+0
+0.3059999730 X40x5_8138
+1
+X40x10_01_methane-F2_0.85
+-1
+X40x10_01_methane-F2_monA
+-1
+X40x10_01_methane-F2_monB
+0
+-0.2370002867 X40x5_8139
+1
+X40x10_01_methane-F2_0.90
+-1
+X40x10_01_methane-F2_monA
+-1
+X40x10_01_methane-F2_monB
+0
+-0.4439999731 X40x5_8140
+1
+X40x10_01_methane-F2_0.95
+-1
+X40x10_01_methane-F2_monA
+-1
+X40x10_01_methane-F2_monB
+0
+-0.4870000595 X40x5_8141
+1
+X40x10_01_methane-F2_1.50
+-1
+X40x10_01_methane-F2_monA
+-1
+X40x10_01_methane-F2_monB
+0
+-0.0699999364 X40x5_8142
+1
+X40x10_02_methane-Cl2_0.80
+-1
+X40x10_02_methane-Cl2_monA
+-1
+X40x10_02_methane-Cl2_monB
+0
+1.8039999924 X40x5_8143
+1
+X40x10_02_methane-Cl2_0.85
+-1
+X40x10_02_methane-Cl2_monA
+-1
+X40x10_02_methane-Cl2_monB
+0
+-0.0660001910 X40x5_8144
+1
+X40x10_02_methane-Cl2_0.90
+-1
+X40x10_02_methane-Cl2_monA
+-1
+X40x10_02_methane-Cl2_monB
+0
+-0.8410001144 X40x5_8145
+1
+X40x10_02_methane-Cl2_0.95
+-1
+X40x10_02_methane-Cl2_monA
+-1
+X40x10_02_methane-Cl2_monB
+0
+-1.0729997781 X40x5_8146
+1
+X40x10_02_methane-Cl2_1.50
+-1
+X40x10_02_methane-Cl2_monA
+-1
+X40x10_02_methane-Cl2_monB
+0
+-0.1510001138 X40x5_8147
+1
+X40x10_03_methane-Br2_0.80
+-1
+X40x10_03_methane-Br2_monA
+-1
+X40x10_03_methane-Br2_monB
+0
+2.4409999156 X40x5_8148
+1
+X40x10_03_methane-Br2_0.85
+-1
+X40x10_03_methane-Br2_monA
+-1
+X40x10_03_methane-Br2_monB
+0
+0.0869997954 X40x5_8149
+1
+X40x10_03_methane-Br2_0.90
+-1
+X40x10_03_methane-Br2_monA
+-1
+X40x10_03_methane-Br2_monB
+0
+-0.9270002872 X40x5_8150
+1
+X40x10_03_methane-Br2_0.95
+-1
+X40x10_03_methane-Br2_monA
+-1
+X40x10_03_methane-Br2_monB
+0
+-1.2630002329 X40x5_8151
+1
+X40x10_03_methane-Br2_1.50
+-1
+X40x10_03_methane-Br2_monA
+-1
+X40x10_03_methane-Br2_monB
+0
+-0.1929999501 X40x5_8152
+1
+X40x10_04_methane-I2_0.80
+-1
+X40x10_04_methane-I2_monA
+-1
+X40x10_04_methane-I2_monB
+0
+2.8069998341 X40x5_8153
+1
+X40x10_04_methane-I2_0.85
+-1
+X40x10_04_methane-I2_monA
+-1
+X40x10_04_methane-I2_monB
+0
+0.2220003003 X40x5_8154
+1
+X40x10_04_methane-I2_0.90
+-1
+X40x10_04_methane-I2_monA
+-1
+X40x10_04_methane-I2_monB
+0
+-0.9079999280 X40x5_8155
+1
+X40x10_04_methane-I2_0.95
+-1
+X40x10_04_methane-I2_monA
+-1
+X40x10_04_methane-I2_monB
+0
+-1.2950000784 X40x5_8156
+1
+X40x10_04_methane-I2_1.50
+-1
+X40x10_04_methane-I2_monA
+-1
+X40x10_04_methane-I2_monB
+0
+-0.1990001957 X40x5_8157
+1
+X40x10_05_fluoromethane-methane_0.80
+-1
+X40x10_05_fluoromethane-methane_monA
+-1
+X40x10_05_fluoromethane-methane_monB
+0
+0.7589996869 X40x5_8158
+1
+X40x10_05_fluoromethane-methane_0.85
+-1
+X40x10_05_fluoromethane-methane_monA
+-1
+X40x10_05_fluoromethane-methane_monB
+0
+-0.2870002412 X40x5_8159
+1
+X40x10_05_fluoromethane-methane_0.90
+-1
+X40x10_05_fluoromethane-methane_monA
+-1
+X40x10_05_fluoromethane-methane_monB
+0
+-0.6710002688 X40x5_8160
+1
+X40x10_05_fluoromethane-methane_0.95
+-1
+X40x10_05_fluoromethane-methane_monA
+-1
+X40x10_05_fluoromethane-methane_monB
+0
+-0.7549999415 X40x5_8161
+1
+X40x10_05_fluoromethane-methane_1.50
+-1
+X40x10_05_fluoromethane-methane_monA
+-1
+X40x10_05_fluoromethane-methane_monB
+0
+-0.1110001501 X40x5_8162
+1
+X40x10_06_chloromethane-methane_0.80
+-1
+X40x10_06_chloromethane-methane_monA
+-1
+X40x10_06_chloromethane-methane_monB
+0
+1.6979998377 X40x5_8163
+1
+X40x10_06_chloromethane-methane_0.85
+-1
+X40x10_06_chloromethane-methane_monA
+-1
+X40x10_06_chloromethane-methane_monB
+0
+-0.1310001320 X40x5_8164
+1
+X40x10_06_chloromethane-methane_0.90
+-1
+X40x10_06_chloromethane-methane_monA
+-1
+X40x10_06_chloromethane-methane_monB
+0
+-0.8090002690 X40x5_8165
+1
+X40x10_06_chloromethane-methane_0.95
+-1
+X40x10_06_chloromethane-methane_monA
+-1
+X40x10_06_chloromethane-methane_monB
+0
+-0.9879998553 X40x5_8166
+1
+X40x10_06_chloromethane-methane_1.50
+-1
+X40x10_06_chloromethane-methane_monA
+-1
+X40x10_06_chloromethane-methane_monB
+0
+-0.1599998546 X40x5_8167
+1
+X40x10_07_trifluoromethane-methane_0.80
+-1
+X40x10_07_trifluoromethane-methane_monA
+-1
+X40x10_07_trifluoromethane-methane_monB
+0
+0.3299997002 X40x5_8168
+1
+X40x10_07_trifluoromethane-methane_0.85
+-1
+X40x10_07_trifluoromethane-methane_monA
+-1
+X40x10_07_trifluoromethane-methane_monB
+0
+-0.4129997502 X40x5_8169
+1
+X40x10_07_trifluoromethane-methane_0.90
+-1
+X40x10_07_trifluoromethane-methane_monA
+-1
+X40x10_07_trifluoromethane-methane_monB
+0
+-0.6569999051 X40x5_8170
+1
+X40x10_07_trifluoromethane-methane_0.95
+-1
+X40x10_07_trifluoromethane-methane_monA
+-1
+X40x10_07_trifluoromethane-methane_monB
+0
+-0.6769998869 X40x5_8171
+1
+X40x10_07_trifluoromethane-methane_1.50
+-1
+X40x10_07_trifluoromethane-methane_monA
+-1
+X40x10_07_trifluoromethane-methane_monB
+0
+-0.0710001865 X40x5_8172
+1
+X40x10_08_trichloromethane-methane_0.80
+-1
+X40x10_08_trichloromethane-methane_monA
+-1
+X40x10_08_trichloromethane-methane_monB
+0
+1.6290001514 X40x5_8173
+1
+X40x10_08_trichloromethane-methane_0.85
+-1
+X40x10_08_trichloromethane-methane_monA
+-1
+X40x10_08_trichloromethane-methane_monB
+0
+-0.2069996864 X40x5_8174
+1
+X40x10_08_trichloromethane-methane_0.90
+-1
+X40x10_08_trichloromethane-methane_monA
+-1
+X40x10_08_trichloromethane-methane_monB
+0
+-0.9490001417 X40x5_8175
+1
+X40x10_08_trichloromethane-methane_0.95
+-1
+X40x10_08_trichloromethane-methane_monA
+-1
+X40x10_08_trichloromethane-methane_monB
+0
+-1.1559998282 X40x5_8176
+1
+X40x10_08_trichloromethane-methane_1.50
+-1
+X40x10_08_trichloromethane-methane_monA
+-1
+X40x10_08_trichloromethane-methane_monB
+0
+-0.1490002411 X40x5_8177
+1
+X40x10_09_fluoromethane-fluoromethane_0.80
+-1
+X40x10_09_fluoromethane-fluoromethane_monA
+-1
+X40x10_09_fluoromethane-fluoromethane_monB
+0
+0.6750000142 X40x5_8178
+1
+X40x10_09_fluoromethane-fluoromethane_0.85
+-1
+X40x10_09_fluoromethane-fluoromethane_monA
+-1
+X40x10_09_fluoromethane-fluoromethane_monB
+0
+-0.8490002326 X40x5_8179
+1
+X40x10_09_fluoromethane-fluoromethane_0.90
+-1
+X40x10_09_fluoromethane-fluoromethane_monA
+-1
+X40x10_09_fluoromethane-fluoromethane_monB
+0
+-1.4610001785 X40x5_8180
+1
+X40x10_09_fluoromethane-fluoromethane_0.95
+-1
+X40x10_09_fluoromethane-fluoromethane_monA
+-1
+X40x10_09_fluoromethane-fluoromethane_monB
+0
+-1.6279999013 X40x5_8181
+1
+X40x10_09_fluoromethane-fluoromethane_1.50
+-1
+X40x10_09_fluoromethane-fluoromethane_monA
+-1
+X40x10_09_fluoromethane-fluoromethane_monB
+0
+-0.5500001278 X40x5_8182
+1
+X40x10_10_chloromethane-chloromethane_0.80
+-1
+X40x10_10_chloromethane-chloromethane_monA
+-1
+X40x10_10_chloromethane-chloromethane_monB
+0
+1.2150001511 X40x5_8183
+1
+X40x10_10_chloromethane-chloromethane_0.85
+-1
+X40x10_10_chloromethane-chloromethane_monA
+-1
+X40x10_10_chloromethane-chloromethane_monB
+0
+-0.4450002232 X40x5_8184
+1
+X40x10_10_chloromethane-chloromethane_0.90
+-1
+X40x10_10_chloromethane-chloromethane_monA
+-1
+X40x10_10_chloromethane-chloromethane_monB
+0
+-1.1300002283 X40x5_8185
+1
+X40x10_10_chloromethane-chloromethane_0.95
+-1
+X40x10_10_chloromethane-chloromethane_monA
+-1
+X40x10_10_chloromethane-chloromethane_monB
+0
+-1.3319999193 X40x5_8186
+1
+X40x10_10_chloromethane-chloromethane_1.50
+-1
+X40x10_10_chloromethane-chloromethane_monA
+-1
+X40x10_10_chloromethane-chloromethane_monB
+0
+-0.3740000367 X40x5_8187
+1
+X40x10_11_benF3-ben_0.80
+-1
+X40x10_11_benF3-ben_monA
+-1
+X40x10_11_benF3-ben_monB
+0
+8.6329999441 X40x5_8188
+1
+X40x10_11_benF3-ben_0.85
+-1
+X40x10_11_benF3-ben_monA
+-1
+X40x10_11_benF3-ben_monB
+0
+1.5169997512 X40x5_8189
+1
+X40x10_11_benF3-ben_0.90
+-1
+X40x10_11_benF3-ben_monA
+-1
+X40x10_11_benF3-ben_monB
+0
+-2.1990002610 X40x5_8190
+1
+X40x10_11_benF3-ben_0.95
+-1
+X40x10_11_benF3-ben_monA
+-1
+X40x10_11_benF3-ben_monB
+0
+-3.9050002169 X40x5_8191
+1
+X40x10_11_benF3-ben_1.50
+-1
+X40x10_11_benF3-ben_monA
+-1
+X40x10_11_benF3-ben_monB
+0
+-1.0800002737 X40x5_8192
+1
+X40x10_12_benF6-ben_0.80
+-1
+X40x10_12_benF6-ben_monA
+-1
+X40x10_12_benF6-ben_monB
+0
+11.9490001872 X40x5_8193
+1
+X40x10_12_benF6-ben_0.85
+-1
+X40x10_12_benF6-ben_monA
+-1
+X40x10_12_benF6-ben_monB
+0
+1.7109999514 X40x5_8194
+1
+X40x10_12_benF6-ben_0.90
+-1
+X40x10_12_benF6-ben_monA
+-1
+X40x10_12_benF6-ben_monB
+0
+-3.3989997982 X40x5_8195
+1
+X40x10_12_benF6-ben_0.95
+-1
+X40x10_12_benF6-ben_monA
+-1
+X40x10_12_benF6-ben_monB
+0
+-5.6049999273 X40x5_8196
+1
+X40x10_12_benF6-ben_1.50
+-1
+X40x10_12_benF6-ben_monA
+-1
+X40x10_12_benF6-ben_monB
+0
+-1.5180000013 X40x5_8197
+1
+X40x10_13_chloromethane-formaldehyde_0.80
+-1
+X40x10_13_chloromethane-formaldehyde_monA
+-1
+X40x10_13_chloromethane-formaldehyde_monB
+0
+3.0540001117 X40x5_8198
+1
+X40x10_13_chloromethane-formaldehyde_0.85
+-1
+X40x10_13_chloromethane-formaldehyde_monA
+-1
+X40x10_13_chloromethane-formaldehyde_monB
+0
+0.1710000956 X40x5_8199
+1
+X40x10_13_chloromethane-formaldehyde_0.90
+-1
+X40x10_13_chloromethane-formaldehyde_monA
+-1
+X40x10_13_chloromethane-formaldehyde_monB
+0
+-0.8799998279 X40x5_8200
+1
+X40x10_13_chloromethane-formaldehyde_0.95
+-1
+X40x10_13_chloromethane-formaldehyde_monA
+-1
+X40x10_13_chloromethane-formaldehyde_monB
+0
+-1.1620000737 X40x5_8201
+1
+X40x10_13_chloromethane-formaldehyde_1.50
+-1
+X40x10_13_chloromethane-formaldehyde_monA
+-1
+X40x10_13_chloromethane-formaldehyde_monB
+0
+-0.1249998864 X40x5_8202
+1
+X40x10_14_bromomethane-formaldehyde_0.80
+-1
+X40x10_14_bromomethane-formaldehyde_monA
+-1
+X40x10_14_bromomethane-formaldehyde_monB
+0
+3.4639997391 X40x5_8203
+1
+X40x10_14_bromomethane-formaldehyde_0.85
+-1
+X40x10_14_bromomethane-formaldehyde_monA
+-1
+X40x10_14_bromomethane-formaldehyde_monB
+0
+0.4650002050 X40x5_8204
+1
+X40x10_14_bromomethane-formaldehyde_0.90
+-1
+X40x10_14_bromomethane-formaldehyde_monA
+-1
+X40x10_14_bromomethane-formaldehyde_monB
+0
+-0.9909999781 X40x5_8205
+1
+X40x10_14_bromomethane-formaldehyde_0.95
+-1
+X40x10_14_bromomethane-formaldehyde_monA
+-1
+X40x10_14_bromomethane-formaldehyde_monB
+0
+-1.6420002651 X40x5_8206
+1
+X40x10_14_bromomethane-formaldehyde_1.50
+-1
+X40x10_14_bromomethane-formaldehyde_monA
+-1
+X40x10_14_bromomethane-formaldehyde_monB
+0
+-0.1649998501 X40x5_8207
+1
+X40x10_15_iodomethane-formaldehyde_0.80
+-1
+X40x10_15_iodomethane-formaldehyde_monA
+-1
+X40x10_15_iodomethane-formaldehyde_monB
+0
+2.5259998384 X40x5_8208
+1
+X40x10_15_iodomethane-formaldehyde_0.85
+-1
+X40x10_15_iodomethane-formaldehyde_monA
+-1
+X40x10_15_iodomethane-formaldehyde_monB
+0
+-0.4409998503 X40x5_8209
+1
+X40x10_15_iodomethane-formaldehyde_0.90
+-1
+X40x10_15_iodomethane-formaldehyde_monA
+-1
+X40x10_15_iodomethane-formaldehyde_monB
+0
+-1.8170001061 X40x5_8210
+1
+X40x10_15_iodomethane-formaldehyde_0.95
+-1
+X40x10_15_iodomethane-formaldehyde_monA
+-1
+X40x10_15_iodomethane-formaldehyde_monB
+0
+-2.3110000337 X40x5_8211
+1
+X40x10_15_iodomethane-formaldehyde_1.50
+-1
+X40x10_15_iodomethane-formaldehyde_monA
+-1
+X40x10_15_iodomethane-formaldehyde_monB
+0
+-0.3279998275 X40x5_8212
+1
+X40x10_16_F3chloromethane-formaldehyde_0.80
+-1
+X40x10_16_F3chloromethane-formaldehyde_monA
+-1
+X40x10_16_F3chloromethane-formaldehyde_monB
+0
+1.1900001738 X40x5_8213
+1
+X40x10_16_F3chloromethane-formaldehyde_0.85
+-1
+X40x10_16_F3chloromethane-formaldehyde_monA
+-1
+X40x10_16_F3chloromethane-formaldehyde_monB
+0
+-0.9790001145 X40x5_8214
+1
+X40x10_16_F3chloromethane-formaldehyde_0.90
+-1
+X40x10_16_F3chloromethane-formaldehyde_monA
+-1
+X40x10_16_F3chloromethane-formaldehyde_monB
+0
+-1.9380002471 X40x5_8215
+1
+X40x10_16_F3chloromethane-formaldehyde_0.95
+-1
+X40x10_16_F3chloromethane-formaldehyde_monA
+-1
+X40x10_16_F3chloromethane-formaldehyde_monB
+0
+-2.2379999746 X40x5_8216
+1
+X40x10_16_F3chloromethane-formaldehyde_1.50
+-1
+X40x10_16_F3chloromethane-formaldehyde_monA
+-1
+X40x10_16_F3chloromethane-formaldehyde_monB
+0
+-0.4470000959 X40x5_8217
+1
+X40x10_17_F3bromomethane-formaldehyde_0.80
+-1
+X40x10_17_F3bromomethane-formaldehyde_monA
+-1
+X40x10_17_F3bromomethane-formaldehyde_monB
+0
+1.4399999466 X40x5_8218
+1
+X40x10_17_F3bromomethane-formaldehyde_0.85
+-1
+X40x10_17_F3bromomethane-formaldehyde_monA
+-1
+X40x10_17_F3bromomethane-formaldehyde_monB
+0
+-1.3569998965 X40x5_8219
+1
+X40x10_17_F3bromomethane-formaldehyde_0.90
+-1
+X40x10_17_F3bromomethane-formaldehyde_monA
+-1
+X40x10_17_F3bromomethane-formaldehyde_monB
+0
+-2.6359997384 X40x5_8220
+1
+X40x10_17_F3bromomethane-formaldehyde_0.95
+-1
+X40x10_17_F3bromomethane-formaldehyde_monA
+-1
+X40x10_17_F3bromomethane-formaldehyde_monB
+0
+-3.0649997252 X40x5_8221
+1
+X40x10_17_F3bromomethane-formaldehyde_1.50
+-1
+X40x10_17_F3bromomethane-formaldehyde_monA
+-1
+X40x10_17_F3bromomethane-formaldehyde_monB
+0
+-0.7099999824 X40x5_8222
+1
+X40x10_18_F3iodomethane-formaldehyde_0.80
+-1
+X40x10_18_F3iodomethane-formaldehyde_monA
+-1
+X40x10_18_F3iodomethane-formaldehyde_monB
+0
+1.4330000785 X40x5_8223
+1
+X40x10_18_F3iodomethane-formaldehyde_0.85
+-1
+X40x10_18_F3iodomethane-formaldehyde_monA
+-1
+X40x10_18_F3iodomethane-formaldehyde_monB
+0
+-1.9320000016 X40x5_8224
+1
+X40x10_18_F3iodomethane-formaldehyde_0.90
+-1
+X40x10_18_F3iodomethane-formaldehyde_monA
+-1
+X40x10_18_F3iodomethane-formaldehyde_monB
+0
+-3.4839997210 X40x5_8225
+1
+X40x10_18_F3iodomethane-formaldehyde_0.95
+-1
+X40x10_18_F3iodomethane-formaldehyde_monA
+-1
+X40x10_18_F3iodomethane-formaldehyde_monB
+0
+-4.0109997441 X40x5_8226
+1
+X40x10_18_F3iodomethane-formaldehyde_1.50
+-1
+X40x10_18_F3iodomethane-formaldehyde_monA
+-1
+X40x10_18_F3iodomethane-formaldehyde_monB
+0
+-0.9670002509 X40x5_8227
+1
+X40x10_19_benCl-acetone_0.80
+-1
+X40x10_19_benCl-acetone_monA
+-1
+X40x10_19_benCl-acetone_monB
+0
+0.9019996824 X40x5_8228
+1
+X40x10_19_benCl-acetone_0.85
+-1
+X40x10_19_benCl-acetone_monA
+-1
+X40x10_19_benCl-acetone_monB
+0
+-0.6250000596 X40x5_8229
+1
+X40x10_19_benCl-acetone_0.90
+-1
+X40x10_19_benCl-acetone_monA
+-1
+X40x10_19_benCl-acetone_monB
+0
+-1.2900000829 X40x5_8230
+1
+X40x10_19_benCl-acetone_0.95
+-1
+X40x10_19_benCl-acetone_monA
+-1
+X40x10_19_benCl-acetone_monB
+0
+-1.4869997784 X40x5_8231
+1
+X40x10_19_benCl-acetone_1.50
+-1
+X40x10_19_benCl-acetone_monA
+-1
+X40x10_19_benCl-acetone_monB
+0
+-0.1130000228 X40x5_8232
+1
+X40x10_20_benBr-acetone_0.80
+-1
+X40x10_20_benBr-acetone_monA
+-1
+X40x10_20_benBr-acetone_monB
+0
+1.6999997104 X40x5_8233
+1
+X40x10_20_benBr-acetone_0.85
+-1
+X40x10_20_benBr-acetone_monA
+-1
+X40x10_20_benBr-acetone_monB
+0
+-0.7790002962 X40x5_8234
+1
+X40x10_20_benBr-acetone_0.90
+-1
+X40x10_20_benBr-acetone_monA
+-1
+X40x10_20_benBr-acetone_monB
+0
+-1.9480002381 X40x5_8235
+1
+X40x10_20_benBr-acetone_0.95
+-1
+X40x10_20_benBr-acetone_monA
+-1
+X40x10_20_benBr-acetone_monB
+0
+-2.3740001020 X40x5_8236
+1
+X40x10_20_benBr-acetone_1.50
+-1
+X40x10_20_benBr-acetone_monA
+-1
+X40x10_20_benBr-acetone_monB
+0
+-0.4100002550 X40x5_8237
+1
+X40x10_21_benI-acetone_0.80
+-1
+X40x10_21_benI-acetone_monA
+-1
+X40x10_21_benI-acetone_monB
+0
+1.5779999467 X40x5_8238
+1
+X40x10_21_benI-acetone_0.85
+-1
+X40x10_21_benI-acetone_monA
+-1
+X40x10_21_benI-acetone_monB
+0
+-1.4439996920 X40x5_8239
+1
+X40x10_21_benI-acetone_0.90
+-1
+X40x10_21_benI-acetone_monA
+-1
+X40x10_21_benI-acetone_monB
+0
+-2.8719997750 X40x5_8240
+1
+X40x10_21_benI-acetone_0.95
+-1
+X40x10_21_benI-acetone_monA
+-1
+X40x10_21_benI-acetone_monB
+0
+-3.3809996890 X40x5_8241
+1
+X40x10_21_benI-acetone_1.50
+-1
+X40x10_21_benI-acetone_monA
+-1
+X40x10_21_benI-acetone_monB
+0
+-0.6760002643 X40x5_8242
+1
+X40x10_22_benCl-Nm3_0.80
+-1
+X40x10_22_benCl-Nm3_monA
+-1
+X40x10_22_benCl-Nm3_monB
+0
+1.6709999877 X40x5_8243
+1
+X40x10_22_benCl-Nm3_0.85
+-1
+X40x10_22_benCl-Nm3_monA
+-1
+X40x10_22_benCl-Nm3_monB
+0
+-0.6039998277 X40x5_8244
+1
+X40x10_22_benCl-Nm3_0.90
+-1
+X40x10_22_benCl-Nm3_monA
+-1
+X40x10_22_benCl-Nm3_monB
+0
+-1.6820002287 X40x5_8245
+1
+X40x10_22_benCl-Nm3_0.95
+-1
+X40x10_22_benCl-Nm3_monA
+-1
+X40x10_22_benCl-Nm3_monB
+0
+-2.0730001245 X40x5_8246
+1
+X40x10_22_benCl-Nm3_1.50
+-1
+X40x10_22_benCl-Nm3_monA
+-1
+X40x10_22_benCl-Nm3_monB
+0
+-0.3120002185 X40x5_8247
+1
+X40x10_23_benBr-Nm3_0.80
+-1
+X40x10_23_benBr-Nm3_monA
+-1
+X40x10_23_benBr-Nm3_monB
+0
+2.7860002297 X40x5_8248
+1
+X40x10_23_benBr-Nm3_0.85
+-1
+X40x10_23_benBr-Nm3_monA
+-1
+X40x10_23_benBr-Nm3_monB
+0
+-0.9579998826 X40x5_8249
+1
+X40x10_23_benBr-Nm3_0.90
+-1
+X40x10_23_benBr-Nm3_monA
+-1
+X40x10_23_benBr-Nm3_monB
+0
+-2.8399999296 X40x5_8250
+1
+X40x10_23_benBr-Nm3_0.95
+-1
+X40x10_23_benBr-Nm3_monA
+-1
+X40x10_23_benBr-Nm3_monB
+0
+-3.6099998575 X40x5_8251
+1
+X40x10_23_benBr-Nm3_1.50
+-1
+X40x10_23_benBr-Nm3_monA
+-1
+X40x10_23_benBr-Nm3_monB
+0
+-0.7819997915 X40x5_8252
+1
+X40x10_24_benI-Nm3_0.80
+-1
+X40x10_24_benI-Nm3_monA
+-1
+X40x10_24_benI-Nm3_monB
+0
+3.6319997120 X40x5_8253
+1
+X40x10_24_benI-Nm3_0.85
+-1
+X40x10_24_benI-Nm3_monA
+-1
+X40x10_24_benI-Nm3_monB
+0
+-1.7020002106 X40x5_8254
+1
+X40x10_24_benI-Nm3_0.90
+-1
+X40x10_24_benI-Nm3_monA
+-1
+X40x10_24_benI-Nm3_monB
+0
+-4.3940001491 X40x5_8255
+1
+X40x10_24_benI-Nm3_0.95
+-1
+X40x10_24_benI-Nm3_monA
+-1
+X40x10_24_benI-Nm3_monB
+0
+-5.5150000091 X40x5_8256
+1
+X40x10_24_benI-Nm3_1.50
+-1
+X40x10_24_benI-Nm3_monA
+-1
+X40x10_24_benI-Nm3_monB
+0
+-1.3289997965 X40x5_8257
+1
+X40x10_25_benBr-mSH_0.80
+-1
+X40x10_25_benBr-mSH_monA
+-1
+X40x10_25_benBr-mSH_monB
+0
+9.3349999396 X40x5_8258
+1
+X40x10_25_benBr-mSH_0.85
+-1
+X40x10_25_benBr-mSH_monA
+-1
+X40x10_25_benBr-mSH_monB
+0
+1.3780001285 X40x5_8259
+1
+X40x10_25_benBr-mSH_0.90
+-1
+X40x10_25_benBr-mSH_monA
+-1
+X40x10_25_benBr-mSH_monB
+0
+-1.4349999512 X40x5_8260
+1
+X40x10_25_benBr-mSH_0.95
+-1
+X40x10_25_benBr-mSH_monA
+-1
+X40x10_25_benBr-mSH_monB
+0
+-2.2540002110 X40x5_8261
+1
+X40x10_25_benBr-mSH_1.50
+-1
+X40x10_25_benBr-mSH_monA
+-1
+X40x10_25_benBr-mSH_monB
+0
+-0.3329998229 X40x5_8262
+1
+X40x10_26_benI-mSH_0.80
+-1
+X40x10_26_benI-mSH_monA
+-1
+X40x10_26_benI-mSH_monB
+0
+11.7159999242 X40x5_8263
+1
+X40x10_26_benI-mSH_0.85
+-1
+X40x10_26_benI-mSH_monA
+-1
+X40x10_26_benI-mSH_monB
+0
+3.6410000803 X40x5_8264
+1
+X40x10_26_benI-mSH_0.90
+-1
+X40x10_26_benI-mSH_monA
+-1
+X40x10_26_benI-mSH_monB
+0
+-1.2959997010 X40x5_8265
+1
+X40x10_26_benI-mSH_0.95
+-1
+X40x10_26_benI-mSH_monA
+-1
+X40x10_26_benI-mSH_monB
+0
+-2.8499999205 X40x5_8266
+1
+X40x10_26_benI-mSH_1.50
+-1
+X40x10_26_benI-mSH_monA
+-1
+X40x10_26_benI-mSH_monB
+0
+-0.4220001186 X40x5_8267
+1
+X40x10_27_CH3Br-ben_0.80
+-1
+X40x10_27_CH3Br-ben_monA
+-1
+X40x10_27_CH3Br-ben_monB
+0
+4.2710001354 X40x5_8268
+1
+X40x10_27_CH3Br-ben_0.85
+-1
+X40x10_27_CH3Br-ben_monA
+-1
+X40x10_27_CH3Br-ben_monB
+0
+0.7160002279 X40x5_8269
+1
+X40x10_27_CH3Br-ben_0.90
+-1
+X40x10_27_CH3Br-ben_monA
+-1
+X40x10_27_CH3Br-ben_monB
+0
+-1.0070002145 X40x5_8270
+1
+X40x10_27_CH3Br-ben_0.95
+-1
+X40x10_27_CH3Br-ben_monA
+-1
+X40x10_27_CH3Br-ben_monB
+0
+-1.7040000833 X40x5_8271
+1
+X40x10_27_CH3Br-ben_1.50
+-1
+X40x10_27_CH3Br-ben_monA
+-1
+X40x10_27_CH3Br-ben_monB
+0
+-0.2540001457 X40x5_8272
+1
+X40x10_28_CH3I-ben_0.80
+-1
+X40x10_28_CH3I-ben_monA
+-1
+X40x10_28_CH3I-ben_monB
+0
+6.8169999559 X40x5_8273
+1
+X40x10_28_CH3I-ben_0.85
+-1
+X40x10_28_CH3I-ben_monA
+-1
+X40x10_28_CH3I-ben_monB
+0
+1.6370002696 X40x5_8274
+1
+X40x10_28_CH3I-ben_0.90
+-1
+X40x10_28_CH3I-ben_monA
+-1
+X40x10_28_CH3I-ben_monB
+0
+-0.9990000963 X40x5_8275
+1
+X40x10_28_CH3I-ben_0.95
+-1
+X40x10_28_CH3I-ben_monA
+-1
+X40x10_28_CH3I-ben_monB
+0
+-2.1630000427 X40x5_8276
+1
+X40x10_28_CH3I-ben_1.50
+-1
+X40x10_28_CH3I-ben_monA
+-1
+X40x10_28_CH3I-ben_monB
+0
+-0.4629997048 X40x5_8277
+1
+X40x10_29_CF3Br-ben_0.80
+-1
+X40x10_29_CF3Br-ben_monA
+-1
+X40x10_29_CF3Br-ben_monB
+0
+3.9420000578 X40x5_8278
+1
+X40x10_29_CF3Br-ben_0.85
+-1
+X40x10_29_CF3Br-ben_monA
+-1
+X40x10_29_CF3Br-ben_monB
+0
+-0.2060000638 X40x5_8279
+1
+X40x10_29_CF3Br-ben_0.90
+-1
+X40x10_29_CF3Br-ben_monA
+-1
+X40x10_29_CF3Br-ben_monB
+0
+-2.2199998654 X40x5_8280
+1
+X40x10_29_CF3Br-ben_0.95
+-1
+X40x10_29_CF3Br-ben_monA
+-1
+X40x10_29_CF3Br-ben_monB
+0
+-3.0179998934 X40x5_8281
+1
+X40x10_29_CF3Br-ben_1.50
+-1
+X40x10_29_CF3Br-ben_monA
+-1
+X40x10_29_CF3Br-ben_monB
+0
+-0.7299999642 X40x5_8282
+1
+X40x10_30_CF3I-ben_0.80
+-1
+X40x10_30_CF3I-ben_monA
+-1
+X40x10_30_CF3I-ben_monB
+0
+6.5439999577 X40x5_8283
+1
+X40x10_30_CF3I-ben_0.85
+-1
+X40x10_30_CF3I-ben_monA
+-1
+X40x10_30_CF3I-ben_monB
+0
+0.6830001324 X40x5_8284
+1
+X40x10_30_CF3I-ben_0.90
+-1
+X40x10_30_CF3I-ben_monA
+-1
+X40x10_30_CF3I-ben_monB
+0
+-2.3049997882 X40x5_8285
+1
+X40x10_30_CF3I-ben_0.95
+-1
+X40x10_30_CF3I-ben_monA
+-1
+X40x10_30_CF3I-ben_monB
+0
+-3.6069997347 X40x5_8286
+1
+X40x10_30_CF3I-ben_1.50
+-1
+X40x10_30_CF3I-ben_monA
+-1
+X40x10_30_CF3I-ben_monB
+0
+-0.9840001099 X40x5_8287
+1
+X40x10_31_trifluorometOH-wat_0.80
+-1
+X40x10_31_trifluorometOH-wat_monA
+-1
+X40x10_31_trifluorometOH-wat_monB
+0
+-4.9349999086 X40x5_8288
+1
+X40x10_31_trifluorometOH-wat_0.85
+-1
+X40x10_31_trifluorometOH-wat_monA
+-1
+X40x10_31_trifluorometOH-wat_monB
+0
+-7.4559997515 X40x5_8289
+1
+X40x10_31_trifluorometOH-wat_0.90
+-1
+X40x10_31_trifluorometOH-wat_monA
+-1
+X40x10_31_trifluorometOH-wat_monB
+0
+-8.8489998663 X40x5_8290
+1
+X40x10_31_trifluorometOH-wat_0.95
+-1
+X40x10_31_trifluorometOH-wat_monA
+-1
+X40x10_31_trifluorometOH-wat_monB
+0
+-9.4770000488 X40x5_8291
+1
+X40x10_31_trifluorometOH-wat_1.50
+-1
+X40x10_31_trifluorometOH-wat_monA
+-1
+X40x10_31_trifluorometOH-wat_monB
+0
+-4.7080002403 X40x5_8292
+1
+X40x10_32_trichlorometOH-wat_0.80
+-1
+X40x10_32_trichlorometOH-wat_monA
+-1
+X40x10_32_trichlorometOH-wat_monB
+0
+-5.4039998590 X40x5_8293
+1
+X40x10_32_trichlorometOH-wat_0.85
+-1
+X40x10_32_trichlorometOH-wat_monA
+-1
+X40x10_32_trichlorometOH-wat_monB
+0
+-8.0559998339 X40x5_8294
+1
+X40x10_32_trichlorometOH-wat_0.90
+-1
+X40x10_32_trichlorometOH-wat_monA
+-1
+X40x10_32_trichlorometOH-wat_monB
+0
+-9.5309997487 X40x5_8295
+1
+X40x10_32_trichlorometOH-wat_0.95
+-1
+X40x10_32_trichlorometOH-wat_monA
+-1
+X40x10_32_trichlorometOH-wat_monB
+0
+-10.2070000130 X40x5_8296
+1
+X40x10_32_trichlorometOH-wat_1.50
+-1
+X40x10_32_trichlorometOH-wat_monA
+-1
+X40x10_32_trichlorometOH-wat_monB
+0
+-5.0469996813 X40x5_8297
+1
+X40x10_33_HF-mOH_0.80
+-1
+X40x10_33_HF-mOH_monA
+-1
+X40x10_33_HF-mOH_monB
+0
+-5.2409998816 X40x5_8298
+1
+X40x10_33_HF-mOH_0.85
+-1
+X40x10_33_HF-mOH_monA
+-1
+X40x10_33_HF-mOH_monB
+0
+-7.6439997062 X40x5_8299
+1
+X40x10_33_HF-mOH_0.90
+-1
+X40x10_33_HF-mOH_monA
+-1
+X40x10_33_HF-mOH_monB
+0
+-8.9219999255 X40x5_8300
+1
+X40x10_33_HF-mOH_0.95
+-1
+X40x10_33_HF-mOH_monA
+-1
+X40x10_33_HF-mOH_monB
+0
+-9.4529996941 X40x5_8301
+1
+X40x10_33_HF-mOH_1.50
+-1
+X40x10_33_HF-mOH_monA
+-1
+X40x10_33_HF-mOH_monB
+0
+-4.5350002720 X40x5_8302
+1
+X40x10_34_HCl-mOH_0.80
+-1
+X40x10_34_HCl-mOH_monA
+-1
+X40x10_34_HCl-mOH_monB
+0
+-2.7839997295 X40x5_8303
+1
+X40x10_34_HCl-mOH_0.85
+-1
+X40x10_34_HCl-mOH_monA
+-1
+X40x10_34_HCl-mOH_monB
+0
+-4.5979997128 X40x5_8304
+1
+X40x10_34_HCl-mOH_0.90
+-1
+X40x10_34_HCl-mOH_monA
+-1
+X40x10_34_HCl-mOH_monB
+0
+-5.6299999046 X40x5_8305
+1
+X40x10_34_HCl-mOH_0.95
+-1
+X40x10_34_HCl-mOH_monA
+-1
+X40x10_34_HCl-mOH_monB
+0
+-6.1250000824 X40x5_8306
+1
+X40x10_34_HCl-mOH_1.50
+-1
+X40x10_34_HCl-mOH_monA
+-1
+X40x10_34_HCl-mOH_monB
+0
+-3.0479998661 X40x5_8307
+1
+X40x10_35_HBr-mOH_0.80
+-1
+X40x10_35_HBr-mOH_monA
+-1
+X40x10_35_HBr-mOH_monB
+0
+-2.2129999973 X40x5_8308
+1
+X40x10_35_HBr-mOH_0.85
+-1
+X40x10_35_HBr-mOH_monA
+-1
+X40x10_35_HBr-mOH_monB
+0
+-3.7820002032 X40x5_8309
+1
+X40x10_35_HBr-mOH_0.90
+-1
+X40x10_35_HBr-mOH_monA
+-1
+X40x10_35_HBr-mOH_monB
+0
+-4.6950001267 X40x5_8310
+1
+X40x10_35_HBr-mOH_0.95
+-1
+X40x10_35_HBr-mOH_monA
+-1
+X40x10_35_HBr-mOH_monB
+0
+-5.1509999633 X40x5_8311
+1
+X40x10_35_HBr-mOH_1.50
+-1
+X40x10_35_HBr-mOH_monA
+-1
+X40x10_35_HBr-mOH_monB
+0
+-2.5900001567 X40x5_8312
+1
+X40x10_36_HI-mOH_0.80
+-1
+X40x10_36_HI-mOH_monA
+-1
+X40x10_36_HI-mOH_monB
+0
+-1.2339998828 X40x5_8313
+1
+X40x10_36_HI-mOH_0.85
+-1
+X40x10_36_HI-mOH_monA
+-1
+X40x10_36_HI-mOH_monB
+0
+-2.5629996793 X40x5_8314
+1
+X40x10_36_HI-mOH_0.90
+-1
+X40x10_36_HI-mOH_monA
+-1
+X40x10_36_HI-mOH_monB
+0
+-3.3559997118 X40x5_8315
+1
+X40x10_36_HI-mOH_0.95
+-1
+X40x10_36_HI-mOH_monA
+-1
+X40x10_36_HI-mOH_monB
+0
+-3.7699997121 X40x5_8316
+1
+X40x10_36_HI-mOH_1.50
+-1
+X40x10_36_HI-mOH_monA
+-1
+X40x10_36_HI-mOH_monB
+0
+-1.8839999197 X40x5_8317
+1
+X40x10_37_HF-mNH2_0.80
+-1
+X40x10_37_HF-mNH2_monA
+-1
+X40x10_37_HF-mNH2_monB
+0
+-9.0960001439 X40x5_8318
+1
+X40x10_37_HF-mNH2_0.85
+-1
+X40x10_37_HF-mNH2_monA
+-1
+X40x10_37_HF-mNH2_monB
+0
+-11.9690001690 X40x5_8319
+1
+X40x10_37_HF-mNH2_0.90
+-1
+X40x10_37_HF-mNH2_monA
+-1
+X40x10_37_HF-mNH2_monB
+0
+-13.5009999066 X40x5_8320
+1
+X40x10_37_HF-mNH2_0.95
+-1
+X40x10_37_HF-mNH2_monA
+-1
+X40x10_37_HF-mNH2_monB
+0
+-14.1229998434 X40x5_8321
+1
+X40x10_37_HF-mNH2_1.50
+-1
+X40x10_37_HF-mNH2_monA
+-1
+X40x10_37_HF-mNH2_monB
+0
+-6.8430001830 X40x5_8322
+1
+X40x10_38_HCl-mNH2_0.80
+-1
+X40x10_38_HCl-mNH2_monA
+-1
+X40x10_38_HCl-mNH2_monB
+0
+-6.6739999600 X40x5_8323
+1
+X40x10_38_HCl-mNH2_0.85
+-1
+X40x10_38_HCl-mNH2_monA
+-1
+X40x10_38_HCl-mNH2_monB
+0
+-9.0780000348 X40x5_8324
+1
+X40x10_38_HCl-mNH2_0.90
+-1
+X40x10_38_HCl-mNH2_monA
+-1
+X40x10_38_HCl-mNH2_monB
+0
+-10.4580000359 X40x5_8325
+1
+X40x10_38_HCl-mNH2_0.95
+-1
+X40x10_38_HCl-mNH2_monA
+-1
+X40x10_38_HCl-mNH2_monB
+0
+-11.1299999273 X40x5_8326
+1
+X40x10_38_HCl-mNH2_1.50
+-1
+X40x10_38_HCl-mNH2_monA
+-1
+X40x10_38_HCl-mNH2_monB
+0
+-6.0009998185 X40x5_8327
+1
+X40x10_39_methanol-fluoromethane_0.80
+-1
+X40x10_39_methanol-fluoromethane_monA
+-1
+X40x10_39_methanol-fluoromethane_monB
+0
+-1.6170002878 X40x5_8328
+1
+X40x10_39_methanol-fluoromethane_0.85
+-1
+X40x10_39_methanol-fluoromethane_monA
+-1
+X40x10_39_methanol-fluoromethane_monB
+0
+-2.9499998296 X40x5_8329
+1
+X40x10_39_methanol-fluoromethane_0.90
+-1
+X40x10_39_methanol-fluoromethane_monA
+-1
+X40x10_39_methanol-fluoromethane_monB
+0
+-3.6079999848 X40x5_8330
+1
+X40x10_39_methanol-fluoromethane_0.95
+-1
+X40x10_39_methanol-fluoromethane_monA
+-1
+X40x10_39_methanol-fluoromethane_monB
+0
+-3.8459998940 X40x5_8331
+1
+X40x10_39_methanol-fluoromethane_1.50
+-1
+X40x10_39_methanol-fluoromethane_monA
+-1
+X40x10_39_methanol-fluoromethane_monB
+0
+-1.5399998558 X40x5_8332
+1
+X40x10_40_methanol-chloromethane_0.80
+-1
+X40x10_40_methanol-chloromethane_monA
+-1
+X40x10_40_methanol-chloromethane_monB
+0
+-0.1419997455 X40x5_8333
+1
+X40x10_40_methanol-chloromethane_0.85
+-1
+X40x10_40_methanol-chloromethane_monA
+-1
+X40x10_40_methanol-chloromethane_monB
+0
+-2.2419997199 X40x5_8334
+1
+X40x10_40_methanol-chloromethane_0.90
+-1
+X40x10_40_methanol-chloromethane_monA
+-1
+X40x10_40_methanol-chloromethane_monB
+0
+-3.3009997617 X40x5_8335
+1
+X40x10_40_methanol-chloromethane_0.95
+-1
+X40x10_40_methanol-chloromethane_monA
+-1
+X40x10_40_methanol-chloromethane_monB
+0
+-3.7199997575 X40x5_8336
+1
+X40x10_40_methanol-chloromethane_1.50
+-1
+X40x10_40_methanol-chloromethane_monA
+-1
+X40x10_40_methanol-chloromethane_monB
+0
+-1.0859998918 X40x5_8337

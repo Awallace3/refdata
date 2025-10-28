@@ -1,0 +1,55 @@
+# Dataset: C20C246
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of C20 and C24 
+# Theory level = MP2-F12/[DT]Z (or MP2/[Q5]Z) +CCSD(T)/TZ
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 41.544779543619
+# Min energy (kcal/mol) = -5.83999975158997
+# Max energy (kcal/mol) = 84.6400001991969
+# Year last updated = 2016
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+14_C20CageD2h_C20C24
+-1
+11_C20BowlC5v_C20C24
+0
+8.2400000432 C20C246_1951
+1
+15_C20CageD3h_C20C24
+-1
+11_C20BowlC5v_C20C24
+0
+7.9099997155 C20C246_1952
+1
+16_C20RingC10h_C20C24
+-1
+11_C20BowlC5v_C20C24
+0
+45.8799997287 C20C246_1953
+1
+17_C24CageOh_C20C24
+-1
+19_C24CoronaD6h_C20C24
+0
+30.3700000160 C20C246_1954
+1
+18_C24CageD3d_C20C24
+-1
+19_C24CoronaD6h_C20C24
+0
+-5.8399997138 C20C246_1955
+1
+20_C24RingC12h_C20C24
+-1
+19_C24CoronaD6h_C20C24
+0
+84.6399996516 C20C246_1956

@@ -1,0 +1,499 @@
+# Dataset: Amino20x4
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of amino acid conformers
+# Theory level = MP2-F12/TZ-F12 + CCSD(Ts)-F12b/DZ-F12
+# Number of datapoints = 80.0
+# RMS energy (kcal/mol) = 2.97975006810852
+# Min energy (kcal/mol) = 0.057981875403144
+# Max energy (kcal/mol) = 7.37000527392306
+# Year last updated = 2016
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+Amino20x4_ALA_xag
+1
+Amino20x4_ALA_xac
+0
+1.1690005694 Amino20x4_402
+-1
+Amino20x4_ALA_xag
+1
+Amino20x4_ALA_xak
+0
+3.0490019987 Amino20x4_403
+-1
+Amino20x4_ALA_xag
+1
+Amino20x4_ALA_xai
+0
+3.3190023809 Amino20x4_404
+-1
+Amino20x4_ALA_xag
+1
+Amino20x4_ALA_xab
+0
+5.0440039511 Amino20x4_405
+-1
+Amino20x4_ARG_xci
+1
+Amino20x4_ARG_xak
+0
+1.5760013291 Amino20x4_406
+-1
+Amino20x4_ARG_xci
+1
+Amino20x4_ARG_xbv
+0
+2.5290018437 Amino20x4_407
+-1
+Amino20x4_ARG_xci
+1
+Amino20x4_ARG_xbx
+0
+2.8000018485 Amino20x4_408
+-1
+Amino20x4_ARG_xci
+1
+Amino20x4_ARG_xby
+0
+6.4590045480 Amino20x4_409
+-1
+Amino20x4_ASN_xaf
+1
+Amino20x4_ASN_xaj
+0
+0.3880004005 Amino20x4_410
+-1
+Amino20x4_ASN_xaf
+1
+Amino20x4_ASN_xae
+0
+4.1090029181 Amino20x4_411
+-1
+Amino20x4_ASN_xaf
+1
+Amino20x4_ASN_xab
+0
+4.7600038326 Amino20x4_412
+-1
+Amino20x4_ASN_xaf
+1
+Amino20x4_ASN_xah
+0
+6.5320046071 Amino20x4_413
+-1
+Amino20x4_ASP_xaz
+1
+Amino20x4_ASP_xad
+0
+0.1570003594 Amino20x4_414
+-1
+Amino20x4_ASP_xaz
+1
+Amino20x4_ASP_xay
+0
+1.9740017205 Amino20x4_415
+-1
+Amino20x4_ASP_xaz
+1
+Amino20x4_ASP_xau
+0
+2.8970022623 Amino20x4_416
+-1
+Amino20x4_ASP_xaz
+1
+Amino20x4_ASP_xbc
+0
+3.1130023171 Amino20x4_417
+-1
+Amino20x4_CYS_xai
+1
+Amino20x4_CYS_xah
+0
+0.2770002503 Amino20x4_418
+-1
+Amino20x4_CYS_xai
+1
+Amino20x4_CYS_xag
+0
+0.9790007420 Amino20x4_419
+-1
+Amino20x4_CYS_xai
+1
+Amino20x4_CYS_xao
+0
+0.9920008557 Amino20x4_420
+-1
+Amino20x4_CYS_xai
+1
+Amino20x4_CYS_xal
+0
+2.3730017344 Amino20x4_421
+-1
+Amino20x4_GLN_xai
+1
+Amino20x4_GLN_xan
+0
+0.4240006188 Amino20x4_422
+-1
+Amino20x4_GLN_xai
+1
+Amino20x4_GLN_xat
+0
+3.2720025491 Amino20x4_423
+-1
+Amino20x4_GLN_xai
+1
+Amino20x4_GLN_xap
+0
+4.0450032273 Amino20x4_424
+-1
+Amino20x4_GLN_xai
+1
+Amino20x4_GLN_xal
+0
+4.1520030046 Amino20x4_425
+-1
+Amino20x4_GLU_xbi
+1
+Amino20x4_GLU_xav
+0
+1.3350012970 Amino20x4_426
+-1
+Amino20x4_GLU_xbi
+1
+Amino20x4_GLU_xal
+0
+1.5450011062 Amino20x4_427
+-1
+Amino20x4_GLU_xbi
+1
+Amino20x4_GLU_xar
+0
+2.9390020987 Amino20x4_428
+-1
+Amino20x4_GLU_xbi
+1
+Amino20x4_GLU_xad
+0
+5.2160036693 Amino20x4_429
+-1
+Amino20x4_GLY_xac
+1
+Amino20x4_GLY_xae
+0
+1.0910005147 Amino20x4_430
+-1
+Amino20x4_GLY_xac
+1
+Amino20x4_GLY_xad
+0
+2.6270018802 Amino20x4_431
+-1
+Amino20x4_GLY_xac
+1
+Amino20x4_GLY_xab
+0
+2.7430020258 Amino20x4_432
+-1
+Amino20x4_GLY_xac
+1
+Amino20x4_GLY_xag
+0
+4.0860028135 Amino20x4_433
+-1
+Amino20x4_HIS_xaq
+1
+Amino20x4_HIS_xam
+0
+2.7690022531 Amino20x4_434
+-1
+Amino20x4_HIS_xaq
+1
+Amino20x4_HIS_xah
+0
+2.9920021760 Amino20x4_435
+-1
+Amino20x4_HIS_xaq
+1
+Amino20x4_HIS_xau
+0
+7.3180053990 Amino20x4_436
+-1
+Amino20x4_HIS_xaq
+1
+Amino20x4_HIS_xav
+0
+7.3700052262 Amino20x4_437
+-1
+Amino20x4_ILE_xae
+1
+Amino20x4_ILE_xaj
+0
+0.1870003321 Amino20x4_438
+-1
+Amino20x4_ILE_xae
+1
+Amino20x4_ILE_xaq
+0
+0.5950007144 Amino20x4_439
+-1
+Amino20x4_ILE_xae
+1
+Amino20x4_ILE_xag
+0
+0.9630005055 Amino20x4_440
+-1
+Amino20x4_ILE_xae
+1
+Amino20x4_ILE_xak
+0
+0.9950009785 Amino20x4_441
+-1
+Amino20x4_LEU_xap
+1
+Amino20x4_LEU_xad
+0
+0.3380004459 Amino20x4_442
+-1
+Amino20x4_LEU_xap
+1
+Amino20x4_LEU_xae
+0
+1.5240008743 Amino20x4_443
+-1
+Amino20x4_LEU_xap
+1
+Amino20x4_LEU_xbb
+0
+1.6860012291 Amino20x4_444
+-1
+Amino20x4_LEU_xap
+1
+Amino20x4_LEU_xaq
+0
+1.9520012384 Amino20x4_445
+-1
+Amino20x4_LYS_xap
+1
+Amino20x4_LYS_xao
+0
+0.0579818750 Amino20x4_446
+-1
+Amino20x4_LYS_xap
+1
+Amino20x4_LYS_xan
+0
+0.1990001957 Amino20x4_447
+-1
+Amino20x4_LYS_xap
+1
+Amino20x4_LYS_xas
+0
+0.4560004642 Amino20x4_448
+-1
+Amino20x4_LYS_xap
+1
+Amino20x4_LYS_xat
+0
+0.5400001369 Amino20x4_449
+-1
+Amino20x4_MET_xbf
+1
+Amino20x4_MET_xag
+0
+1.8140012383 Amino20x4_450
+-1
+Amino20x4_MET_xbf
+1
+Amino20x4_MET_xbm
+0
+2.4590019073 Amino20x4_451
+-1
+Amino20x4_MET_xbf
+1
+Amino20x4_MET_xav
+0
+2.4660017754 Amino20x4_452
+-1
+Amino20x4_MET_xbf
+1
+Amino20x4_MET_xbo
+0
+2.8960020122 Amino20x4_453
+-1
+Amino20x4_PHE_xaw
+1
+Amino20x4_PHE_xab
+0
+0.8720009647 Amino20x4_454
+-1
+Amino20x4_PHE_xaw
+1
+Amino20x4_PHE_xar
+0
+1.7190013246 Amino20x4_455
+-1
+Amino20x4_PHE_xaw
+1
+Amino20x4_PHE_xan
+0
+1.8400014657 Amino20x4_456
+-1
+Amino20x4_PHE_xaw
+1
+Amino20x4_PHE_xal
+0
+1.8890011702 Amino20x4_457
+-1
+Amino20x4_PRO_xae
+1
+Amino20x4_PRO_xad
+0
+1.3960008651 Amino20x4_458
+-1
+Amino20x4_PRO_xae
+1
+Amino20x4_PRO_xac
+0
+3.2110023535 Amino20x4_459
+-1
+Amino20x4_PRO_xae
+1
+Amino20x4_PRO_xaf
+0
+4.1870029728 Amino20x4_460
+-1
+Amino20x4_PRO_xae
+1
+Amino20x4_PRO_xab
+0
+6.0140043248 Amino20x4_461
+-1
+Amino20x4_SER_xad
+1
+Amino20x4_SER_xah
+0
+3.0260025216 Amino20x4_462
+-1
+Amino20x4_SER_xad
+1
+Amino20x4_SER_xaf
+0
+3.1030023262 Amino20x4_463
+-1
+Amino20x4_SER_xad
+1
+Amino20x4_SER_xak
+0
+3.5130025811 Amino20x4_464
+-1
+Amino20x4_SER_xad
+1
+Amino20x4_SER_xar
+0
+4.1830032274 Amino20x4_465
+-1
+Amino20x4_THR_xaq
+1
+Amino20x4_THR_xab
+0
+1.3390010424 Amino20x4_466
+-1
+Amino20x4_THR_xaq
+1
+Amino20x4_THR_xag
+0
+3.0800022216 Amino20x4_467
+-1
+Amino20x4_THR_xaq
+1
+Amino20x4_THR_xah
+0
+3.5060027130 Amino20x4_468
+-1
+Amino20x4_THR_xaq
+1
+Amino20x4_THR_xal
+0
+4.2240034411 Amino20x4_469
+-1
+Amino20x4_TRP_xao
+1
+Amino20x4_TRP_xag
+0
+1.2930008332 Amino20x4_470
+-1
+Amino20x4_TRP_xao
+1
+Amino20x4_TRP_xah
+0
+2.8280019485 Amino20x4_471
+-1
+Amino20x4_TRP_xao
+1
+Amino20x4_TRP_xaf
+0
+3.2440024491 Amino20x4_472
+-1
+Amino20x4_TRP_xao
+1
+Amino20x4_TRP_xac
+0
+4.0570030909 Amino20x4_473
+-1
+Amino20x4_TYR_xag
+1
+Amino20x4_TYR_xar
+0
+0.0930000410 Amino20x4_474
+-1
+Amino20x4_TYR_xag
+1
+Amino20x4_TYR_xab
+0
+0.9030005600 Amino20x4_475
+-1
+Amino20x4_TYR_xag
+1
+Amino20x4_TYR_xah
+0
+1.7070014611 Amino20x4_476
+-1
+Amino20x4_TYR_xag
+1
+Amino20x4_TYR_xan
+0
+1.7720014020 Amino20x4_477
+-1
+Amino20x4_VAL_xad
+1
+Amino20x4_VAL_xaj
+0
+0.8490008601 Amino20x4_478
+-1
+Amino20x4_VAL_xad
+1
+Amino20x4_VAL_xah
+0
+0.8600004736 Amino20x4_479
+-1
+Amino20x4_VAL_xad
+1
+Amino20x4_VAL_xaf
+0
+1.3550012789 Amino20x4_480
+-1
+Amino20x4_VAL_xad
+1
+Amino20x4_VAL_xak
+0
+1.4840009107 Amino20x4_481

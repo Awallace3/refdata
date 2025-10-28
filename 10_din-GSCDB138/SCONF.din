@@ -1,0 +1,121 @@
+# Dataset: SCONF
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of sugar conformers
+# Theory level = DLPNO-CCSD(T)/aug-cc-pV[TQ]Z
+# Number of datapoints = 17.0
+# RMS energy (kcal/mol) = 4.96349991286015
+# Min energy (kcal/mol) = 0.200000447081877
+# Max energy (kcal/mol) = 6.31000497517038
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+SCONF_C1
+1
+SCONF_C2
+0
+0.8600004736 SCONF_6882
+-1
+SCONF_C1
+1
+SCONF_C3
+0
+2.2800016934 SCONF_6883
+-1
+SCONF_C1
+1
+SCONF_C4
+0
+3.0800022216 SCONF_6884
+-1
+SCONF_C1
+1
+SCONF_C5
+0
+4.6000033505 SCONF_6885
+-1
+SCONF_C1
+1
+SCONF_C6
+0
+4.8700037327 SCONF_6886
+-1
+SCONF_C1
+1
+SCONF_C7
+0
+4.1600031228 SCONF_6887
+-1
+SCONF_C1
+1
+SCONF_C8
+0
+4.3800035504 SCONF_6888
+-1
+SCONF_C1
+1
+SCONF_C9
+0
+6.1900044159 SCONF_6889
+-1
+SCONF_C1
+1
+SCONF_C10
+0
+6.1800044250 SCONF_6890
+-1
+SCONF_C1
+1
+SCONF_C11
+0
+5.6500042790 SCONF_6891
+-1
+SCONF_C1
+1
+SCONF_C12
+0
+5.5900043335 SCONF_6892
+-1
+SCONF_C1
+1
+SCONF_C13
+0
+5.9300046521 SCONF_6893
+-1
+SCONF_C1
+1
+SCONF_C14
+0
+6.3100049343 SCONF_6894
+-1
+SCONF_C1
+1
+SCONF_C15
+0
+6.2200043886 SCONF_6895
+-1
+SCONF_G1
+1
+SCONF_G2
+0
+0.2000004458 SCONF_6896
+-1
+SCONF_G1
+1
+SCONF_G3
+0
+6.1600044431 SCONF_6897
+-1
+SCONF_G1
+1
+SCONF_G4
+0
+5.5400043790 SCONF_6898

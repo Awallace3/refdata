@@ -1,0 +1,89 @@
+# Dataset: HW6Cl5
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of Cl-(H2O)n (n = 1-6) 
+# Theory level = CCSD(T)-F12/[DT]Z
+# Number of datapoints = 5.0
+# RMS energy (kcal/mol) = 62.8422714534339
+# Min energy (kcal/mol) = -86.8599963139221
+# Max energy (kcal/mol) = -31.0099990076085
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+12_H2O2Cl_HW6Cl
+-1
+12_H2O2Cl_mon1_HW6Cl
+-1
+12_H2O2Cl_mon2_HW6Cl
+-1
+12_H2O2Cl_mon3_HW6Cl
+0
+-31.0099988070 HW6Cl5_3966
+1
+13_H2O3Cl_HW6Cl
+-1
+13_H2O3Cl_mon1_HW6Cl
+-1
+13_H2O3Cl_mon2_HW6Cl
+-1
+13_H2O3Cl_mon3_HW6Cl
+-1
+13_H2O3Cl_mon4_HW6Cl
+0
+-47.6199975202 HW6Cl5_3967
+1
+14_H2O4Cl_HW6Cl
+-1
+14_H2O4Cl_mon1_HW6Cl
+-1
+14_H2O4Cl_mon2_HW6Cl
+-1
+14_H2O4Cl_mon3_HW6Cl
+-1
+14_H2O4Cl_mon4_HW6Cl
+-1
+14_H2O4Cl_mon5_HW6Cl
+0
+-58.1999973198 HW6Cl5_3968
+1
+15_H2O5Cl_HW6Cl
+-1
+15_H2O5Cl_mon1_HW6Cl
+-1
+15_H2O5Cl_mon2_HW6Cl
+-1
+15_H2O5Cl_mon3_HW6Cl
+-1
+15_H2O5Cl_mon4_HW6Cl
+-1
+15_H2O5Cl_mon5_HW6Cl
+-1
+15_H2O5Cl_mon6_HW6Cl
+0
+-74.7299967332 HW6Cl5_3969
+1
+16_H2O6Cl_HW6Cl
+-1
+16_H2O6Cl_mon1_HW6Cl
+-1
+16_H2O6Cl_mon2_HW6Cl
+-1
+16_H2O6Cl_mon3_HW6Cl
+-1
+16_H2O6Cl_mon4_HW6Cl
+-1
+16_H2O6Cl_mon5_HW6Cl
+-1
+16_H2O6Cl_mon6_HW6Cl
+-1
+16_H2O6Cl_mon7_HW6Cl
+0
+-86.8599957519 HW6Cl5_3970

@@ -1,0 +1,111 @@
+# Dataset: NBPRC
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Oligomerizations and H2 fragmentations of NH3/BH3, H2 activation reactions with PH3/BH3 systems
+# Theory level = W2-F12
+# Number of datapoints = 12.0
+# RMS energy (kcal/mol) = 30.9092354052886
+# Min energy (kcal/mol) = -48.8999999999961
+# Max energy (kcal/mol) = 40.4000000000032
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+NBPRC_nh3
+-1
+NBPRC_BH3
+1
+NBPRC_nh3-bh3
+0
+-32.0999997926 NBPRC_5103
+-1
+NBPRC_nh3-bh3
+1
+NBPRC_nh2-bh2
+1
+NBPRC_H2
+0
+-0.1999999990 NBPRC_5104
+-1
+NBPRC_nh2-bh2
+1
+NBPRC_nh-bh
+1
+NBPRC_H2
+0
+37.5999997570 NBPRC_5105
+-2
+NBPRC_nh2-bh2
+1
+NBPRC_cbut
+0
+-19.4999998737 NBPRC_5106
+-3
+NBPRC_nh2-bh2
+1
+NBPRC_bz
+3
+NBPRC_H2
+0
+-48.8999996836 NBPRC_5107
+-3
+NBPRC_nh2-bh2
+1
+NBPRC_ch
+0
+-46.0999997020 NBPRC_5108
+1
+NBPRC_BH3PH3
+-1
+NBPRC_BH3
+-1
+NBPRC_PH3
+0
+-25.1999998371 NBPRC_5109
+1
+NBPRC_K_H
+-1
+NBPRC_BH3PH3
+-1
+NBPRC_H2
+0
+40.3999997386 NBPRC_5110
+1
+NBPRC_BF3PMe3
+-1
+NBPRC_BF3
+-1
+NBPRC_PMe3
+0
+-15.1999999015 NBPRC_5111
+1
+NBPRC_K_F
+-1
+NBPRC_BF3PMe3
+-1
+NBPRC_H2
+0
+18.4999998800 NBPRC_5112
+1
+NBPRC_BCl3PMe3
+-1
+NBPRC_BCl3
+-1
+NBPRC_PMe3
+0
+-31.1999997984 NBPRC_5113
+1
+NBPRC_K_Cl
+-1
+NBPRC_BCl3PMe3
+-1
+NBPRC_H2
+0
+17.5999998864 NBPRC_5114

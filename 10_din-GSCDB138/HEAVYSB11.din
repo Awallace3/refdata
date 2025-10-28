@@ -1,0 +1,85 @@
+# Dataset: HEAVYSB11
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Dissociation energies in heavy-element (i.e. Ge Se Sb) compounds
+# Theory level = CCSD(T)/awCV[TQ]Z-PP
+# Number of datapoints = 11.0
+# RMS energy (kcal/mol) = 58.5606610796812
+# Min energy (kcal/mol) = 43.7900332864767
+# Max energy (kcal/mol) = 73.8200557685215
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+2
+HEAVYSB11_geh3
+-1
+HEAVYSB11_ge2h6
+0
+73.8200552909 HEAVYSB11_3758
+2
+HEAVYSB11_snme3
+-1
+HEAVYSB11_sn2me6
+0
+61.7400461866 HEAVYSB11_3759
+2
+HEAVYSB11_pbme3
+-1
+HEAVYSB11_pb2me6
+0
+52.9200397678 HEAVYSB11_3760
+2
+HEAVYSB11_sh
+-1
+HEAVYSB11_h2s2
+0
+67.8500506751 HEAVYSB11_3761
+2
+HEAVYSB11_seh
+-1
+HEAVYSB11_h2se2
+0
+58.3700436010 HEAVYSB11_3762
+2
+HEAVYSB11_teme
+-1
+HEAVYSB11_te2me2
+0
+52.9100397769 HEAVYSB11_3763
+2
+HEAVYSB11_pme2
+-1
+HEAVYSB11_p2me4
+0
+61.8500460866 HEAVYSB11_3764
+2
+HEAVYSB11_asme2
+-1
+HEAVYSB11_as2me4
+0
+52.1800391851 HEAVYSB11_3765
+2
+HEAVYSB11_sbme2
+-1
+HEAVYSB11_sb2me4
+0
+43.7900330032 HEAVYSB11_3766
+2
+HEAVYSB11_cl
+-1
+HEAVYSB11_cl2
+0
+59.6500449480 HEAVYSB11_3767
+2
+HEAVYSB11_br
+-1
+HEAVYSB11_br2
+0
+53.1700395406 HEAVYSB11_3768

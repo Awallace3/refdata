@@ -1,0 +1,77 @@
+# Dataset: ALK8
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Dissociation and other reactions of alkaline compounds
+# Theory level = CCSD(T)/awCV[TQ]Z//PBEh-3c
+# Number of datapoints = 8.0
+# RMS energy (kcal/mol) = 69.9711964785446
+# Min energy (kcal/mol) = 25.3000192190438
+# Max energy (kcal/mol) = 131.130098820924
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+ALK8_li8
+4
+ALK8_li2
+0
+86.4700645048 ALK8_340
+-1
+ALK8_na8
+4
+ALK8_na2
+0
+53.1500395588 ALK8_341
+-1
+ALK8_li4_me4
+4
+ALK8_li_me
+0
+131.1300979725 ALK8_342
+-1
+ALK8_li3_me
+1
+ALK8_li_me
+1
+ALK8_li2
+0
+34.5100257473 ALK8_343
+-1
+ALK8_li2_ch4
+1
+ALK8_li_me
+1
+ALK8_li_h
+0
+47.4200353525 ALK8_344
+-1
+ALK8_li5_ch
+1
+ALK8_li4_c
+1
+ALK8_li_h
+0
+66.2800495916 ALK8_345
+-1
+ALK8_li2_ch2n_2
+2
+ALK8_li_ch2n
+0
+56.5500421171 ALK8_346
+-1
+ALK8_na+
+-1
+ALK8_li_na_h2
+1
+ALK8_li+
+1
+ALK8_na2_h2
+0
+25.3000190554 ALK8_347

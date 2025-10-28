@@ -1,0 +1,207 @@
+# Dataset: BH28
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Highly accurate subset chosen from BHPERI, CRBH20, BHDIV10, and PX13 sets
+# Theory level = W3lite-F12
+# Number of datapoints = 28.0
+# RMS energy (kcal/mol) = 35.1841771849604
+# Min energy (kcal/mol) = 0.717017425439918
+# Max energy (kcal/mol) = 65.5592731857534
+# Year last updated = 2019
+# Error (kcal/mol) = 0.22 on DBH24
+#
+#@ fieldasrxn 999
+1
+BH28_BHDIV_1_ts
+-1
+BH28_BHDIV_1_min
+0
+56.9550668495 BH28_581
+1
+BH28_BHDIV_2_ts
+-1
+BH28_BHDIV_2_min
+0
+50.0956020731 BH28_582
+1
+BH28_BHDIV_3_ts
+-1
+BH28_BHDIV_3_min
+0
+65.5592727616 BH28_583
+1
+BH28_BHPERI_1_ts
+-1
+BH28_BHPERI_1_min
+0
+35.0143400481 BH28_584
+1
+BH28_BHPERI_2_ts
+-1
+BH28_BHPERI_2_min
+0
+30.9990437466 BH28_585
+1
+BH28_BHPERI_3_ts
+-1
+BH28_BHPERI_3_min
+0
+39.8661566738 BH28_586
+1
+BH28_BHPERI_4_ts
+-1
+BH28_BHPERI_4_min
+0
+28.4894834014 BH28_587
+1
+BH28_BHPERI_5_ts
+-1
+BH28_BHPERI_5_min
+0
+37.1175905216 BH28_588
+1
+BH28_BHPERI_6_ts
+-1
+BH28_BHPERI_6_min
+-1
+BH28_CADBH_c2h4
+0
+22.4426383685 BH28_589
+1
+BH28_CADBH_1_ts
+-1
+BH28_CADBH_1_min
+-1
+BH28_CADBH_c2h4
+0
+27.5573613818 BH28_590
+1
+BH28_CADBH_2_ts
+-1
+BH28_CADBH_2_min
+-1
+BH28_CADBH_c2h4
+0
+20.1003820880 BH28_591
+1
+BH28_CADBH_3_ts
+-1
+BH28_CADBH_3_min
+-1
+BH28_CADBH_c2h4
+0
+13.8862329903 BH28_592
+1
+BH28_CADBH_4_ts
+-1
+BH28_CADBH_4_min
+-1
+BH28_CADBH_c2h4
+0
+11.6395790326 BH28_593
+1
+BH28_CADBH_5_ts
+-1
+BH28_CADBH_5_min
+-1
+BH28_CADBH_c2h4
+0
+6.6682601309 BH28_594
+1
+BH28_CADBH_6_ts
+-1
+BH28_CADBH_6_min
+-1
+BH28_CADBH_c2h4
+0
+4.9474189485 BH28_595
+1
+BH28_CADBH_7_ts
+-1
+BH28_CADBH_7_min
+-1
+BH28_CADBH_c2h4
+0
+13.2648185198 BH28_596
+1
+BH28_CADBH_8_ts
+-1
+BH28_CADBH_8_min
+-1
+BH28_CADBH_c2h4
+0
+6.2141490977 BH28_597
+1
+BH28_CADBH_9_ts
+-1
+BH28_CADBH_9_min
+-1
+BH28_CADBH_c2h4
+0
+0.7170174208 BH28_598
+1
+BH28_CRBH_1_ts
+-1
+BH28_CRBH_1_min
+0
+46.1520075137 BH28_599
+1
+BH28_CRBH_2_ts
+-1
+BH28_CRBH_2_min
+0
+49.8804968468 BH28_600
+1
+BH28_CRBH_3_ts
+-1
+BH28_CRBH_3_min
+0
+42.9493303283 BH28_601
+1
+BH28_CRBH_4_ts
+-1
+BH28_CRBH_4_min
+0
+44.8852767369 BH28_602
+1
+BH28_CRBH_5_ts
+-1
+BH28_CRBH_5_min
+0
+50.8843206084 BH28_603
+1
+BH28_CRBH_6_ts
+-1
+BH28_CRBH_6_min
+0
+42.7103245213 BH28_604
+1
+BH28_PXBH_1_ts
+-1
+BH28_PXBH_1_min
+0
+48.4464626327 BH28_605
+1
+BH28_PXBH_2_ts
+-1
+BH28_PXBH_2_min
+0
+26.6730398962 BH28_606
+1
+BH28_PXBH_3_ts
+-1
+BH28_PXBH_3_min
+0
+14.4598469269 BH28_607
+1
+BH28_PXBH_4_ts
+-1
+BH28_PXBH_4_min
+0
+14.3881451848 BH28_608

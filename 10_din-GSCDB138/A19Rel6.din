@@ -1,0 +1,703 @@
+# Dataset: A19Rel6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Relative energies of 19 complexes from the A24 set on potential energy curves (PECs)
+# Theory level = HF/aQZ+G18+G20
+# Number of datapoints = 114.0
+# RMS energy (kcal/mol) = 1.64879167062418
+# Min energy (kcal/mol) = 0.0760001824413028
+# Max energy (kcal/mol) = 5.97599987990299
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+01_water-ammonia_0p9_dim_A21x12
+-1
+01_water-ammonia_1p0_dim_A21x12
+0
+1.8659998106 A19Rel6_125
+1
+01_water-ammonia_1p1_dim_A21x12
+-1
+01_water-ammonia_1p0_dim_A21x12
+0
+0.8099998915 A19Rel6_126
+1
+01_water-ammonia_1p2_dim_A21x12
+-1
+01_water-ammonia_1p0_dim_A21x12
+0
+2.0999999745 A19Rel6_127
+1
+01_water-ammonia_1p4_dim_A21x12
+-1
+01_water-ammonia_1p0_dim_A21x12
+0
+4.0809996805 A19Rel6_128
+1
+01_water-ammonia_1p6_dim_A21x12
+-1
+01_water-ammonia_1p0_dim_A21x12
+0
+5.1369995995 A19Rel6_129
+1
+01_water-ammonia_2p0_dim_A21x12
+-1
+01_water-ammonia_1p0_dim_A21x12
+0
+5.9759998412 A19Rel6_130
+1
+03_HCN-dimer_0p9_dim_A21x12
+-1
+03_HCN-dimer_1p0_dim_A21x12
+0
+3.0779998388 A19Rel6_131
+1
+03_HCN-dimer_1p1_dim_A21x12
+-1
+03_HCN-dimer_1p0_dim_A21x12
+0
+0.8560001007 A19Rel6_132
+1
+03_HCN-dimer_1p2_dim_A21x12
+-1
+03_HCN-dimer_1p0_dim_A21x12
+0
+1.9409997424 A19Rel6_133
+1
+03_HCN-dimer_1p4_dim_A21x12
+-1
+03_HCN-dimer_1p0_dim_A21x12
+0
+3.2220000845 A19Rel6_134
+1
+03_HCN-dimer_1p6_dim_A21x12
+-1
+03_HCN-dimer_1p0_dim_A21x12
+0
+3.8109999258 A19Rel6_135
+1
+03_HCN-dimer_2p0_dim_A21x12
+-1
+03_HCN-dimer_1p0_dim_A21x12
+0
+4.2989996079 A19Rel6_136
+1
+04_HF-dimer_0p9_dim_A21x12
+-1
+04_HF-dimer_1p0_dim_A21x12
+0
+1.4860001558 A19Rel6_137
+1
+04_HF-dimer_1p1_dim_A21x12
+-1
+04_HF-dimer_1p0_dim_A21x12
+0
+0.6050000778 A19Rel6_138
+1
+04_HF-dimer_1p2_dim_A21x12
+-1
+04_HF-dimer_1p0_dim_A21x12
+0
+1.5289996148 A19Rel6_139
+1
+04_HF-dimer_1p4_dim_A21x12
+-1
+04_HF-dimer_1p0_dim_A21x12
+0
+2.8849998887 A19Rel6_140
+1
+04_HF-dimer_1p6_dim_A21x12
+-1
+04_HF-dimer_1p0_dim_A21x12
+0
+3.5999998666 A19Rel6_141
+1
+04_HF-dimer_2p0_dim_A21x12
+-1
+04_HF-dimer_1p0_dim_A21x12
+0
+4.1919998307 A19Rel6_142
+1
+05_ammonia-dimer_0p9_dim_A21x12
+-1
+05_ammonia-dimer_1p0_dim_A21x12
+0
+1.1320001010 A19Rel6_143
+1
+05_ammonia-dimer_1p1_dim_A21x12
+-1
+05_ammonia-dimer_1p0_dim_A21x12
+0
+0.4459998458 A19Rel6_144
+1
+05_ammonia-dimer_1p2_dim_A21x12
+-1
+05_ammonia-dimer_1p0_dim_A21x12
+0
+1.1229997326 A19Rel6_145
+1
+05_ammonia-dimer_1p4_dim_A21x12
+-1
+05_ammonia-dimer_1p0_dim_A21x12
+0
+2.0919998562 A19Rel6_146
+1
+05_ammonia-dimer_1p6_dim_A21x12
+-1
+05_ammonia-dimer_1p0_dim_A21x12
+0
+2.5689999248 A19Rel6_147
+1
+05_ammonia-dimer_2p0_dim_A21x12
+-1
+05_ammonia-dimer_1p0_dim_A21x12
+0
+2.9260001025 A19Rel6_148
+1
+06_HF-methane_0p9_dim_A21x12
+-1
+06_HF-methane_1p0_dim_A21x12
+0
+0.7999999006 A19Rel6_149
+1
+06_HF-methane_1p1_dim_A21x12
+-1
+06_HF-methane_1p0_dim_A21x12
+0
+0.3170002140 A19Rel6_150
+1
+06_HF-methane_1p2_dim_A21x12
+-1
+06_HF-methane_1p0_dim_A21x12
+0
+0.7439997005 A19Rel6_151
+1
+06_HF-methane_1p4_dim_A21x12
+-1
+06_HF-methane_1p0_dim_A21x12
+0
+1.2830002148 A19Rel6_152
+1
+06_HF-methane_1p6_dim_A21x12
+-1
+06_HF-methane_1p0_dim_A21x12
+0
+1.5069997602 A19Rel6_153
+1
+06_HF-methane_2p0_dim_A21x12
+-1
+06_HF-methane_1p0_dim_A21x12
+0
+1.6460000105 A19Rel6_154
+1
+07_ammonia-methane_0p9_dim_A21x12
+-1
+07_ammonia-methane_1p0_dim_A21x12
+0
+0.4570000868 A19Rel6_155
+1
+07_ammonia-methane_1p1_dim_A21x12
+-1
+07_ammonia-methane_1p0_dim_A21x12
+0
+0.1449998683 A19Rel6_156
+1
+07_ammonia-methane_1p2_dim_A21x12
+-1
+07_ammonia-methane_1p0_dim_A21x12
+0
+0.3470001867 A19Rel6_157
+1
+07_ammonia-methane_1p4_dim_A21x12
+-1
+07_ammonia-methane_1p0_dim_A21x12
+0
+0.5939998368 A19Rel6_158
+1
+07_ammonia-methane_1p6_dim_A21x12
+-1
+07_ammonia-methane_1p0_dim_A21x12
+0
+0.6910002507 A19Rel6_159
+1
+07_ammonia-methane_2p0_dim_A21x12
+-1
+07_ammonia-methane_1p0_dim_A21x12
+0
+0.7469998233 A19Rel6_160
+1
+08_water-methane_0p9_dim_A21x12
+-1
+08_water-methane_1p0_dim_A21x12
+0
+0.4359998549 A19Rel6_161
+1
+08_water-methane_1p1_dim_A21x12
+-1
+08_water-methane_1p0_dim_A21x12
+0
+0.1340002548 A19Rel6_162
+1
+08_water-methane_1p2_dim_A21x12
+-1
+08_water-methane_1p0_dim_A21x12
+0
+0.3109999684 A19Rel6_163
+1
+08_water-methane_1p4_dim_A21x12
+-1
+08_water-methane_1p0_dim_A21x12
+0
+0.5189999049 A19Rel6_164
+1
+08_water-methane_1p6_dim_A21x12
+-1
+08_water-methane_1p0_dim_A21x12
+0
+0.6000000823 A19Rel6_165
+1
+08_water-methane_2p0_dim_A21x12
+-1
+08_water-methane_1p0_dim_A21x12
+0
+0.6489997868 A19Rel6_166
+1
+09_formaldehyde-dimer_0p9_dim_A21x12
+-1
+09_formaldehyde-dimer_1p0_dim_A21x12
+0
+1.1439999646 A19Rel6_167
+1
+09_formaldehyde-dimer_1p1_dim_A21x12
+-1
+09_formaldehyde-dimer_1p0_dim_A21x12
+0
+0.5220000277 A19Rel6_168
+1
+09_formaldehyde-dimer_1p2_dim_A21x12
+-1
+09_formaldehyde-dimer_1p0_dim_A21x12
+0
+1.3709996328 A19Rel6_169
+1
+09_formaldehyde-dimer_1p4_dim_A21x12
+-1
+09_formaldehyde-dimer_1p0_dim_A21x12
+0
+2.7150000432 A19Rel6_170
+1
+09_formaldehyde-dimer_1p6_dim_A21x12
+-1
+09_formaldehyde-dimer_1p0_dim_A21x12
+0
+3.4539997482 A19Rel6_171
+1
+09_formaldehyde-dimer_2p0_dim_A21x12
+-1
+09_formaldehyde-dimer_1p0_dim_A21x12
+0
+4.0759996851 A19Rel6_172
+1
+10_water-ethene_0p9_dim_A21x12
+-1
+10_water-ethene_1p0_dim_A21x12
+0
+0.9319996552 A19Rel6_173
+1
+10_water-ethene_1p1_dim_A21x12
+-1
+10_water-ethene_1p0_dim_A21x12
+0
+0.3709999139 A19Rel6_174
+1
+10_water-ethene_1p2_dim_A21x12
+-1
+10_water-ethene_1p0_dim_A21x12
+0
+0.9399997734 A19Rel6_175
+1
+10_water-ethene_1p4_dim_A21x12
+-1
+10_water-ethene_1p0_dim_A21x12
+0
+1.7549996604 A19Rel6_176
+1
+10_water-ethene_1p6_dim_A21x12
+-1
+10_water-ethene_1p0_dim_A21x12
+0
+2.1499999290 A19Rel6_177
+1
+10_water-ethene_2p0_dim_A21x12
+-1
+10_water-ethene_1p0_dim_A21x12
+0
+2.4320001748 A19Rel6_178
+1
+11_formaldehyde-ethene_0p9_dim_A21x12
+-1
+11_formaldehyde-ethene_1p0_dim_A21x12
+0
+0.7680000552 A19Rel6_179
+1
+11_formaldehyde-ethene_1p1_dim_A21x12
+-1
+11_formaldehyde-ethene_1p0_dim_A21x12
+0
+0.2660000093 A19Rel6_180
+1
+11_formaldehyde-ethene_1p2_dim_A21x12
+-1
+11_formaldehyde-ethene_1p0_dim_A21x12
+0
+0.6500000369 A19Rel6_181
+1
+11_formaldehyde-ethene_1p4_dim_A21x12
+-1
+11_formaldehyde-ethene_1p0_dim_A21x12
+0
+1.1620000737 A19Rel6_182
+1
+11_formaldehyde-ethene_1p6_dim_A21x12
+-1
+11_formaldehyde-ethene_1p0_dim_A21x12
+0
+1.3930001148 A19Rel6_183
+1
+11_formaldehyde-ethene_2p0_dim_A21x12
+-1
+11_formaldehyde-ethene_1p0_dim_A21x12
+0
+1.5510000968 A19Rel6_184
+1
+12_ethyne-dimer_0p9_dim_A21x12
+-1
+12_ethyne-dimer_1p0_dim_A21x12
+0
+1.1200002374 A19Rel6_185
+1
+12_ethyne-dimer_1p1_dim_A21x12
+-1
+12_ethyne-dimer_1p0_dim_A21x12
+0
+0.3029998502 A19Rel6_186
+1
+12_ethyne-dimer_1p2_dim_A21x12
+-1
+12_ethyne-dimer_1p0_dim_A21x12
+0
+0.7089997323 A19Rel6_187
+1
+12_ethyne-dimer_1p4_dim_A21x12
+-1
+12_ethyne-dimer_1p0_dim_A21x12
+0
+1.1770000601 A19Rel6_188
+1
+12_ethyne-dimer_1p6_dim_A21x12
+-1
+12_ethyne-dimer_1p0_dim_A21x12
+0
+1.3600000193 A19Rel6_189
+1
+12_ethyne-dimer_2p0_dim_A21x12
+-1
+12_ethyne-dimer_1p0_dim_A21x12
+0
+1.4710001695 A19Rel6_190
+1
+13_ammonia-ethene_0p9_dim_A21x12
+-1
+13_ammonia-ethene_1p0_dim_A21x12
+0
+0.6430001688 A19Rel6_191
+1
+13_ammonia-ethene_1p1_dim_A21x12
+-1
+13_ammonia-ethene_1p0_dim_A21x12
+0
+0.2249997956 A19Rel6_192
+1
+13_ammonia-ethene_1p2_dim_A21x12
+-1
+13_ammonia-ethene_1p0_dim_A21x12
+0
+0.5539998731 A19Rel6_193
+1
+13_ammonia-ethene_1p4_dim_A21x12
+-1
+13_ammonia-ethene_1p0_dim_A21x12
+0
+0.9929998508 A19Rel6_194
+1
+13_ammonia-ethene_1p6_dim_A21x12
+-1
+13_ammonia-ethene_1p0_dim_A21x12
+0
+1.1889999237 A19Rel6_195
+1
+13_ammonia-ethene_2p0_dim_A21x12
+-1
+13_ammonia-ethene_1p0_dim_A21x12
+0
+1.3189998056 A19Rel6_196
+1
+14_ethene-dimer_0p9_dim_A21x12
+-1
+14_ethene-dimer_1p0_dim_A21x12
+0
+0.5989998322 A19Rel6_197
+1
+14_ethene-dimer_1p1_dim_A21x12
+-1
+14_ethene-dimer_1p0_dim_A21x12
+0
+0.1829999592 A19Rel6_198
+1
+14_ethene-dimer_1p2_dim_A21x12
+-1
+14_ethene-dimer_1p0_dim_A21x12
+0
+0.4559998367 A19Rel6_199
+1
+14_ethene-dimer_1p4_dim_A21x12
+-1
+14_ethene-dimer_1p0_dim_A21x12
+0
+0.8099998915 A19Rel6_200
+1
+14_ethene-dimer_1p6_dim_A21x12
+-1
+14_ethene-dimer_1p0_dim_A21x12
+0
+0.9590001327 A19Rel6_201
+1
+14_ethene-dimer_2p0_dim_A21x12
+-1
+14_ethene-dimer_1p0_dim_A21x12
+0
+1.0509999236 A19Rel6_202
+1
+15_methane-ethene_0p9_dim_A21x12
+-1
+15_methane-ethene_1p0_dim_A21x12
+0
+0.3529998048 A19Rel6_203
+1
+15_methane-ethene_1p1_dim_A21x12
+-1
+15_methane-ethene_1p0_dim_A21x12
+0
+0.0980000365 A19Rel6_204
+1
+15_methane-ethene_1p2_dim_A21x12
+-1
+15_methane-ethene_1p0_dim_A21x12
+0
+0.2360000366 A19Rel6_205
+1
+15_methane-ethene_1p4_dim_A21x12
+-1
+15_methane-ethene_1p0_dim_A21x12
+0
+0.3979997639 A19Rel6_206
+1
+15_methane-ethene_1p6_dim_A21x12
+-1
+15_methane-ethene_1p0_dim_A21x12
+0
+0.4600002095 A19Rel6_207
+1
+15_methane-ethene_2p0_dim_A21x12
+-1
+15_methane-ethene_1p0_dim_A21x12
+0
+0.4950001777 A19Rel6_208
+1
+16_borane-methane_0p9_dim_A21x12
+-1
+16_borane-methane_1p0_dim_A21x12
+0
+0.5569999959 A19Rel6_209
+1
+16_borane-methane_1p1_dim_A21x12
+-1
+16_borane-methane_1p0_dim_A21x12
+0
+0.2279999183 A19Rel6_210
+1
+16_borane-methane_1p2_dim_A21x12
+-1
+16_borane-methane_1p0_dim_A21x12
+0
+0.5809997231 A19Rel6_211
+1
+16_borane-methane_1p4_dim_A21x12
+-1
+16_borane-methane_1p0_dim_A21x12
+0
+1.0799996462 A19Rel6_212
+1
+16_borane-methane_1p6_dim_A21x12
+-1
+16_borane-methane_1p0_dim_A21x12
+0
+1.3019999465 A19Rel6_213
+1
+16_borane-methane_2p0_dim_A21x12
+-1
+16_borane-methane_1p0_dim_A21x12
+0
+1.4369998238 A19Rel6_214
+1
+17_methane-ethane_0p9_dim_A21x12
+-1
+17_methane-ethane_1p0_dim_A21x12
+0
+0.5189999049 A19Rel6_215
+1
+17_methane-ethane_1p1_dim_A21x12
+-1
+17_methane-ethane_1p0_dim_A21x12
+0
+0.1610001047 A19Rel6_216
+1
+17_methane-ethane_1p2_dim_A21x12
+-1
+17_methane-ethane_1p0_dim_A21x12
+0
+0.3829997775 A19Rel6_217
+1
+17_methane-ethane_1p4_dim_A21x12
+-1
+17_methane-ethane_1p0_dim_A21x12
+0
+0.6480001642 A19Rel6_218
+1
+17_methane-ethane_1p6_dim_A21x12
+-1
+17_methane-ethane_1p0_dim_A21x12
+0
+0.7499999461 A19Rel6_219
+1
+17_methane-ethane_2p0_dim_A21x12
+-1
+17_methane-ethane_1p0_dim_A21x12
+0
+0.8069997688 A19Rel6_220
+1
+18_methane-ethane_0p9_dim_A21x12
+-1
+18_methane-ethane_1p0_dim_A21x12
+0
+0.6660002734 A19Rel6_221
+1
+18_methane-ethane_1p1_dim_A21x12
+-1
+18_methane-ethane_1p0_dim_A21x12
+0
+0.1529999865 A19Rel6_222
+1
+18_methane-ethane_1p2_dim_A21x12
+-1
+18_methane-ethane_1p0_dim_A21x12
+0
+0.3359999457 A19Rel6_223
+1
+18_methane-ethane_1p4_dim_A21x12
+-1
+18_methane-ethane_1p0_dim_A21x12
+0
+0.5139999095 A19Rel6_224
+1
+18_methane-ethane_1p6_dim_A21x12
+-1
+18_methane-ethane_1p0_dim_A21x12
+0
+0.5709997322 A19Rel6_225
+1
+18_methane-ethane_2p0_dim_A21x12
+-1
+18_methane-ethane_1p0_dim_A21x12
+0
+0.5980002097 A19Rel6_226
+1
+20_Ar-methane_0p9_dim_A21x12
+-1
+20_Ar-methane_1p0_dim_A21x12
+0
+0.2729998775 A19Rel6_227
+1
+20_Ar-methane_1p1_dim_A21x12
+-1
+20_Ar-methane_1p0_dim_A21x12
+0
+0.0919997909 A19Rel6_228
+1
+20_Ar-methane_1p2_dim_A21x12
+-1
+20_Ar-methane_1p0_dim_A21x12
+0
+0.2079999365 A19Rel6_229
+1
+20_Ar-methane_1p4_dim_A21x12
+-1
+20_Ar-methane_1p0_dim_A21x12
+0
+0.3440000639 A19Rel6_230
+1
+20_Ar-methane_1p6_dim_A21x12
+-1
+20_Ar-methane_1p0_dim_A21x12
+0
+0.3970001413 A19Rel6_231
+1
+20_Ar-methane_2p0_dim_A21x12
+-1
+20_Ar-methane_1p0_dim_A21x12
+0
+0.4259998639 A19Rel6_232
+1
+21_Ar-ethene_0p9_dim_A21x12
+-1
+21_Ar-ethene_1p0_dim_A21x12
+0
+0.2320002912 A19Rel6_233
+1
+21_Ar-ethene_1p1_dim_A21x12
+-1
+21_Ar-ethene_1p0_dim_A21x12
+0
+0.0760001819 A19Rel6_234
+1
+21_Ar-ethene_1p2_dim_A21x12
+-1
+21_Ar-ethene_1p0_dim_A21x12
+0
+0.1799998365 A19Rel6_235
+1
+21_Ar-ethene_1p4_dim_A21x12
+-1
+21_Ar-ethene_1p0_dim_A21x12
+0
+0.3079998457 A19Rel6_236
+1
+21_Ar-ethene_1p6_dim_A21x12
+-1
+21_Ar-ethene_1p0_dim_A21x12
+0
+0.3590000503 A19Rel6_237
+1
+21_Ar-ethene_2p0_dim_A21x12
+-1
+21_Ar-ethene_1p0_dim_A21x12
+0
+0.3859999003 A19Rel6_238

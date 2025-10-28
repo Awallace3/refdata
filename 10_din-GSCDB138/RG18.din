@@ -1,0 +1,145 @@
+# Dataset: RG18
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Interaction energies in rare-gas complexes
+# Theory level = CCSD(T)/a[TQ]Z for all dimer interaction energies and otherwise CCSD(T)/aug-cc-pwCV[TQ]Z
+# Number of datapoints = 18.0
+# RMS energy (kcal/mol) = 0.705234933428599
+# Min energy (kcal/mol) = 0.0799999278289613
+# Max energy (kcal/mol) = 1.51000114780954
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+RG18_ne2
+2
+RG18_ne
+0
+0.0799999273 RG18_6210
+-1
+RG18_ar2
+2
+RG18_ar
+0
+0.2700003822 RG18_6211
+-1
+RG18_kr2
+2
+RG18_kr
+0
+0.4000002641 RG18_6212
+-1
+RG18_ne3
+3
+RG18_ne
+0
+0.2700003822 RG18_6213
+-1
+RG18_ar3
+3
+RG18_ar
+0
+0.7700005554 RG18_6214
+-1
+RG18_kr3
+3
+RG18_kr
+0
+1.1800008104 RG18_6215
+-1
+RG18_ne4
+4
+RG18_ne
+0
+0.5400001369 RG18_6216
+-1
+RG18_ar4
+4
+RG18_ar
+0
+1.5100011380 RG18_6217
+-1
+RG18_ne6
+6
+RG18_ne
+0
+1.1300008558 RG18_6218
+-1
+RG18_hfNe
+1
+RG18_ne
+1
+RG18_hf
+0
+0.2300004185 RG18_6219
+-1
+RG18_hfAr
+1
+RG18_ar
+1
+RG18_hf
+0
+0.5900007189 RG18_6220
+-1
+RG18_hfKr
+1
+RG18_kr
+1
+RG18_hf
+0
+0.7200006008 RG18_6221
+-1
+RG18_c2h2Ne
+1
+RG18_ne
+1
+RG18_c2h2
+0
+0.1199998910 RG18_6222
+-1
+RG18_c2h2Ar
+1
+RG18_ar
+1
+RG18_c2h2
+0
+0.3300003277 RG18_6223
+-1
+RG18_c2h6Ne
+1
+RG18_ne
+1
+RG18_c2h6
+0
+0.2400004094 RG18_6224
+-1
+RG18_c2h6Ar
+1
+RG18_ar
+1
+RG18_c2h6
+0
+0.5400001369 RG18_6225
+-1
+RG18_bzNe
+1
+RG18_ne
+1
+RG18_bz
+0
+0.4000002641 RG18_6226
+-1
+RG18_bzAr
+1
+RG18_ar
+1
+RG18_bz
+0
+1.1200008649 RG18_6227

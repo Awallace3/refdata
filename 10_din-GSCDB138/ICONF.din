@@ -1,0 +1,121 @@
+# Dataset: ICONF
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies in conformers of inorganic systems
+# Theory level = W1-F12
+# Number of datapoints = 17.0
+# RMS energy (kcal/mol) = 4.54055466449991
+# Min energy (kcal/mol) = 0.0999999097862016
+# Max energy (kcal/mol) = 12.1600091103053
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+ICONF_N3H5_1
+1
+ICONF_N3H5_2
+0
+0.9000004373 ICONF_4026
+-1
+ICONF_N3H5_1
+1
+ICONF_N3H5_3
+0
+5.2900039786 ICONF_4027
+-1
+ICONF_N4H6_1
+1
+ICONF_N4H6_2
+0
+0.1299998819 ICONF_4028
+-1
+ICONF_N4H6_1
+1
+ICONF_N4H6_3
+0
+2.3300016480 ICONF_4029
+-1
+ICONF_N3P3H12_1
+1
+ICONF_N3P3H12_2
+0
+12.1600090316 ICONF_4030
+-1
+ICONF_SI5H12_1
+1
+ICONF_SI5H12_2
+0
+0.0999999091 ICONF_4031
+-1
+ICONF_SI5H12_1
+1
+ICONF_SI5H12_3
+0
+1.0300009467 ICONF_4032
+-1
+ICONF_SI5H12_1
+1
+ICONF_SI5H12_4
+0
+3.5100024584 ICONF_4033
+-1
+ICONF_SI6H12_1
+1
+ICONF_SI6H12_2
+0
+1.6900009745 ICONF_4034
+-1
+ICONF_P7H7_1
+1
+ICONF_P7H7_2
+0
+1.4000012380 ICONF_4035
+-1
+ICONF_S4O4_1
+1
+ICONF_S4O4_2
+0
+4.3900035413 ICONF_4036
+-1
+ICONF_S8_1
+1
+ICONF_S8_2
+0
+9.1600067374 ICONF_4037
+-1
+ICONF_H2S2O7_1
+1
+ICONF_H2S2O7_2
+0
+0.5500001278 ICONF_4038
+-1
+ICONF_H2S2O7_1
+1
+ICONF_H2S2O7_3
+0
+3.5500024220 ICONF_4039
+-1
+ICONF_H4P2O7_1
+1
+ICONF_H4P2O7_2
+0
+1.3300013016 ICONF_4040
+-1
+ICONF_H4P2O7_1
+1
+ICONF_H4P2O7_3
+0
+3.6600029496 ICONF_4041
+-1
+ICONF_H4P2O7_1
+1
+ICONF_H4P2O7_4
+0
+4.3500029502 ICONF_4042

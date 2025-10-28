@@ -1,0 +1,339 @@
+# Dataset: 3BHET
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = 3-Body non-additive interaction energies in molecular trimers
+# Theory level = HF/a5Z+MP2/a[Q5]Z+CCSD(T) /aDZ. For small cases, CCSD(T) /aTZ used
+# Number of datapoints = 20.0
+# RMS energy (kcal/mol) = 2.00514889370533
+# Min energy (kcal/mol) = -4.62299971997484
+# Max energy (kcal/mol) = 4.15199989387804
+# Year last updated = 2023
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+3BHET_1.1_trim
+1
+3BHET_1.1_monA
+1
+3BHET_1.1_monB
+1
+3BHET_1.1_monC
+-1
+3BHET_1.1_dimAB
+-1
+3BHET_1.1_dimBC
+-1
+3BHET_1.1_dimAC
+0
+-0.5459997549 3BHET_70
+1
+3BHET_1.2_trim
+1
+3BHET_1.2_monA
+1
+3BHET_1.2_monB
+1
+3BHET_1.2_monC
+-1
+3BHET_1.2_dimAB
+-1
+3BHET_1.2_dimBC
+-1
+3BHET_1.2_dimAC
+0
+-0.5739998550 3BHET_71
+1
+3BHET_2.1_trim
+1
+3BHET_2.1_monA
+1
+3BHET_2.1_monB
+1
+3BHET_2.1_monC
+-1
+3BHET_2.1_dimAB
+-1
+3BHET_2.1_dimBC
+-1
+3BHET_2.1_dimAC
+0
+-0.4050002595 3BHET_72
+1
+3BHET_2.2_trim
+1
+3BHET_2.2_monA
+1
+3BHET_2.2_monB
+1
+3BHET_2.2_monC
+-1
+3BHET_2.2_dimAB
+-1
+3BHET_2.2_dimBC
+-1
+3BHET_2.2_dimAC
+0
+-0.5589998686 3BHET_73
+1
+3BHET_3.1_trim
+1
+3BHET_3.1_monA
+1
+3BHET_3.1_monB
+1
+3BHET_3.1_monC
+-1
+3BHET_3.1_dimAB
+-1
+3BHET_3.1_dimBC
+-1
+3BHET_3.1_dimAC
+0
+-2.4209999338 3BHET_74
+1
+3BHET_3.2_trim
+1
+3BHET_3.2_monA
+1
+3BHET_3.2_monB
+1
+3BHET_3.2_monC
+-1
+3BHET_3.2_dimAB
+-1
+3BHET_3.2_dimBC
+-1
+3BHET_3.2_dimAC
+0
+-1.5929999331 3BHET_75
+1
+3BHET_4.1_trim
+1
+3BHET_4.1_monA
+1
+3BHET_4.1_monB
+1
+3BHET_4.1_monC
+-1
+3BHET_4.1_dimAB
+-1
+3BHET_4.1_dimBC
+-1
+3BHET_4.1_dimAC
+0
+3.3859996845 3BHET_76
+1
+3BHET_4.2_trim
+1
+3BHET_4.2_monA
+1
+3BHET_4.2_monB
+1
+3BHET_4.2_monC
+-1
+3BHET_4.2_dimAB
+-1
+3BHET_4.2_dimBC
+-1
+3BHET_4.2_dimAC
+0
+-4.6229996901 3BHET_77
+1
+3BHET_5.1_trim
+1
+3BHET_5.1_monA
+1
+3BHET_5.1_monB
+1
+3BHET_5.1_monC
+-1
+3BHET_5.1_dimAB
+-1
+3BHET_5.1_dimBC
+-1
+3BHET_5.1_dimAC
+0
+1.3380001648 3BHET_78
+1
+3BHET_5.2_trim
+1
+3BHET_5.2_monA
+1
+3BHET_5.2_monB
+1
+3BHET_5.2_monC
+-1
+3BHET_5.2_dimAB
+-1
+3BHET_5.2_dimBC
+-1
+3BHET_5.2_dimAC
+0
+1.1709998145 3BHET_79
+1
+3BHET_6.1_trim
+1
+3BHET_6.1_monA
+1
+3BHET_6.1_monB
+1
+3BHET_6.1_monC
+-1
+3BHET_6.1_dimAB
+-1
+3BHET_6.1_dimBC
+-1
+3BHET_6.1_dimAC
+0
+0.3470001867 3BHET_80
+1
+3BHET_6.2_trim
+1
+3BHET_6.2_monA
+1
+3BHET_6.2_monB
+1
+3BHET_6.2_monC
+-1
+3BHET_6.2_dimAB
+-1
+3BHET_6.2_dimBC
+-1
+3BHET_6.2_dimAC
+0
+-0.1160001456 3BHET_81
+1
+3BHET_7.1_trim
+1
+3BHET_7.1_monA
+1
+3BHET_7.1_monB
+1
+3BHET_7.1_monC
+-1
+3BHET_7.1_dimAB
+-1
+3BHET_7.1_dimBC
+-1
+3BHET_7.1_dimAC
+0
+-1.5590002150 3BHET_82
+1
+3BHET_7.2_trim
+1
+3BHET_7.2_monA
+1
+3BHET_7.2_monB
+1
+3BHET_7.2_monC
+-1
+3BHET_7.2_dimAB
+-1
+3BHET_7.2_dimBC
+-1
+3BHET_7.2_dimAC
+0
+-0.0089733854 3BHET_83
+1
+3BHET_8.1_trim
+1
+3BHET_8.1_monA
+1
+3BHET_8.1_monB
+1
+3BHET_8.1_monC
+-1
+3BHET_8.1_dimAB
+-1
+3BHET_8.1_dimBC
+-1
+3BHET_8.1_dimAC
+0
+3.7890000713 3BHET_84
+1
+3BHET_8.2_trim
+1
+3BHET_8.2_monA
+1
+3BHET_8.2_monB
+1
+3BHET_8.2_monC
+-1
+3BHET_8.2_dimAB
+-1
+3BHET_8.2_dimBC
+-1
+3BHET_8.2_dimAC
+0
+4.1519998670 3BHET_85
+1
+3BHET_9.1_trim
+1
+3BHET_9.1_monA
+1
+3BHET_9.1_monB
+1
+3BHET_9.1_monC
+-1
+3BHET_9.1_dimAB
+-1
+3BHET_9.1_dimBC
+-1
+3BHET_9.1_dimAC
+0
+-0.6689997686 3BHET_86
+1
+3BHET_9.2_trim
+1
+3BHET_9.2_monA
+1
+3BHET_9.2_monB
+1
+3BHET_9.2_monC
+-1
+3BHET_9.2_dimAB
+-1
+3BHET_9.2_dimBC
+-1
+3BHET_9.2_dimAC
+0
+-0.5100001641 3BHET_87
+1
+3BHET_10.1_trim
+1
+3BHET_10.1_monA
+1
+3BHET_10.1_monB
+1
+3BHET_10.1_monC
+-1
+3BHET_10.1_dimAB
+-1
+3BHET_10.1_dimBC
+-1
+3BHET_10.1_dimAC
+0
+-0.1999998183 3BHET_88
+1
+3BHET_10.2_trim
+1
+3BHET_10.2_monA
+1
+3BHET_10.2_monB
+1
+3BHET_10.2_monC
+-1
+3BHET_10.2_dimAB
+-1
+3BHET_10.2_dimBC
+-1
+3BHET_10.2_dimAC
+0
+0.0560000119 3BHET_89

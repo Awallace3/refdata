@@ -1,0 +1,63 @@
+# Dataset: AE11
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Absolute atomic energies of closed shell atoms from Ar to Rn
+# Theory level = CCSD(T) corrected by MP2
+# Number of datapoints = 11.0
+# RMS energy (kcal/mol) = 6518016.62001181
+# Min energy (kcal/mol) = -13725071.127117
+# Max energy (kcal/mol) = -425190.887126636
+# Year last updated = nan
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+AE11_Ca
+0
+-425190.8843756412 AE11_284
+1
+AE11_Zn
+0
+-1116632.5992480866 AE11_285
+1
+AE11_Kr
+0
+-1728100.7033013250 AE11_286
+1
+AE11_Sr
+0
+-1966290.4862524758 AE11_287
+1
+AE11_Pd
+0
+-3100187.2000853200 AE11_288
+1
+AE11_Cd
+0
+-3431084.8794739489 AE11_289
+1
+AE11_Xe
+0
+-4540116.3787007518 AE11_290
+1
+AE11_Ba
+0
+-4948957.6475352114 AE11_291
+1
+AE11_Yb
+0
+-8406206.9704798907 AE11_292
+1
+AE11_Hg
+0
+-11555060.4472552370 AE11_293
+1
+AE11_Rn
+0
+-13725071.0383154657 AE11_294

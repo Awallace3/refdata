@@ -1,0 +1,73 @@
+# Dataset: DIPCS9
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Double-ionisation potentials of closed-shell systems
+# Theory level = W1-F12
+# Number of datapoints = 9.0
+# RMS energy (kcal/mol) = 650.431965236731
+# Min energy (kcal/mol) = 522.100394329323
+# Max energy (kcal/mol) = 776.500586511787
+# Year last updated = 2017
+# Error (kcal/mol) = 0.72, 2.13 (MR) vs W4
+#
+#@ fieldasrxn 999
+-1
+DIPCS10_c4h4
+1
+DIPCS10_c4h4_2+
+0
+529.2003964229 DIPCS9_2236
+-1
+DIPCS10_c2h6
+1
+DIPCS10_c2h6_2+
+0
+667.1004995393 DIPCS9_2237
+-1
+DIPCS10_c2h4
+1
+DIPCS10_c2h4_2+
+0
+655.8004909813 DIPCS9_2238
+-1
+DIPCS10_n2h2
+1
+DIPCS10_n2h2_2+
+0
+626.9004695493 DIPCS9_2239
+-1
+DIPCS10_nh3
+1
+DIPCS10_nh3_2+
+0
+776.5005814878 DIPCS9_2240
+-1
+DIPCS10_ch2o
+1
+DIPCS10_ch2o_2+
+0
+747.6005600559 DIPCS9_2241
+-1
+DIPCS10_ph3
+1
+DIPCS10_ph3_2+
+0
+649.6004865745 DIPCS9_2242
+-1
+DIPCS10_mg
+1
+DIPCS10_mg_2+
+0
+522.1003909513 DIPCS9_2243
+-1
+DIPCS10_be
+1
+DIPCS10_be_2+
+0
+634.8004755490 DIPCS9_2244

@@ -1,0 +1,181 @@
+# Dataset: BHROT27
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Barrier heights for rotation around single bonds
+# Theory level = W1-F12,W2-F12
+# Number of datapoints = 27.0
+# RMS energy (kcal/mol) = 8.06240920523212
+# Min energy (kcal/mol) = 1.01000097136906
+# Max energy (kcal/mol) = 17.240013312577
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+BHROT27_ethane_st
+1
+BHROT27_ethane_ecl
+0
+2.7300019121 BHROT27_1579
+-1
+BHROT27_tmethane_60
+1
+BHROT27_tmethane_0
+0
+7.0100055533 BHROT27_1580
+-1
+BHROT27_tmethane_60
+1
+BHROT27_tmethane_120
+0
+3.4600025038 BHROT27_1581
+-1
+BHROT27_tmethane_180
+1
+BHROT27_tmethane_120
+0
+3.7200028951 BHROT27_1582
+-1
+BHROT27_methanol_st
+1
+BHROT27_methanol_ecl
+0
+1.0100009648 BHROT27_1583
+-1
+BHROT27_methylamine_st
+1
+BHROT27_methylamine_ecl
+0
+2.2800016934 BHROT27_1584
+-1
+BHROT27_h2o2
+1
+BHROT27_h2o2_trans
+0
+1.0100009648 BHROT27_1585
+-1
+BHROT27_h2o2
+1
+BHROT27_h2o2_cis
+0
+7.1700054080 BHROT27_1586
+-1
+BHROT27_h2s2
+1
+BHROT27_h2s2_trans
+0
+5.7900041518 BHROT27_1587
+-1
+BHROT27_h2s2
+1
+BHROT27_h2s2_cis
+0
+8.0300058816 BHROT27_1588
+-1
+BHROT27_n2h4_st1
+1
+BHROT27_n2h4_ecl1
+0
+1.6200010381 BHROT27_1589
+-1
+BHROT27_n2h4_st1
+1
+BHROT27_n2h4_ecl2
+0
+8.4100061638 BHROT27_1590
+-1
+BHROT27_nh2oh_st1
+1
+BHROT27_nh2oh_ecl
+0
+6.9100050167 BHROT27_1591
+-1
+BHROT27_nh2oh_st2
+1
+BHROT27_nh2oh_ecl
+0
+2.6800019575 BHROT27_1592
+-1
+BHROT27_acetamide_RC
+1
+BHROT27_acetamide_TS1
+0
+17.2400132010 BHROT27_1593
+-1
+BHROT27_acetamide_RC
+1
+BHROT27_acetamide_TS2
+0
+14.5200106524 BHROT27_1594
+-1
+BHROT27_biphenyl
+1
+BHROT27_biphenyl_TS
+0
+2.1000018570 BHROT27_1595
+-1
+BHROT27_bifuran_anti
+1
+BHROT27_bifuran_TS
+0
+3.8900027406 BHROT27_1596
+-1
+BHROT27_bifuran_syn
+1
+BHROT27_bifuran_TS
+0
+2.0900018661 BHROT27_1597
+-1
+BHROT27_bithiophene_anti
+1
+BHROT27_bithiophene_TS
+0
+1.7800015202 BHROT27_1598
+-1
+BHROT27_bithiophene_syn
+1
+BHROT27_bithiophene_TS
+0
+1.3900012471 BHROT27_1599
+-1
+BHROT27_butadiene_strans
+1
+BHROT27_butadiene_TS
+0
+6.3000049434 BHROT27_1600
+-1
+BHROT27_butadiene_scis
+1
+BHROT27_butadiene_TS
+0
+3.3500026037 BHROT27_1601
+-1
+BHROT27_ethylthiourea_180
+1
+BHROT27_ethylthiourea_TS1
+0
+10.3600075296 BHROT27_1602
+-1
+BHROT27_ethylthiourea_0
+1
+BHROT27_ethylthiourea_TS1
+0
+10.2400076386 BHROT27_1603
+-1
+BHROT27_ethylthiourea_180
+1
+BHROT27_ethylthiourea_TS2
+0
+17.2000126099 BHROT27_1604
+-1
+BHROT27_ethylthiourea_0
+1
+BHROT27_ethylthiourea_TS2
+0
+17.0800127189 BHROT27_1605

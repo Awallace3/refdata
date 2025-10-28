@@ -1,0 +1,179 @@
+# Dataset: CR20
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Cycloreversion reaction energies
+# Theory level = W1w and W1-F12
+# Number of datapoints = 20.0
+# RMS energy (kcal/mol) = 22.3052376037578
+# Min energy (kcal/mol) = -35.7038112892026
+# Max energy (kcal/mol) = -7.65961281888176
+# Year last updated = 2016
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+1prod1_CR20
+1
+1prod2_CR20
+-1
+1react_CR20
+0
+-31.3597324249 CR20_1978
+1
+2prod1_CR20
+1
+2prod2_CR20
+-1
+2react_CR20
+0
+-16.1653291875 CR20_1979
+1
+3prod1_CR20
+1
+3prod2_CR20
+-1
+3react_CR20
+0
+-18.2460884666 CR20_1980
+1
+4prod1_CR20
+1
+4prod2_CR20
+-1
+4react_CR20
+0
+-23.8846381878 CR20_1981
+1
+5prod1_CR20
+1
+5prod2_CR20
+-1
+5react_CR20
+0
+-17.7868644863 CR20_1982
+1
+6prod1_CR20
+1
+6prod2_CR20
+-1
+6react_CR20
+0
+-28.7451822152 CR20_1983
+1
+7prod1_CR20
+1
+7prod2_CR20
+-1
+7react_CR20
+0
+-30.7896463465 CR20_1984
+1
+8prod1_CR20
+1
+8prod2_CR20
+-1
+8react_CR20
+0
+-21.6674269744 CR20_1985
+1
+9prod1_CR20
+1
+9prod2_CR20
+-1
+9react_CR20
+0
+-19.0470792047 CR20_1986
+1
+10prod1_CR20
+1
+10prod2_CR20
+-1
+10react_CR20
+0
+-35.7038110582 CR20_1987
+1
+11prod1_CR20
+1
+11prod2_CR20
+-1
+11react_CR20
+0
+-17.7536008368 CR20_1988
+1
+12prod1_CR20
+1
+12prod2_CR20
+-1
+12react_CR20
+0
+-7.6596127693 CR20_1989
+1
+13prod1_CR20
+1
+13prod2_CR20
+-1
+13react_CR20
+0
+-9.6090914197 CR20_1990
+1
+14prod1_CR20
+1
+14prod2_CR20
+-1
+14react_CR20
+0
+-12.3417050262 CR20_1991
+1
+15prod1_CR20
+1
+15prod2_CR20
+-1
+15react_CR20
+0
+-11.1784511885 CR20_1992
+1
+16prod1_CR20
+1
+16prod2_CR20
+-1
+16react_CR20
+0
+-25.5075163568 CR20_1993
+1
+17prod1_CR20
+1
+17prod2_CR20
+-1
+17react_CR20
+0
+-24.9826097052 CR20_1994
+1
+18prod1_CR20
+1
+18prod2_CR20
+-1
+18react_CR20
+0
+-19.6003505393 CR20_1995
+1
+19prod1_CR20
+1
+19prod2_CR20
+-1
+19react_CR20
+0
+-13.7840926463 CR20_1996
+1
+20prod1_CR20
+1
+20prod2_CR20
+-1
+20react_CR20
+0
+-31.8154938080 CR20_1997

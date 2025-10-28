@@ -1,0 +1,187 @@
+# Dataset: AHB21
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Interaction energies in anion-neutral dimers 
+# Theory level = CCSD(T)(many, like F12-[DT]Z, [TQ]Z)
+# Number of datapoints = 21.0
+# RMS energy (kcal/mol) = 26.1748569114544
+# Min energy (kcal/mol) = -65.6800493067162
+# Max energy (kcal/mol) = -7.97000598765922
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+AHB21_1
+-1
+AHB21_1A
+-1
+AHB21_1B
+0
+-17.7900133288 AHB21_313
+1
+AHB21_2
+-1
+AHB21_2A
+-1
+AHB21_2B
+0
+-32.5000244361 AHB21_314
+1
+AHB21_3
+-1
+AHB21_3A
+-1
+AHB21_3B
+0
+-65.6800488818 AHB21_315
+1
+AHB21_4
+-1
+AHB21_4A
+-1
+AHB21_4B
+0
+-8.9800069009 AHB21_316
+1
+AHB21_5
+-1
+AHB21_5A
+-1
+AHB21_5B
+0
+-15.6100115445 AHB21_317
+1
+AHB21_6
+-1
+AHB21_6A
+-1
+AHB21_6B
+0
+-25.5200188555 AHB21_318
+1
+AHB21_7
+-1
+AHB21_7A
+-1
+AHB21_7B
+0
+-14.3500108068 AHB21_319
+1
+AHB21_8
+-1
+AHB21_8A
+-1
+AHB21_8B
+0
+-41.7900310553 AHB21_320
+1
+AHB21_9
+-1
+AHB21_9A
+-1
+AHB21_9B
+0
+-17.0300127643 AHB21_321
+1
+AHB21_10
+-1
+AHB21_10A
+-1
+AHB21_10B
+0
+-37.3100282233 AHB21_322
+1
+AHB21_11
+-1
+AHB21_11A
+-1
+AHB21_11B
+0
+-7.9700059361 AHB21_323
+1
+AHB21_12
+-1
+AHB21_12A
+-1
+AHB21_12B
+0
+-14.1300103792 AHB21_324
+1
+AHB21_13
+-1
+AHB21_13A
+-1
+AHB21_13B
+0
+-26.0100196653 AHB21_325
+1
+AHB21_14
+-1
+AHB21_14A
+-1
+AHB21_14B
+0
+-11.0700081395 AHB21_326
+1
+AHB21_15
+-1
+AHB21_15A
+-1
+AHB21_15B
+0
+-8.6200066005 AHB21_327
+1
+AHB21_16
+-1
+AHB21_16A
+-1
+AHB21_16B
+0
+-15.7300120630 AHB21_328
+1
+AHB21_17
+-1
+AHB21_17A
+-1
+AHB21_17B
+0
+-26.2400194563 AHB21_329
+1
+AHB21_18
+-1
+AHB21_18A
+-1
+AHB21_18B
+0
+-12.8000097051 AHB21_330
+1
+AHB21_19
+-1
+AHB21_19A
+-1
+AHB21_19B
+0
+-20.6500157503 AHB21_331
+1
+AHB21_20
+-1
+AHB21_20A
+-1
+AHB21_20B
+0
+-21.0300160325 AHB21_332
+1
+AHB21_21
+-1
+AHB21_21A
+-1
+AHB21_21B
+0
+-31.4000235530 AHB21_333

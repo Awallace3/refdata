@@ -1,0 +1,139 @@
+# Dataset: SIE4x4
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Self-interaction-error related problems
+# Theory level = W2-F12
+# Number of datapoints = 16.0
+# RMS energy (kcal/mol) = 38.0748400183326
+# Min energy (kcal/mol) = 4.90000373714704
+# Max energy (kcal/mol) = 64.4000485789244
+# Year last updated = 2017
+# Error (kcal/mol) = 0.55,1.39 (MR) vs W4
+#
+#@ fieldasrxn 999
+1
+SIE4x4_h
+-1
+SIE4x4_h2+_1_0
+0
+64.4000481623 SIE4x4_6899
+1
+SIE4x4_h
+-1
+SIE4x4_h2+_1_25
+0
+58.9000443745 SIE4x4_6900
+1
+SIE4x4_h
+-1
+SIE4x4_h2+_1_5
+0
+48.7000366995 SIE4x4_6901
+1
+SIE4x4_h
+-1
+SIE4x4_h2+_1_75
+0
+38.3000285788 SIE4x4_6902
+1
+SIE4x4_he
+1
+SIE4x4_he+
+-1
+SIE4x4_he2+_1_0
+0
+56.9000424266 SIE4x4_6903
+1
+SIE4x4_he
+1
+SIE4x4_he+
+-1
+SIE4x4_he2+_1_25
+0
+46.9000351975 SIE4x4_6904
+1
+SIE4x4_he
+1
+SIE4x4_he+
+-1
+SIE4x4_he2+_1_5
+0
+31.3000236439 SIE4x4_6905
+1
+SIE4x4_he
+1
+SIE4x4_he+
+-1
+SIE4x4_he2+_1_75
+0
+19.1000140211 SIE4x4_6906
+1
+SIE4x4_nh3
+1
+SIE4x4_nh3+
+-1
+SIE4x4_nh32+_1_0
+0
+35.9000269944 SIE4x4_6907
+1
+SIE4x4_nh3
+1
+SIE4x4_nh3+
+-1
+SIE4x4_nh32+_1_25
+0
+25.9000191377 SIE4x4_6908
+1
+SIE4x4_nh3
+1
+SIE4x4_nh3+
+-1
+SIE4x4_nh32+_1_5
+0
+13.4000097875 SIE4x4_6909
+1
+SIE4x4_nh3
+1
+SIE4x4_nh3+
+-1
+SIE4x4_nh32+_1_75
+0
+4.9000037054 SIE4x4_6910
+1
+SIE4x4_h2o
+1
+SIE4x4_h2o+
+-1
+SIE4x4_h2o2+_1_0
+0
+39.7000298168 SIE4x4_6911
+1
+SIE4x4_h2o
+1
+SIE4x4_h2o+
+-1
+SIE4x4_h2o2+_1_25
+0
+29.1000218777 SIE4x4_6912
+1
+SIE4x4_h2o
+1
+SIE4x4_h2o+
+-1
+SIE4x4_h2o2+_1_5
+0
+16.9000128825 SIE4x4_6913
+1
+SIE4x4_h2o
+1
+SIE4x4_h2o+
+-1
+SIE4x4_h2o2+_1_75
+0
+9.3000072377 SIE4x4_6914

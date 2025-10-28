@@ -1,0 +1,55 @@
+# Dataset: WCPT6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Tautomerization energies for water-catalyzed proton-transfer reactions 
+# Theory level = W2.2
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 7.52632789802353
+# Min energy (kcal/mol) = -0.860420910527902
+# Max energy (kcal/mol) = 11.1376669101099
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+39_Rxn2_Reactant_WCPT27
+-1
+48_Rxn2_Product_WCPT27
+0
+10.8030587083 WCPT6_8092
+1
+40_Rxn3_Reactant_WCPT27
+-1
+49_Rxn3_Product_WCPT27
+0
+9.1539192680 WCPT6_8093
+1
+42_Rxn5_Reactant_WCPT27
+-1
+51_Rxn5_Product_WCPT27
+0
+2.9397701703 WCPT6_8094
+1
+44_Rxn7_Reactant_WCPT27
+-1
+53_Rxn7_Product_WCPT27
+0
+-0.8604209050 WCPT6_8095
+1
+45_Rxn8_Reactant_WCPT27
+-1
+54_Rxn8_Product_WCPT27
+0
+11.1376668380 WCPT6_8096
+1
+46_Rxn9_Reactant_WCPT27
+-1
+55_Rxn9_Product_WCPT27
+0
+2.4378586032 WCPT6_8097

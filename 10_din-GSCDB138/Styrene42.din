@@ -1,0 +1,271 @@
+# Dataset: Styrene42
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of C8H8 
+# Theory level = W1-F12
+# Number of datapoints = 42.0
+# RMS energy (kcal/mol) = 67.5768184043701
+# Min energy (kcal/mol) = 11.519999647522
+# Max energy (kcal/mol) = 124.459995024027
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+12_Isomer2_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+11.5199995730 Styrene42_7016
+1
+13_Isomer3_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+18.4199989512 Styrene42_7017
+1
+14_Isomer4_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+19.6799990614 Styrene42_7018
+1
+15_Isomer5_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+20.3899990437 Styrene42_7019
+1
+16_Isomer6_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+20.9699991443 Styrene42_7020
+1
+17_Isomer7_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+24.8499987564 Styrene42_7021
+1
+18_Isomer8_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+25.3599989205 Styrene42_7022
+1
+19_Isomer9_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+27.9999984043 Styrene42_7023
+1
+20_Isomer10_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+28.7899983140 Styrene42_7024
+1
+21_Isomer11_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+36.0799979654 Styrene42_7025
+1
+22_Isomer12_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+36.8999984753 Styrene42_7026
+1
+23_Isomer13_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+37.0899983027 Styrene42_7027
+1
+24_Isomer14_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+42.6499982709 Styrene42_7028
+1
+25_Isomer15_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+43.7099979353 Styrene42_7029
+1
+26_Isomer16_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+45.7799979370 Styrene42_7030
+1
+27_Isomer17_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+47.6199975202 Styrene42_7031
+1
+28_Isomer18_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+48.3699974663 Styrene42_7032
+1
+29_Isomer19_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+48.4299974117 Styrene42_7033
+1
+30_Isomer20_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+60.2599973306 Styrene42_7034
+1
+31_Isomer21_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+60.9199973584 Styrene42_7035
+1
+32_Isomer22_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+62.1899968320 Styrene42_7036
+1
+33_Isomer23_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+63.3899969967 Styrene42_7037
+1
+34_Isomer24_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+63.4599969331 Styrene42_7038
+1
+35_Isomer25_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+63.4599969331 Styrene42_7039
+1
+36_Isomer26_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+67.8299967275 Styrene42_7040
+1
+37_Isomer27_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+68.5899966645 Styrene42_7041
+1
+38_Isomer28_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+70.9899963663 Styrene42_7042
+1
+39_Isomer29_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+71.1799968212 Styrene42_7043
+1
+40_Isomer30_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+72.4999962494 Styrene42_7044
+1
+41_Isomer31_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+77.6899965538 Styrene42_7045
+1
+42_Isomer32_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+78.9199960637 Styrene42_7046
+1
+43_Isomer33_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+80.6099964107 Styrene42_7047
+1
+44_Isomer34_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+81.8199959388 Styrene42_7048
+1
+45_Isomer35_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+88.2199957712 Styrene42_7049
+1
+46_Isomer36_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+88.2899957076 Styrene42_7050
+1
+47_Isomer37_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+88.5799960717 Styrene42_7051
+1
+49_Isomer39_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+92.1099953743 Styrene42_7052
+1
+50_Isomer40_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+96.9499953692 Styrene42_7053
+1
+52_Isomer42_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+115.4899942114 Styrene42_7054
+1
+53_Isomer43_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+115.7299946208 Styrene42_7055
+1
+54_Isomer44_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+115.9999943755 Styrene42_7056
+1
+55_Isomer45_Styrene45
+-1
+11_Isomer1_Styrene45
+0
+124.4599942188 Styrene42_7057

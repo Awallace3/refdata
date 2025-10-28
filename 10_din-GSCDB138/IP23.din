@@ -1,0 +1,157 @@
+# Dataset: IP23
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Vertical ionization potentials
+# Theory level = nan
+# Number of datapoints = 23.0
+# RMS energy (kcal/mol) = 307.031152103522
+# Min energy (kcal/mol) = 230.766902132489
+# Max energy (kcal/mol) = 496.56277617804
+# Year last updated = 2024
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+IP23_Ar
+-1
+IP23_Ar_n
+0
+362.9499601301 IP23_4388
+1
+IP23_BeO
+-1
+IP23_BeO_n
+0
+231.0205669501 IP23_4389
+1
+IP23_BF
+-1
+IP23_BF_n
+0
+257.7016201422 IP23_4390
+1
+IP23_BH3
+-1
+IP23_BH3_n
+0
+307.4432215329 IP23_4391
+1
+IP23_BN
+-1
+IP23_BN_n
+0
+277.1647224378 IP23_4392
+1
+IP23_C2
+-1
+IP23_C2_n
+0
+288.1876642295 IP23_4393
+1
+IP23_CH2O
+-1
+IP23_CH2O_n
+0
+252.6052392307 IP23_4394
+1
+IP23_CH4
+-1
+IP23_CH4_n
+0
+332.2333107052 IP23_4395
+1
+IP23_CO
+-1
+IP23_CO_n
+0
+322.2711535922 IP23_4396
+1
+IP23_CO2
+-1
+IP23_CO2_n
+0
+318.7659503263 IP23_4397
+1
+IP23_CS
+-1
+IP23_CS_n
+0
+261.8525187301 IP23_4398
+1
+IP23_F2
+-1
+IP23_F2_n
+0
+364.5411377757 IP23_4399
+1
+IP23_H2O
+-1
+IP23_H2O_n
+0
+293.7221960983 IP23_4400
+1
+IP23_H2S
+-1
+IP23_H2S_n
+0
+241.1210867636 IP23_4401
+1
+IP23_HCl
+-1
+IP23_HCl_n
+0
+294.4831937754 IP23_4402
+1
+IP23_HF
+-1
+IP23_HF_n
+0
+373.9037202577 IP23_4403
+1
+IP23_LiCl
+-1
+IP23_LiCl_n
+0
+230.7669006394 IP23_4404
+1
+IP23_LiF
+-1
+IP23_LiF_n
+0
+266.0725989820 IP23_4405
+1
+IP23_N2
+-1
+IP23_N2_n
+0
+358.3839715579 IP23_4406
+1
+IP23_Ne
+-1
+IP23_Ne_n
+0
+496.5627729653 IP23_4407
+1
+IP23_NH3
+-1
+IP23_NH3_n
+0
+252.3976942385 IP23_4408
+1
+IP23_PH3
+-1
+IP23_PH3_n
+0
+245.0875007049 IP23_4409
+1
+IP23_SiH4
+-1
+IP23_SiH4_n
+0
+295.5901004001 IP23_4410

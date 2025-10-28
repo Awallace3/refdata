@@ -1,0 +1,109 @@
+# Dataset: TAUT15
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of tautomers
+# Theory level = W1-F12//SCS(1.1,0.6)-MP2/def2-QZVP
+# Number of datapoints = 15.0
+# RMS energy (kcal/mol) = 4.52337891905405
+# Min energy (kcal/mol) = -5.440003877502
+# Max energy (kcal/mol) = 13.0300095804642
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+TAUT15_1a
+1
+TAUT15_1b
+0
+4.3000029956 TAUT15_7692
+-1
+TAUT15_2a
+1
+TAUT15_2b
+0
+6.5600047072 TAUT15_7693
+-1
+TAUT15_3a
+1
+TAUT15_3b
+0
+-5.4400038423 TAUT15_7694
+-1
+TAUT15_3a
+1
+TAUT15_3c
+0
+5.2500040149 TAUT15_7695
+-1
+TAUT15_3a
+1
+TAUT15_3d
+0
+13.0300094962 TAUT15_7696
+-1
+TAUT15_4a
+1
+TAUT15_4b
+0
+0.9300004100 TAUT15_7697
+-1
+TAUT15_5a
+1
+TAUT15_5b
+0
+0.7400005826 TAUT15_7698
+-1
+TAUT15_5a
+1
+TAUT15_5c
+0
+1.4500011926 TAUT15_7699
+-1
+TAUT15_6a
+1
+TAUT15_6b
+0
+-0.1699998455 TAUT15_7700
+-1
+TAUT15_6a
+1
+TAUT15_6c
+0
+-0.8700004645 TAUT15_7701
+-1
+TAUT15_6a
+1
+TAUT15_6d
+0
+2.8500024305 TAUT15_7702
+-1
+TAUT15_7a
+1
+TAUT15_7b
+0
+2.1500018115 TAUT15_7703
+-1
+TAUT15_8a
+1
+TAUT15_8b
+0
+0.5500001278 TAUT15_7704
+-1
+TAUT15_9a
+1
+TAUT15_9b
+0
+0.9500010194 TAUT15_7705
+-1
+TAUT15_10a
+1
+TAUT15_10b
+0
+-0.4500002186 TAUT15_7706

@@ -1,0 +1,61 @@
+# Dataset: BHDIV7
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Diverse reaction barrier heights
+# Theory level = W1-F12,W2-F12
+# Number of datapoints = 7.0
+# RMS energy (kcal/mol) = 48.7746943925477
+# Min energy (kcal/mol) = 13.640010285179
+# Max energy (kcal/mol) = 96.1700726287965
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+BHDIV10_ed1
+1
+BHDIV10_ts1
+0
+25.6500193648 BHDIV7_1561
+-1
+BHDIV10_ed3
+1
+BHDIV10_ts3
+0
+36.5300270495 BHDIV7_1562
+-1
+BHDIV10_ed4
+1
+BHDIV10_ts4
+0
+96.1700720066 BHDIV7_1563
+-1
+BHDIV10_ed5
+1
+BHDIV10_ts5
+0
+15.9400118722 BHDIV7_1564
+-1
+BHDIV10_ed6
+1
+BHDIV10_ts6
+0
+13.6400101969 BHDIV7_1565
+-1
+BHDIV10_ed7
+1
+BHDIV10_ts7
+0
+27.4900208306 BHDIV7_1566
+-1
+BHDIV10_ed10
+1
+BHDIV10_ts10
+0
+64.9300489357 BHDIV7_1567

@@ -1,0 +1,177 @@
+# Dataset: S22
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of noncovalently bound dimers
+# Theory level = at least HF/aQZ+MP2/a[TQ]Z+CCSD(T) /aTZ
+# Number of datapoints = 22.0
+# RMS energy (kcal/mol) = 9.64593258726085
+# Min energy (kcal/mol) = 0.527000654090336
+# Max energy (kcal/mol) = 20.6410155154853
+# Year last updated = 2011
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+S22_01
+2
+S22_01a
+0
+3.1330022989 S22_6332
+-1
+S22_02
+1
+S22_02a
+1
+S22_02b
+0
+4.9890040011 S22_6333
+-1
+S22_03
+2
+S22_03a
+0
+18.7530138343 S22_6334
+-1
+S22_04
+2
+S22_04a
+0
+16.0620122633 S22_6335
+-1
+S22_05
+2
+S22_05a
+0
+20.6410153819 S22_6336
+-1
+S22_06
+1
+S22_06a
+1
+S22_06b
+0
+16.9340126006 S22_6337
+-1
+S22_07
+1
+S22_07a
+1
+S22_07b
+0
+16.6600124730 S22_6338
+-1
+S22_08
+2
+S22_08a
+0
+0.5270006507 S22_6339
+-1
+S22_09
+2
+S22_09a
+0
+1.4720010471 S22_6340
+-1
+S22_10
+1
+S22_10a
+1
+S22_10b
+0
+1.4480013199 S22_6341
+-1
+S22_11
+2
+S22_11a
+0
+2.6540017301 S22_6342
+-1
+S22_12
+2
+S22_12a
+0
+4.2550030365 S22_6343
+-1
+S22_13
+2
+S22_13a
+0
+9.8050074063 S22_6344
+-1
+S22_14
+1
+S22_14a
+1
+S22_14b
+0
+4.5240031686 S22_6345
+-1
+S22_15
+1
+S22_15a
+1
+S22_15b
+0
+11.7300087948 S22_6346
+-1
+S22_16
+1
+S22_16a
+1
+S22_16b
+0
+1.4960014018 S22_6347
+-1
+S22_17
+1
+S22_17a
+1
+S22_17b
+0
+3.2750026719 S22_6348
+-1
+S22_18
+1
+S22_18a
+1
+S22_18b
+0
+2.3120015389 S22_6349
+-1
+S22_19
+1
+S22_19a
+1
+S22_19b
+0
+4.5410036551 S22_6350
+-1
+S22_20
+1
+S22_20a
+1
+S22_20b
+0
+2.7170017984 S22_6351
+-1
+S22_21
+1
+S22_21a
+1
+S22_21b
+0
+5.6270041744 S22_6352
+-1
+S22_22
+1
+S22_22a
+1
+S22_22b
+0
+7.0970053488 S22_6353

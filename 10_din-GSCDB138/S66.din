@@ -1,0 +1,547 @@
+# Dataset: S66
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of noncovalently bound dimers
+# Theory level = half-CP HF+CABS/aQZ-F12 + CP MP2-F12/a[TQ]Z-F12+ CP CCSD(F12*)/ha[DT]Z-F12+CP (T)/ha[TQ]Z
+# Number of datapoints = 66.0
+# RMS energy (kcal/mol) = 6.88595335217263
+# Min energy (kcal/mol) = -19.7479998803463
+# Max energy (kcal/mol) = -1.34300016894953
+# Year last updated = 2022
+# Error (kcal/mol) = extrapolation of aDZ and aTZ is worse than aTZ alone
+#
+#@ fieldasrxn 999
+1
+4113_01WaterWater_dim_S66
+-1
+4113_01WaterWater_monA_S66
+-1
+4113_01WaterWater_monB_S66
+0
+-4.9910001087 S66_6354
+1
+4114_02WaterMeOH_dim_S66
+-1
+4114_02WaterMeOH_monA_S66
+-1
+4114_02WaterMeOH_monB_S66
+0
+-5.6740002411 S66_6355
+1
+4115_03WaterMeNH2_dim_S66
+-1
+4115_03WaterMeNH2_monA_S66
+-1
+4115_03WaterMeNH2_monB_S66
+0
+-6.9960001695 S66_6356
+1
+4116_04WaterPeptide_dim_S66
+-1
+4116_04WaterPeptide_monA_S66
+-1
+4116_04WaterPeptide_monB_S66
+0
+-8.1909997112 S66_6357
+1
+4117_05MeOHMeOH_dim_S66
+-1
+4117_05MeOHMeOH_monA_S66
+-1
+4117_05MeOHMeOH_monB_S66
+0
+-5.8270002276 S66_6358
+1
+4118_06MeOHMeNH2_dim_S66
+-1
+4118_06MeOHMeNH2_monA_S66
+-1
+4118_06MeOHMeNH2_monB_S66
+0
+-7.6249999745 S66_6359
+1
+4119_07MeOHPeptide_dim_S66
+-1
+4119_07MeOHPeptide_monA_S66
+-1
+4119_07MeOHPeptide_monB_S66
+0
+-8.3130001024 S66_6360
+1
+4120_08MeOHWater_dim_S66
+-1
+4120_08MeOHWater_monA_S66
+-1
+4120_08MeOHWater_monB_S66
+0
+-5.0710000360 S66_6361
+1
+4121_09MeNH2MeOH_dim_S66
+-1
+4121_09MeNH2MeOH_monA_S66
+-1
+4121_09MeNH2MeOH_monB_S66
+0
+-3.0909999525 S66_6362
+1
+4122_10MeNH2MeNH2_dim_S66
+-1
+4122_10MeNH2MeNH2_monA_S66
+-1
+4122_10MeNH2MeNH2_monB_S66
+0
+-4.1889997079 S66_6363
+1
+4123_11MeNH2Peptide_dim_S66
+-1
+4123_11MeNH2Peptide_monA_S66
+-1
+4123_11MeNH2Peptide_monB_S66
+0
+-5.4419999499 S66_6364
+1
+4124_12MeNH2Water_dim_S66
+-1
+4124_12MeNH2Water_monA_S66
+-1
+4124_12MeNH2Water_monB_S66
+0
+-7.3600002152 S66_6365
+1
+4125_13PeptideMeOH_dim_S66
+-1
+4125_13PeptideMeOH_monA_S66
+-1
+4125_13PeptideMeOH_monB_S66
+0
+-6.2499999688 S66_6366
+1
+4126_14PeptideMeNH2_dim_S66
+-1
+4126_14PeptideMeNH2_monA_S66
+-1
+4126_14PeptideMeNH2_monB_S66
+0
+-7.5180001972 S66_6367
+1
+4127_15PeptidePeptide_dim_S66
+-1
+4127_15PeptidePeptide_monA_S66
+-1
+4127_15PeptidePeptide_monB_S66
+0
+-8.6879997616 S66_6368
+1
+4128_16PeptideWater_dim_S66
+-1
+4128_16PeptideWater_monA_S66
+-1
+4128_16PeptideWater_monB_S66
+0
+-5.1779998133 S66_6369
+1
+4129_17UracilUracilBP_dim_S66
+-1
+4129_17UracilUracilBP_monA_S66
+-1
+4129_17UracilUracilBP_monB_S66
+0
+-17.4030000007 S66_6370
+1
+4130_18WaterPyridine_dim_S66
+-1
+4130_18WaterPyridine_monA_S66
+-1
+4130_18WaterPyridine_monB_S66
+0
+-6.9289997283 S66_6371
+1
+4131_19MeOHPyridine_dim_S66
+-1
+4131_19MeOHPyridine_monA_S66
+-1
+4131_19MeOHPyridine_monB_S66
+0
+-7.4650001198 S66_6372
+1
+4132_20AcOHAcOH_dim_S66
+-1
+4132_20AcOHAcOH_monA_S66
+-1
+4132_20AcOHAcOH_monB_S66
+0
+-19.3830000842 S66_6373
+1
+4133_21AcNH2AcNH2_dim_S66
+-1
+4133_21AcNH2AcNH2_monA_S66
+-1
+4133_21AcNH2AcNH2_monB_S66
+0
+-16.4850000818 S66_6374
+1
+4134_22AcOHUracil_dim_S66
+-1
+4134_22AcOHUracil_monA_S66
+-1
+4134_22AcOHUracil_monB_S66
+0
+-19.7479997526 S66_6375
+1
+4135_23AcNH2Uracil_dim_S66
+-1
+4135_23AcNH2Uracil_monA_S66
+-1
+4135_23AcNH2Uracil_monB_S66
+0
+-19.4239996705 S66_6376
+1
+4136_24BenzeneBenzenepipi_dim_S66
+-1
+4136_24BenzeneBenzenepipi_monA_S66
+-1
+4136_24BenzeneBenzenepipi_monB_S66
+0
+-2.6859996930 S66_6377
+1
+4137_25PyridinePyridinepipi_dim_S66
+-1
+4137_25PyridinePyridinepipi_monA_S66
+-1
+4137_25PyridinePyridinepipi_monB_S66
+0
+-3.7599997212 S66_6378
+1
+4138_26UracilUracilpipi_dim_S66
+-1
+4138_26UracilUracilpipi_monA_S66
+-1
+4138_26UracilUracilpipi_monB_S66
+0
+-9.7160002081 S66_6379
+1
+4139_27BenzenePyridinepipi_dim_S66
+-1
+4139_27BenzenePyridinepipi_monA_S66
+-1
+4139_27BenzenePyridinepipi_monB_S66
+0
+-3.3039998845 S66_6380
+1
+4140_28BenzeneUracilpipi_dim_S66
+-1
+4140_28BenzeneUracilpipi_monA_S66
+-1
+4140_28BenzeneUracilpipi_monB_S66
+0
+-5.5449999818 S66_6381
+1
+4141_29PyridineUracilpipi_dim_S66
+-1
+4141_29PyridineUracilpipi_monA_S66
+-1
+4141_29PyridineUracilpipi_monB_S66
+0
+-6.6609998464 S66_6382
+1
+4142_30BenzeneEthene_dim_S66
+-1
+4142_30BenzeneEthene_monA_S66
+-1
+4142_30BenzeneEthene_monB_S66
+0
+-1.3430001603 S66_6383
+1
+4143_31UracilEthene_dim_S66
+-1
+4143_31UracilEthene_monA_S66
+-1
+4143_31UracilEthene_monB_S66
+0
+-3.3059997572 S66_6384
+1
+4144_32UracilEthyne_dim_S66
+-1
+4144_32UracilEthyne_monA_S66
+-1
+4144_32UracilEthyne_monB_S66
+0
+-3.6749997984 S66_6385
+1
+4145_33PyridineEthene_dim_S66
+-1
+4145_33PyridineEthene_monA_S66
+-1
+4145_33PyridineEthene_monB_S66
+0
+-1.7840000106 S66_6386
+1
+4146_34PentanePentane_dim_S66
+-1
+4146_34PentanePentane_monA_S66
+-1
+4146_34PentanePentane_monB_S66
+0
+-3.7329998712 S66_6387
+1
+4147_35NeopentanePentane_dim_S66
+-1
+4147_35NeopentanePentane_monA_S66
+-1
+4147_35NeopentanePentane_monB_S66
+0
+-2.5830002886 S66_6388
+1
+4148_36NeopentaneNeopentane_dim_S66
+-1
+4148_36NeopentaneNeopentane_monA_S66
+-1
+4148_36NeopentaneNeopentane_monB_S66
+0
+-1.7500002925 S66_6389
+1
+4149_37CyclopentaneNeopentane_dim_S66
+-1
+4149_37CyclopentaneNeopentane_monA_S66
+-1
+4149_37CyclopentaneNeopentane_monB_S66
+0
+-2.3749997246 S66_6390
+1
+4150_38CyclopentaneCyclopentane_dim_S66
+-1
+4150_38CyclopentaneCyclopentane_monA_S66
+-1
+4150_38CyclopentaneCyclopentane_monB_S66
+0
+-2.9569996978 S66_6391
+1
+4151_39BenzeneCyclopentane_dim_S66
+-1
+4151_39BenzeneCyclopentane_monA_S66
+-1
+4151_39BenzeneCyclopentane_monB_S66
+0
+-3.4819998483 S66_6392
+1
+4152_40BenzeneNeopentane_dim_S66
+-1
+4152_40BenzeneNeopentane_monA_S66
+-1
+4152_40BenzeneNeopentane_monB_S66
+0
+-2.8230000705 S66_6393
+1
+4153_41UracilPentane_dim_S66
+-1
+4153_41UracilPentane_monA_S66
+-1
+4153_41UracilPentane_monB_S66
+0
+-4.7680001858 S66_6394
+1
+4154_42UracilCyclopentane_dim_S66
+-1
+4154_42UracilCyclopentane_monA_S66
+-1
+4154_42UracilCyclopentane_monB_S66
+0
+-4.0550000807 S66_6395
+1
+4155_43UracilNeopentane_dim_S66
+-1
+4155_43UracilNeopentane_monA_S66
+-1
+4155_43UracilNeopentane_monB_S66
+0
+-3.6599998120 S66_6396
+1
+4156_44EthenePentane_dim_S66
+-1
+4156_44EthenePentane_monA_S66
+-1
+4156_44EthenePentane_monB_S66
+0
+-1.9759997106 S66_6397
+1
+4157_45EthynePentane_dim_S66
+-1
+4157_45EthynePentane_monA_S66
+-1
+4157_45EthynePentane_monB_S66
+0
+-1.7040000833 S66_6398
+1
+4158_46PeptidePentane_dim_S66
+-1
+4158_46PeptidePentane_monA_S66
+-1
+4158_46PeptidePentane_monB_S66
+0
+-4.2160001854 S66_6399
+1
+4159_47BenzeneBenzeneTS_dim_S66
+-1
+4159_47BenzeneBenzeneTS_monA_S66
+-1
+4159_47BenzeneBenzeneTS_monB_S66
+0
+-2.8060002115 S66_6400
+1
+4160_48PyridinePyridineTS_dim_S66
+-1
+4160_48PyridinePyridineTS_monA_S66
+-1
+4160_48PyridinePyridineTS_monB_S66
+0
+-3.4769998528 S66_6401
+1
+4161_49BenzenePyridineTS_dim_S66
+-1
+4161_49BenzenePyridineTS_monA_S66
+-1
+4161_49BenzenePyridineTS_monB_S66
+0
+-3.2670000436 S66_6402
+1
+4162_50BenzeneEthyneCHpi_dim_S66
+-1
+4162_50BenzeneEthyneCHpi_monA_S66
+-1
+4162_50BenzeneEthyneCHpi_monB_S66
+0
+-2.8360001842 S66_6403
+1
+4163_51EthyneEthyneTS_dim_S66
+-1
+4163_51EthyneEthyneTS_monA_S66
+-1
+4163_51EthyneEthyneTS_monB_S66
+0
+-1.5279999922 S66_6404
+1
+4164_52BenzeneAcOHOHpi_dim_S66
+-1
+4164_52BenzeneAcOHOHpi_monA_S66
+-1
+4164_52BenzeneAcOHOHpi_monB_S66
+0
+-4.6909997538 S66_6405
+1
+4165_53BenzeneAcNH2NHpi_dim_S66
+-1
+4165_53BenzeneAcNH2NHpi_monA_S66
+-1
+4165_53BenzeneAcNH2NHpi_monB_S66
+0
+-4.3749997899 S66_6406
+1
+4166_54BenzeneWaterOHpi_dim_S66
+-1
+4166_54BenzeneWaterOHpi_monA_S66
+-1
+4166_54BenzeneWaterOHpi_monB_S66
+0
+-3.2629996708 S66_6407
+1
+4167_55BenzeneMeOHOHpi_dim_S66
+-1
+4167_55BenzeneMeOHOHpi_monA_S66
+-1
+4167_55BenzeneMeOHOHpi_monB_S66
+0
+-4.1369998806 S66_6408
+1
+4168_56BenzeneMeNH2NHpi_dim_S66
+-1
+4168_56BenzeneMeNH2NHpi_monA_S66
+-1
+4168_56BenzeneMeNH2NHpi_monB_S66
+0
+-3.1709998798 S66_6409
+1
+4169_57BenzenePeptideNHpi_dim_S66
+-1
+4169_57BenzenePeptideNHpi_monA_S66
+-1
+4169_57BenzenePeptideNHpi_monB_S66
+0
+-5.2190000270 S66_6410
+1
+4170_58PyridinePyridineCHN_dim_S66
+-1
+4170_58PyridinePyridineCHN_monA_S66
+-1
+4170_58PyridinePyridineCHN_monB_S66
+0
+-4.1930000808 S66_6411
+1
+4171_59EthyneWaterCHO_dim_S66
+-1
+4171_59EthyneWaterCHO_monA_S66
+-1
+4171_59EthyneWaterCHO_monB_S66
+0
+-2.9129999888 S66_6412
+1
+4172_60EthyneAcOHOHpi_dim_S66
+-1
+4172_60EthyneAcOHOHpi_monA_S66
+-1
+4172_60EthyneAcOHOHpi_monB_S66
+0
+-4.9330000359 S66_6413
+1
+4173_61PentaneAcOH_dim_S66
+-1
+4173_61PentaneAcOH_monA_S66
+-1
+4173_61PentaneAcOH_monB_S66
+0
+-2.8790002707 S66_6414
+1
+4174_62PentaneAcNH2_dim_S66
+-1
+4174_62PentaneAcNH2_monA_S66
+-1
+4174_62PentaneAcNH2_monB_S66
+0
+-3.4949999620 S66_6415
+1
+4175_63BenzeneAcOH_dim_S66
+-1
+4175_63BenzeneAcOH_monA_S66
+-1
+4175_63BenzeneAcOH_monB_S66
+0
+-3.7160000122 S66_6416
+1
+4176_64PeptideEthene_dim_S66
+-1
+4176_64PeptideEthene_monA_S66
+-1
+4176_64PeptideEthene_monB_S66
+0
+-2.9769996796 S66_6417
+1
+4177_65PyridineEthyne_dim_S66
+-1
+4177_65PyridineEthyne_monA_S66
+-1
+4177_65PyridineEthyne_monB_S66
+0
+-4.0709996896 S66_6418
+1
+4178_66MeNH2Pyridine_dim_S66
+-1
+4178_66MeNH2Pyridine_monA_S66
+-1
+4178_66MeNH2Pyridine_monB_S66
+0
+-3.9309998168 S66_6419

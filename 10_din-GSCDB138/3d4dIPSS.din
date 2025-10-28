@@ -1,0 +1,229 @@
+# Dataset: 3d4dIPSS
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Transition Metal
+# Description = Spin-state relative energies and ionization potentials for first-row (3d) and second-row (4d) transition metals
+# Theory level = Mixed
+# Number of datapoints = 35.0
+# RMS energy (kcal/mol) = 132.889129290908
+# Min energy (kcal/mol) = -1.89370248338459
+# Max energy (kcal/mol) = 212.279999884538
+# Year last updated = nan
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+3d4dIPSS_Sc_GS+
+-1
+3d4dIPSS_Sc_GS
+0
+150.5099987875 3d4dIPSS_90
+1
+3d4dIPSS_Ti_GS+
+-1
+3d4dIPSS_Ti_GS
+0
+156.4999989925 3d4dIPSS_91
+1
+3d4dIPSS_V_GS+
+-1
+3d4dIPSS_V_GS
+0
+149.5599990231 3d4dIPSS_92
+1
+3d4dIPSS_Cr_GS+
+-1
+3d4dIPSS_Cr_GS
+0
+153.7199990084 3d4dIPSS_93
+1
+3d4dIPSS_Mn_GS+
+-1
+3d4dIPSS_Mn_GS
+0
+169.8999987398 3d4dIPSS_94
+1
+3d4dIPSS_Fe_GS+
+-1
+3d4dIPSS_Fe_GS
+0
+180.2099987847 3d4dIPSS_95
+1
+3d4dIPSS_Co_GS+
+-1
+3d4dIPSS_Co_GS
+0
+171.1199988863 3d4dIPSS_96
+1
+3d4dIPSS_Ni_GS+
+-1
+3d4dIPSS_Ni_GS
+0
+162.9299987977 3d4dIPSS_97
+1
+3d4dIPSS_Cu_GS+
+-1
+3d4dIPSS_Cu_GS
+0
+173.1499989244 3d4dIPSS_98
+1
+3d4dIPSS_Zn_GS+
+-1
+3d4dIPSS_Zn_GS
+0
+212.2799985111 3d4dIPSS_99
+1
+3d4dIPSS_Y_GS+
+-1
+3d4dIPSS_Y_GS
+0
+141.4299988800 3d4dIPSS_100
+1
+3d4dIPSS_Zr_GS+
+-1
+3d4dIPSS_Zr_GS
+0
+153.2399988170 3d4dIPSS_101
+1
+3d4dIPSS_Nb_GS+
+-1
+3d4dIPSS_Nb_GS
+0
+156.9599992020 3d4dIPSS_102
+1
+3d4dIPSS_Mo_GS+
+-1
+3d4dIPSS_Mo_GS
+0
+162.7199989885 3d4dIPSS_103
+1
+3d4dIPSS_Tc_GS+
+-1
+3d4dIPSS_Tc_GS
+0
+164.2899988170 3d4dIPSS_104
+1
+3d4dIPSS_Ru_GS+
+-1
+3d4dIPSS_Ru_GS
+0
+170.9099990771 3d4dIPSS_105
+1
+3d4dIPSS_Rh_GS+
+-1
+3d4dIPSS_Rh_GS
+0
+173.0299990334 3d4dIPSS_106
+1
+3d4dIPSS_Pd_GS+
+-1
+3d4dIPSS_Pd_GS
+0
+194.7099987876 3d4dIPSS_107
+1
+3d4dIPSS_Ag_GS+
+-1
+3d4dIPSS_Ag_GS
+0
+175.7499990720 3d4dIPSS_108
+1
+3d4dIPSS_Cd_GS+
+-1
+3d4dIPSS_Cd_GS
+0
+207.8399987802 3d4dIPSS_109
+1
+3d4dIPSS_Sc_ES
+-1
+3d4dIPSS_Sc_GS
+0
+30.5399998615 3d4dIPSS_110
+1
+3d4dIPSS_Ti_ES
+-1
+3d4dIPSS_Ti_GS
+0
+15.6199996128 3d4dIPSS_111
+1
+3d4dIPSS_V_ES
+-1
+3d4dIPSS_V_GS
+0
+1.9200001380 3d4dIPSS_112
+1
+3d4dIPSS_Mn_ES
+-1
+3d4dIPSS_Mn_GS
+0
+51.6259075350 3d4dIPSS_113
+1
+3d4dIPSS_Fe_ES+
+-1
+3d4dIPSS_Fe_GS+
+0
+-1.8937024711 3d4dIPSS_114
+1
+3d4dIPSS_Co_ES+
+-1
+3d4dIPSS_Co_GS+
+0
+18.4862802665 3d4dIPSS_115
+1
+3d4dIPSS_Ni_ES+
+-1
+3d4dIPSS_Ni_GS+
+0
+34.6385760823 3d4dIPSS_116
+1
+3d4dIPSS_Cu_ES
+-1
+3d4dIPSS_Cu_GS
+0
+119.5615147338 3d4dIPSS_117
+1
+3d4dIPSS_Cu_ES+
+-1
+3d4dIPSS_Cu_GS+
+0
+75.7591907027 3d4dIPSS_118
+1
+3d4dIPSS_Zn_ES
+-1
+3d4dIPSS_Zn_GS
+0
+89.1040700182 3d4dIPSS_119
+1
+3d4dIPSS_Y_ES
+-1
+3d4dIPSS_Y_GS
+0
+32.0999996991 3d4dIPSS_120
+1
+3d4dIPSS_Zr_ES
+-1
+3d4dIPSS_Zr_GS
+0
+14.4000000937 3d4dIPSS_121
+1
+3d4dIPSS_Nb_ES
+-1
+3d4dIPSS_Nb_GS
+0
+3.6899997848 3d4dIPSS_122
+1
+3d4dIPSS_Rh_ES
+-1
+3d4dIPSS_Rh_GS
+0
+9.1799998166 3d4dIPSS_123
+1
+3d4dIPSS_Pd_ES
+-1
+3d4dIPSS_Pd_GS
+0
+72.7199998145 3d4dIPSS_124

@@ -1,0 +1,179 @@
+# Dataset: RC21
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Fragmentations and rearrangements in organic radical cations
+# Theory level = W1-F12
+# Number of datapoints = 21.0
+# RMS energy (kcal/mol) = 43.9412749252386
+# Min energy (kcal/mol) = -6.72000523280328
+# Max energy (kcal/mol) = 126.560095413581
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+RC21_1e
+1
+RC21_1p1
+1
+RC21_me
+0
+23.4300176169 RC21_5914
+-1
+RC21_1e
+1
+RC21_1p2
+1
+RC21_1p3
+0
+26.6600197022 RC21_5915
+-1
+RC21_2e
+1
+RC21_2p1
+1
+RC21_me
+0
+24.7400183092 RC21_5916
+-1
+RC21_2e
+1
+RC21_2p2
+1
+RC21_2p3
+0
+59.4400445113 RC21_5917
+-1
+RC21_3e
+1
+RC21_3p1
+1
+RC21_3p2
+0
+57.9300433733 RC21_5918
+-1
+RC21_3e
+1
+RC21_3int1
+0
+36.5600276497 RC21_5919
+-1
+RC21_3e
+1
+RC21_3int2
+0
+17.9100132198 RC21_5920
+-1
+RC21_3e
+1
+RC21_3int3
+0
+16.8000123458 RC21_5921
+-1
+RC21_3e
+1
+RC21_3p2
+1
+RC21_3p3
+0
+49.8500375371 RC21_5922
+-1
+RC21_4e
+1
+RC21_4p
+1
+RC21_me
+0
+45.1600336409 RC21_5923
+-1
+RC21_5e
+1
+RC21_5p
+1
+RC21_me
+0
+22.2400168156 RC21_5924
+-1
+RC21_6e
+1
+RC21_6int
+0
+-6.7200051893 RC21_5925
+-1
+RC21_6e
+1
+RC21_6p1
+1
+RC21_ethylene
+0
+21.2100158690 RC21_5926
+-1
+RC21_6e
+1
+RC21_6p3
+1
+RC21_me
+0
+22.0300163789 RC21_5927
+-1
+RC21_6e
+1
+RC21_1p2
+1
+RC21_pr
+0
+28.1200208856 RC21_5928
+-1
+RC21_7e
+1
+RC21_7p1
+1
+RC21_7p2
+0
+-0.7300005917 RC21_5929
+-1
+RC21_7e
+1
+RC21_7p3
+1
+RC21_7p4
+0
+50.6600380562 RC21_5930
+-1
+RC21_7e
+1
+RC21_7p5
+1
+RC21_7p6
+0
+30.3800225972 RC21_5931
+-1
+RC21_8e
+1
+RC21_8p1
+1
+RC21_ethylene
+0
+49.7300370187 RC21_5932
+-1
+RC21_9e
+1
+RC21_9p1
+1
+RC21_9p2
+0
+32.8100247819 RC21_5933
+-1
+RC21_10e
+1
+RC21_10p1
+1
+RC21_10p2
+0
+126.5600945947 RC21_5934

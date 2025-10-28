@@ -1,0 +1,147 @@
+# Dataset: IL16
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Interaction energies in anion-cation dimers 
+# Theory level = CCSD(T)(many, like F12-[DT]Z, [TQ]Z)
+# Number of datapoints = 16.0
+# RMS energy (kcal/mol) = 109.342827134629
+# Min energy (kcal/mol) = -120.800091197254
+# Max energy (kcal/mol) = -87.4200660897859
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+IL16_008
+-1
+IL16_008A
+-1
+IL16_008B
+0
+-100.4100750567 IL16_4349
+1
+IL16_144
+-1
+IL16_144A
+-1
+IL16_144B
+0
+-120.8000904157 IL16_4350
+1
+IL16_147
+-1
+IL16_147A
+-1
+IL16_147B
+0
+-116.9100876751 IL16_4351
+1
+IL16_148
+-1
+IL16_148A
+-1
+IL16_148B
+0
+-105.0100784072 IL16_4352
+1
+IL16_150
+-1
+IL16_150A
+-1
+IL16_150B
+0
+-104.4400782976 IL16_4353
+1
+IL16_152
+-1
+IL16_152A
+-1
+IL16_152B
+0
+-87.4200655242 IL16_4354
+1
+IL16_187
+-1
+IL16_187A
+-1
+IL16_187B
+0
+-114.0000852990 IL16_4355
+1
+IL16_202
+-1
+IL16_202A
+-1
+IL16_202B
+0
+-113.5100851167 IL16_4356
+1
+IL16_212
+-1
+IL16_212A
+-1
+IL16_212B
+0
+-114.9100863547 IL16_4357
+1
+IL16_213
+-1
+IL16_213A
+-1
+IL16_213B
+0
+-112.7500845523 IL16_4358
+1
+IL16_214
+-1
+IL16_214A
+-1
+IL16_214B
+0
+-104.4700782703 IL16_4359
+1
+IL16_227
+-1
+IL16_227A
+-1
+IL16_227B
+0
+-118.1900883946 IL16_4360
+1
+IL16_228
+-1
+IL16_228A
+-1
+IL16_228B
+0
+-112.0200839605 IL16_4361
+1
+IL16_229
+-1
+IL16_229A
+-1
+IL16_229B
+0
+-106.5300795362 IL16_4362
+1
+IL16_230
+-1
+IL16_230A
+-1
+IL16_230B
+0
+-110.9800830230 IL16_4363
+1
+IL16_231
+-1
+IL16_231A
+-1
+IL16_231B
+0
+-102.3700764134 IL16_4364

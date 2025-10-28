@@ -1,0 +1,149 @@
+# Dataset: SN13
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Nucleophilic substitution energies 
+# Theory level = W4 etc
+# Number of datapoints = 13.0
+# RMS energy (kcal/mol) = 25.6659336819812
+# Min energy (kcal/mol) = -48.0599980588738
+# Max energy (kcal/mol) = -2.53999959109794
+# Year last updated = 2011
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+W4-17_ch3f
+1
+W4-17_h
+-1
+W4-17_f
+-1
+W4-17_ch4
+0
+-2.5399995747 SN13_6915
+1
+W4-17_ch2f2
+1
+W4-17_h
+-1
+W4-17_f
+-1
+W4-17_ch3f
+0
+-14.7099991846 SN13_6916
+1
+W4-17_ch3f
+1
+W4-17_ch3
+-1
+W4-17_f
+-1
+W4-17_c2h6
+0
+-17.7499989324 SN13_6917
+1
+W4-17_ch2f2
+1
+W4-17_ch3
+-1
+W4-17_f
+-1
+W4-17_c2h5f
+0
+-24.0399988649 SN13_6918
+1
+W4-17_c2h5f
+1
+W4-17_ch3
+-1
+W4-17_f
+-1
+W4-17_propane
+0
+-21.4599986990 SN13_6919
+1
+W4-17_ch3f
+1
+W4-17_nh2
+-1
+W4-17_f
+-1
+W4-17_ch3nh2
+0
+-23.2499989552 SN13_6920
+1
+W4-17_ch3f
+1
+W4-17_nh
+-1
+W4-17_f
+-1
+W4-17_ch3nh
+0
+-31.4299984254 SN13_6921
+1
+W4-17_ch3f
+1
+W4-17_oh
+-1
+W4-17_f
+-1
+W4-17_methanol
+0
+-16.6699992862 SN13_6922
+1
+W4-17_ch3f
+1
+W4-17_hco
+-1
+W4-17_f
+-1
+W4-17_acetaldehyde
+0
+-24.5199990563 SN13_6923
+1
+W4-17_ch3
+1
+W4-17_hcof
+-1
+W4-17_f
+-1
+W4-17_acetaldehyde
+0
+-33.7499981999 SN13_6924
+1
+W4-17_hcof
+1
+W4-17_h
+-1
+W4-17_f
+-1
+W4-17_h2co
+0
+-29.0799986781 SN13_6925
+1
+W4-17_f2co
+1
+W4-17_h
+-1
+W4-17_f
+-1
+W4-17_hcof
+0
+-16.8899990863 SN13_6926
+1
+W4-17_hcof
+1
+W4-17_hco
+-1
+W4-17_f
+-1
+W4-17_glyoxal
+0
+-48.0599977479 SN13_6927

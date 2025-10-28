@@ -1,0 +1,107 @@
+# Dataset: DC13
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = 13 difficult cases for DFT methods
+# Theory level = Various
+# Number of datapoints = 13.0
+# RMS energy (kcal/mol) = 71.3183147217153
+# Min energy (kcal/mol) = -106.000080076026
+# Max energy (kcal/mol) = 152.600115220062
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+DC13_ISO_E36
+-1
+DC13_ISO_P36
+0
+-1.0000009739 DC13_2163
+-1
+DC13_c20cage
+1
+DC13_c20bowl
+0
+-7.7000055539 DC13_2164
+1
+DC13_heptatriyne
+-1
+DC13_heptahexaene
+0
+-15.2000112895 DC13_2165
+-2
+DC13_tmethen
+1
+DC13_omcb
+0
+-18.8000142936 DC13_2166
+1
+DC13_ISO_E35
+-1
+DC13_ISO_P35
+0
+-22.9000168434 DC13_2167
+-1
+DC13_carbooxo2
+1
+DC13_carbooxo1
+0
+-25.7000193194 DC13_2168
+-1
+DC13_ethen
+-1
+DC13_ch2n2
+1
+DC13_13dip
+0
+-38.9000292886 DC13_2169
+1
+DC13_be4
+-4
+DC13_be
+0
+-92.0000688929 DC13_2170
+-4
+DC13_s2
+1
+DC13_s8
+0
+-106.0000793902 DC13_2171
+-1
+DC13_ISO_C8H8_1
+1
+DC13_ISO_C8H8_41
+0
+109.9200821036 DC13_2172
+-1
+DC13_o3
+-1
+DC13_c2h2
+1
+DC13_o3_c2h2_add
+0
+-65.3000485995 DC13_2173
+-1
+DC13_o3
+-1
+DC13_c2h4
+1
+DC13_o3_c2h4_add
+0
+-58.7000439287 DC13_2174
+-1
+DC13_C6Cl6
+-6
+DC13_HCL
+1
+DC13_C6H6
+6
+DC13_CL2
+0
+152.6001142327 DC13_2175

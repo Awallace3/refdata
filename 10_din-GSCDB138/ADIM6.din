@@ -1,0 +1,55 @@
+# Dataset: ADIM6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Interaction energies of n-alkane dimers
+# Theory level = W1-F12
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 3.65966356464281
+# Min energy (kcal/mol) = 1.340001301173
+# Max energy (kcal/mol) = 5.5500044057763
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+2
+ADIM6_AM2
+-1
+ADIM6_AD2
+0
+1.3400012925 ADIM6_278
+2
+ADIM6_AM3
+-1
+ADIM6_AD3
+0
+1.9900013294 ADIM6_279
+2
+ADIM6_AM4
+-1
+ADIM6_AD4
+0
+2.8900023942 ADIM6_280
+2
+ADIM6_AM5
+-1
+ADIM6_AD5
+0
+3.7800028406 ADIM6_281
+2
+ADIM6_AM6
+-1
+ADIM6_AD6
+0
+4.6000033505 ADIM6_282
+2
+ADIM6_AM7
+-1
+ADIM6_AD7
+0
+5.5500043699 ADIM6_283

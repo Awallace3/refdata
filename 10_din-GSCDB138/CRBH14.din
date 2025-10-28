@@ -1,0 +1,103 @@
+# Dataset: CRBH14
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Barrier heights for cycloreversion of heterocyclic rings 
+# Theory level = W1-F12 and W1w
+# Number of datapoints = 14.0
+# RMS energy (kcal/mol) = 45.8495196891599
+# Min energy (kcal/mol) = 33.712027192494
+# Max energy (kcal/mol) = 52.4170498510999
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+3ts_CRBH20
+-1
+3react_CRBH20
+0
+48.4098311399 CRBH14_1998
+1
+4ts_CRBH20
+-1
+4react_CRBH20
+0
+49.9085691105 CRBH14_1999
+1
+5ts_CRBH20
+-1
+5react_CRBH20
+0
+47.6563303185 CRBH14_2000
+1
+6ts_CRBH20
+-1
+6react_CRBH20
+0
+43.7476867816 CRBH14_2001
+1
+7ts_CRBH20
+-1
+7react_CRBH20
+0
+33.7120269744 CRBH14_2002
+1
+8ts_CRBH20
+-1
+8react_CRBH20
+0
+50.5801987713 CRBH14_2003
+1
+9ts_CRBH20
+-1
+9react_CRBH20
+0
+45.1826503372 CRBH14_2004
+1
+13ts_CRBH20
+-1
+13react_CRBH20
+0
+49.5464942637 CRBH14_2005
+1
+14ts_CRBH20
+-1
+14react_CRBH20
+0
+52.4170495120 CRBH14_2006
+1
+15ts_CRBH20
+-1
+15react_CRBH20
+0
+48.7888048166 CRBH14_2007
+1
+16ts_CRBH20
+-1
+16react_CRBH20
+0
+41.4040970435 CRBH14_2008
+1
+17ts_CRBH20
+-1
+17react_CRBH20
+0
+34.4429330623 CRBH14_2009
+1
+18ts_CRBH20
+-1
+18react_CRBH20
+0
+45.6418762001 CRBH14_2010
+1
+19ts_CRBH20
+-1
+19react_CRBH20
+0
+45.9157978889 CRBH14_2011

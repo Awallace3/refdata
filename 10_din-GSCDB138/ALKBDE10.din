@@ -1,0 +1,99 @@
+# Dataset: ALKBDE10
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Dissociation energies in group-1 and -2 diatomics (many MR)
+# Theory level = Exp.
+# Number of datapoints = 10.0
+# RMS energy (kcal/mol) = 105.533017657834
+# Min energy (kcal/mol) = 56.7000429751974
+# Max energy (kcal/mol) = 142.100107122245
+# Year last updated = 2017(15)
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+ALKBDE10_bef
+1
+ALKBDE10_be
+1
+ALKBDE10_f
+0
+138.7001036445 ALKBDE10_348
+-1
+ALKBDE10_beo
+1
+ALKBDE10_be
+1
+ALKBDE10_o
+0
+106.6000801001 ALKBDE10_349
+-1
+ALKBDE10_cao
+1
+ALKBDE10_ca
+1
+ALKBDE10_o
+0
+96.2000719793 ALKBDE10_350
+-1
+ALKBDE10_hf
+1
+ALKBDE10_h
+1
+ALKBDE10_f
+0
+142.1001062029 ALKBDE10_351
+-1
+ALKBDE10_kf
+1
+ALKBDE10_k
+1
+ALKBDE10_f
+0
+117.5000877665 ALKBDE10_352
+-1
+ALKBDE10_lif
+1
+ALKBDE10_li
+1
+ALKBDE10_f
+0
+139.2001044453 ALKBDE10_353
+-1
+ALKBDE10_lio
+1
+ALKBDE10_li
+1
+ALKBDE10_o
+0
+82.5000618369 ALKBDE10_354
+-1
+ALKBDE10_mgo
+1
+ALKBDE10_mg
+1
+ALKBDE10_o
+0
+62.2000463961 ALKBDE10_355
+-1
+ALKBDE10_mgs
+1
+ALKBDE10_mg
+1
+ALKBDE10_s
+0
+56.7000426083 ALKBDE10_356
+-1
+ALKBDE10_nao
+1
+ALKBDE10_na
+1
+ALKBDE10_o
+0
+65.2000486904 ALKBDE10_357

@@ -1,0 +1,131 @@
+# Dataset: DS14
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of complexes containing divalent sulfur
+# Theory level = HF/aQZ+MP2/a[TQ]Z+CCSD(T) /aTZ
+# Number of datapoints = 14.0
+# RMS energy (kcal/mol) = 3.7036389838281
+# Min energy (kcal/mol) = -6.32999973813132
+# Max energy (kcal/mol) = -0.84999996485876
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+11_ch3oh_ch3sch3_cs_dim_DS14
+-1
+11_ch3oh_ch3sch3_cs_monA_DS14
+-1
+11_ch3oh_ch3sch3_cs_monB_DS14
+0
+-5.6899997277 DS14_2245
+1
+12_ch3sch3_benzene_c2v_dim_DS14
+-1
+12_ch3sch3_benzene_c2v_monA_DS14
+-1
+12_ch3sch3_benzene_c2v_monB_DS14
+0
+-1.1199999462 DS14_2246
+1
+13_ch3sh_benzene_cs_dim_DS14
+-1
+13_ch3sh_benzene_cs_monA_DS14
+-1
+13_ch3sh_benzene_cs_monB_DS14
+0
+-3.4999998325 DS14_2247
+1
+14_ch3sh_dimer_dim_DS14
+-1
+14_ch3sh_dimer_monA_DS14
+-1
+14_ch3sh_dimer_monB_DS14
+0
+-3.1499998494 DS14_2248
+1
+15_ch3sh_h2co_dim_DS14
+-1
+15_ch3sh_h2co_monA_DS14
+-1
+15_ch3sh_h2co_monB_DS14
+0
+-3.1099998512 DS14_2249
+1
+16_ch3sh_h2o_cs_dim_DS14
+-1
+16_ch3sh_h2o_cs_monA_DS14
+-1
+16_ch3sh_h2o_cs_monB_DS14
+0
+-2.3599998869 DS14_2250
+1
+17_ch3sh_nh3_cs_dim_DS14
+-1
+17_ch3sh_nh3_cs_monA_DS14
+-1
+17_ch3sh_nh3_cs_monB_DS14
+0
+-2.9499998591 DS14_2251
+1
+18_formamide_ch3sh_dim_DS14
+-1
+18_formamide_ch3sh_monA_DS14
+-1
+18_formamide_ch3sh_monB_DS14
+0
+-6.3299996972 DS14_2252
+1
+19_h2o_ch3sch3_cs_dim_DS14
+-1
+19_h2o_ch3sch3_cs_monA_DS14
+-1
+19_h2o_ch3sch3_cs_monB_DS14
+0
+-5.3499997442 DS14_2253
+1
+20_h2o_dimer_cs_dim_DS14
+-1
+20_h2o_dimer_cs_monA_DS14
+-1
+20_h2o_dimer_cs_monB_DS14
+0
+-4.9599997629 DS14_2254
+1
+21_h2o_h2s_cs_dim_DS14
+-1
+21_h2o_h2s_cs_monA_DS14
+-1
+21_h2o_h2s_cs_monB_DS14
+0
+-2.8999998613 DS14_2255
+1
+22_h2s_ch4_dim_DS14
+-1
+22_h2s_ch4_monA_DS14
+-1
+22_h2s_ch4_monB_DS14
+0
+-0.8499999594 DS14_2256
+1
+23_h2s_dimer_cs_dim_DS14
+-1
+23_h2s_dimer_cs_monA_DS14
+-1
+23_h2s_dimer_cs_monB_DS14
+0
+-1.6699999202 DS14_2257
+1
+24_h2s_h2o_cs_dim_DS14
+-1
+24_h2s_h2o_cs_monA_DS14
+-1
+24_h2s_h2o_cs_monB_DS14
+0
+-2.6599998729 DS14_2258

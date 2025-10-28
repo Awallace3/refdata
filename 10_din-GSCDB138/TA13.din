@@ -1,0 +1,123 @@
+# Dataset: TA13
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of dimers involving radicals 
+# Theory level = CCSD(T)/a'[Q5]Z+T/TZ+ (Q) /DZ+ core/aQZ
+# Number of datapoints = 13.0
+# RMS energy (kcal/mol) = 21.999769779298
+# Min energy (kcal/mol) = -64.201717934553
+# Max energy (kcal/mol) = -1.68977068944772
+# Year last updated = 2013
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+19_H2O-Al_TA13
+-1
+11_H2O_TA13
+-1
+32_al_TA13
+0
+-7.5908220437 TA13_7479
+1
+20_H2O-Be+_TA13
+-1
+11_H2O_TA13
+-1
+33_be+_TA13
+0
+-64.2017175192 TA13_7480
+1
+21_H2O-Br_TA13
+-1
+11_H2O_TA13
+-1
+34_br_TA13
+0
+-3.5205540301 TA13_7481
+1
+22_HOH-CH3_TA13
+-1
+11_H2O_TA13
+-1
+14_CH3_TA13
+0
+-1.6897706785 TA13_7482
+1
+23_H2O-Cl_TA13
+-1
+11_H2O_TA13
+-1
+35_cl_TA13
+0
+-3.6902482785 TA13_7483
+1
+24_H2O-F_TA13
+-1
+11_H2O_TA13
+-1
+36_f_TA13
+0
+-3.8288720231 TA13_7484
+1
+25_H2O-Li_TA13
+-1
+11_H2O_TA13
+-1
+37_li_TA13
+0
+-12.3852767737 TA13_7485
+1
+26_H2O-HNH2+_TA13
+-1
+11_H2O_TA13
+-1
+17_NH3+_TA13
+0
+-24.0774367074 TA13_7486
+1
+27_H2O-NH3+_TA13
+-1
+11_H2O_TA13
+-1
+17_NH3+_TA13
+0
+-18.3460795906 TA13_7487
+1
+28_FH-BH2_TA13
+-1
+12_HF_TA13
+-1
+13_BH2_TA13
+0
+-4.0368066986 TA13_7488
+1
+29_HF-CO+_TA13
+-1
+12_HF_TA13
+-1
+15_CO+_TA13
+0
+-29.1682585125 TA13_7489
+1
+30_FH-NH2_TA13
+-1
+12_HF_TA13
+-1
+16_NH2_TA13
+0
+-9.8374753738 TA13_7490
+1
+31_FH-OH_TA13
+-1
+12_HF_TA13
+-1
+18_OH_TA13
+0
+-5.9416826033 TA13_7491

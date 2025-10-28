@@ -1,0 +1,67 @@
+# Dataset: CHB6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Interaction energies in cation-neutral dimers 
+# Theory level = CCSD(T)(many, like F12-[DT]Z, [TQ]Z)
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 27.8452411801269
+# Min energy (kcal/mol) = -39.090029368902
+# Max energy (kcal/mol) = -17.830013407825
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+CHB6_22
+-1
+CHB6_22A
+-1
+CHB6_22B
+0
+-34.4300258200 CHB6_1972
+1
+CHB6_23
+-1
+CHB6_23A
+-1
+CHB6_23B
+0
+-23.8300178810 CHB6_1973
+1
+CHB6_24
+-1
+CHB6_24A
+-1
+CHB6_24B
+0
+-17.8300132925 CHB6_1974
+1
+CHB6_25
+-1
+CHB6_25A
+-1
+CHB6_25B
+0
+-39.0900291160 CHB6_1975
+1
+CHB6_26
+-1
+CHB6_26A
+-1
+CHB6_26B
+0
+-25.6300193830 CHB6_1976
+1
+CHB6_27
+-1
+CHB6_27A
+-1
+CHB6_27B
+0
+-19.9000151767 CHB6_1977

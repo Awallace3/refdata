@@ -1,0 +1,1043 @@
+# Dataset: HR46
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Electric field
+# Description = Static polarizabilities (including individual components) for 46 systems at equilibrium
+# Theory level = FPA-a[DT]Z to FPA-a[Q5]Z
+# Number of datapoints = 128.0
+# RMS energy (kcal/mol) = 0.472500475972862
+# Min energy (kcal/mol) = 0.0823097902029761
+# Max energy (kcal/mol) = 1.07959114453284
+# Year last updated = 2023
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+HR46_bromine0+
+-1
+HR46_bromine0-
+2
+HR46_bromine
+0
+0.6081482928 HR46_3787
+-1
+HR46_bromine1+
+-1
+HR46_bromine1-
+2
+HR46_bromine
+0
+0.3551094916 HR46_3788
+-1
+HR46_chlorine0+
+-1
+HR46_chlorine0-
+2
+HR46_chlorine
+0
+0.4178824014 HR46_3789
+-1
+HR46_chlorine1+
+-1
+HR46_chlorine1-
+2
+HR46_chlorine
+0
+0.2478499254 HR46_3790
+-1
+HR46_nitrogen0+
+-1
+HR46_nitrogen0-
+2
+HR46_nitrogen
+0
+0.1503286787 HR46_3791
+-1
+HR46_nitrogen1+
+-1
+HR46_nitrogen1-
+2
+HR46_nitrogen
+0
+0.1028211917 HR46_3792
+-1
+HR46_oxygen0+
+-1
+HR46_oxygen0-
+2
+HR46_oxygen
+0
+0.1555740303 HR46_3793
+-1
+HR46_oxygen1+
+-1
+HR46_oxygen1-
+2
+HR46_oxygen
+0
+0.0823097897 HR46_3794
+-1
+HR46_carbon_monoxide0+
+-1
+HR46_carbon_monoxide0-
+2
+HR46_carbon_monoxide
+0
+0.1557095724 HR46_3795
+-1
+HR46_carbon_monoxide1+
+-1
+HR46_carbon_monoxide1-
+2
+HR46_carbon_monoxide
+0
+0.1188935918 HR46_3796
+-1
+HR46_nitrogen_monoxide0+
+-1
+HR46_nitrogen_monoxide0-
+2
+HR46_nitrogen_monoxide
+0
+0.1005652952 HR46_3797
+-1
+HR46_nitrogen_monoxide2+
+-1
+HR46_nitrogen_monoxide2-
+2
+HR46_nitrogen_monoxide
+0
+0.1478945694 HR46_3798
+-1
+HR46_sulfur_monoxide0+
+-1
+HR46_sulfur_monoxide0-
+2
+HR46_sulfur_monoxide
+0
+0.2984253062 HR46_3799
+-1
+HR46_sulfur_monoxide1+
+-1
+HR46_sulfur_monoxide1-
+2
+HR46_sulfur_monoxide
+0
+0.1987027562 HR46_3800
+-1
+HR46_carbon_dioxide0+
+-1
+HR46_carbon_dioxide0-
+2
+HR46_carbon_dioxide
+0
+0.2694400162 HR46_3801
+-1
+HR46_carbon_dioxide1+
+-1
+HR46_carbon_dioxide1-
+2
+HR46_carbon_dioxide
+0
+0.1284386383 HR46_3802
+-1
+HR46_sulfur_dioxide0+
+-1
+HR46_sulfur_dioxide0-
+2
+HR46_sulfur_dioxide
+0
+0.3145259441 HR46_3803
+-1
+HR46_sulfur_dioxide1+
+-1
+HR46_sulfur_dioxide1-
+2
+HR46_sulfur_dioxide
+0
+0.2259655326 HR46_3804
+-1
+HR46_sulfur_dioxide2+
+-1
+HR46_sulfur_dioxide2-
+2
+HR46_sulfur_dioxide
+0
+0.2459510817 HR46_3805
+-1
+HR46_ethene0+
+-1
+HR46_ethene0-
+2
+HR46_ethene
+0
+0.3373478361 HR46_3806
+-1
+HR46_ethene1+
+-1
+HR46_ethene1-
+2
+HR46_ethene
+0
+0.2415403177 HR46_3807
+-1
+HR46_ethene2+
+-1
+HR46_ethene2-
+2
+HR46_ethene
+0
+0.2217587092 HR46_3808
+-1
+HR46_propane0+
+-1
+HR46_propane0-
+2
+HR46_propane
+0
+0.4195942473 HR46_3809
+-1
+HR46_propane1+
+-1
+HR46_propane1-
+2
+HR46_propane
+0
+0.3878610934 HR46_3810
+-1
+HR46_propane2+
+-1
+HR46_propane2-
+2
+HR46_propane
+0
+0.3830229954 HR46_3811
+-1
+HR46_1-3-butadiene0+
+-1
+HR46_1-3-butadiene0-
+2
+HR46_1-3-butadiene
+0
+0.7721152623 HR46_3812
+-1
+HR46_1-3-butadiene1+
+-1
+HR46_1-3-butadiene1-
+2
+HR46_1-3-butadiene
+0
+0.4195289863 HR46_3813
+-1
+HR46_1-3-butadiene2+
+-1
+HR46_1-3-butadiene2-
+2
+HR46_1-3-butadiene
+0
+0.4117196309 HR46_3814
+-1
+HR46_isobutene0+
+-1
+HR46_isobutene0-
+2
+HR46_isobutene
+0
+0.6086176699 HR46_3815
+-1
+HR46_isobutene1+
+-1
+HR46_isobutene1-
+2
+HR46_isobutene
+0
+0.4524029524 HR46_3816
+-1
+HR46_isobutene2+
+-1
+HR46_isobutene2-
+2
+HR46_isobutene
+0
+0.4675861715 HR46_3817
+-1
+HR46_1-pentene0+
+-1
+HR46_1-pentene0-
+2
+HR46_1-pentene
+0
+0.6911025347 HR46_3818
+-1
+HR46_1-pentene1+
+-1
+HR46_1-pentene1-
+2
+HR46_1-pentene
+0
+0.5707060578 HR46_3819
+-1
+HR46_1-pentene2+
+-1
+HR46_1-pentene2-
+2
+HR46_1-pentene
+0
+0.6345388311 HR46_3820
+-1
+HR46_water0+
+-1
+HR46_water0-
+2
+HR46_water
+0
+0.0977383650 HR46_3821
+-1
+HR46_water1+
+-1
+HR46_water1-
+2
+HR46_water
+0
+0.0950632921 HR46_3822
+-1
+HR46_water2+
+-1
+HR46_water2-
+2
+HR46_water
+0
+0.0935622895 HR46_3823
+-1
+HR46_methanol0+
+-1
+HR46_methanol0-
+2
+HR46_methanol
+0
+0.2277746424 HR46_3824
+-1
+HR46_methanol1+
+-1
+HR46_methanol1-
+2
+HR46_methanol
+0
+0.2006197976 HR46_3825
+-1
+HR46_methanol2+
+-1
+HR46_methanol2-
+2
+HR46_methanol
+0
+0.1949013038 HR46_3826
+-1
+HR46_ethanol0+
+-1
+HR46_ethanol0-
+2
+HR46_ethanol
+0
+0.3602613444 HR46_3827
+-1
+HR46_ethanol1+
+-1
+HR46_ethanol1-
+2
+HR46_ethanol
+0
+0.3198139664 HR46_3828
+-1
+HR46_ethanol2+
+-1
+HR46_ethanol2-
+2
+HR46_ethanol
+0
+0.2986361493 HR46_3829
+-1
+HR46_methylformate0+
+-1
+HR46_methylformate0-
+2
+HR46_methylformate
+0
+0.3684905035 HR46_3830
+-1
+HR46_methylformate1+
+-1
+HR46_methylformate1-
+2
+HR46_methylformate
+0
+0.3106924888 HR46_3831
+-1
+HR46_methylformate2+
+-1
+HR46_methylformate2-
+2
+HR46_methylformate
+0
+0.3266155416 HR46_3832
+-1
+HR46_methylacetate0+
+-1
+HR46_methylacetate0-
+2
+HR46_methylacetate
+0
+0.4625071099 HR46_3833
+-1
+HR46_methylacetate1+
+-1
+HR46_methylacetate1-
+2
+HR46_methylacetate
+0
+0.4651859478 HR46_3834
+-1
+HR46_methylacetate2+
+-1
+HR46_methylacetate2-
+2
+HR46_methylacetate
+0
+0.4281980296 HR46_3835
+-1
+HR46_acetone0+
+-1
+HR46_acetone0-
+2
+HR46_acetone
+0
+0.4570766429 HR46_3836
+-1
+HR46_acetone1+
+-1
+HR46_acetone1-
+2
+HR46_acetone
+0
+0.4325949885 HR46_3837
+-1
+HR46_acetone2+
+-1
+HR46_acetone2-
+2
+HR46_acetone
+0
+0.3429747135 HR46_3838
+-1
+HR46_acetaldehyde0+
+-1
+HR46_acetaldehyde0-
+2
+HR46_acetaldehyde
+0
+0.3497135377 HR46_3839
+-1
+HR46_acetaldehyde1+
+-1
+HR46_acetaldehyde1-
+2
+HR46_acetaldehyde
+0
+0.2948039490 HR46_3840
+-1
+HR46_acetaldehyde2+
+-1
+HR46_acetaldehyde2-
+2
+HR46_acetaldehyde
+0
+0.2441356969 HR46_3841
+-1
+HR46_acetic_acid0+
+-1
+HR46_acetic_acid0-
+2
+HR46_acetic_acid
+0
+0.3760978008 HR46_3842
+-1
+HR46_acetic_acid1+
+-1
+HR46_acetic_acid1-
+2
+HR46_acetic_acid
+0
+0.3697461500 HR46_3843
+-1
+HR46_acetic_acid2+
+-1
+HR46_acetic_acid2-
+2
+HR46_acetic_acid
+0
+0.2619450431 HR46_3844
+-1
+HR46_dimethyl_ether0+
+-1
+HR46_dimethyl_ether0-
+2
+HR46_dimethyl_ether
+0
+0.3525505080 HR46_3845
+-1
+HR46_dimethyl_ether1+
+-1
+HR46_dimethyl_ether1-
+2
+HR46_dimethyl_ether
+0
+0.3094242921 HR46_3846
+-1
+HR46_dimethyl_ether2+
+-1
+HR46_dimethyl_ether2-
+2
+HR46_dimethyl_ether
+0
+0.3230023421 HR46_3847
+-1
+HR46_N-methylacetamide0+
+-1
+HR46_N-methylacetamide0-
+2
+HR46_N-methylacetamide
+0
+0.5243958589 HR46_3848
+-1
+HR46_N-methylacetamide1+
+-1
+HR46_N-methylacetamide1-
+2
+HR46_N-methylacetamide
+0
+0.4301589967 HR46_3849
+-1
+HR46_N-methylacetamide2+
+-1
+HR46_N-methylacetamide2-
+2
+HR46_N-methylacetamide
+0
+0.5592715802 HR46_3850
+-1
+HR46_dimethyl_sulfide0+
+-1
+HR46_dimethyl_sulfide0-
+2
+HR46_dimethyl_sulfide
+0
+0.5292057190 HR46_3851
+-1
+HR46_dimethyl_sulfide1+
+-1
+HR46_dimethyl_sulfide1-
+2
+HR46_dimethyl_sulfide
+0
+0.4380398881 HR46_3852
+-1
+HR46_dimethyl_sulfide2+
+-1
+HR46_dimethyl_sulfide2-
+2
+HR46_dimethyl_sulfide
+0
+0.4818544819 HR46_3853
+-1
+HR46_dimethyl_sulfone0+
+-1
+HR46_dimethyl_sulfone0-
+2
+HR46_dimethyl_sulfone
+0
+0.5420690356 HR46_3854
+-1
+HR46_dimethyl_sulfone1+
+-1
+HR46_dimethyl_sulfone1-
+2
+HR46_dimethyl_sulfone
+0
+0.5104827189 HR46_3855
+-1
+HR46_dimethyl_sulfone2+
+-1
+HR46_dimethyl_sulfone2-
+2
+HR46_dimethyl_sulfone
+0
+0.5307826503 HR46_3856
+-1
+HR46_fluoromethane0+
+-1
+HR46_fluoromethane0-
+2
+HR46_fluoromethane
+0
+0.1767323946 HR46_3857
+-1
+HR46_fluoromethane1+
+-1
+HR46_fluoromethane1-
+2
+HR46_fluoromethane
+0
+0.1613100944 HR46_3858
+-1
+HR46_phosphine0+
+-1
+HR46_phosphine0-
+2
+HR46_phosphine
+0
+0.2950198123 HR46_3859
+-1
+HR46_phosphine1+
+-1
+HR46_phosphine1-
+2
+HR46_phosphine
+0
+0.2933587947 HR46_3860
+-1
+HR46_phosphine2+
+-1
+HR46_phosphine2-
+2
+HR46_phosphine
+0
+0.3067197263 HR46_3861
+-1
+HR46_hydrogen_sulfide0+
+-1
+HR46_hydrogen_sulfide0-
+2
+HR46_hydrogen_sulfide
+0
+0.2404453137 HR46_3862
+-1
+HR46_hydrogen_sulfide1+
+-1
+HR46_hydrogen_sulfide1-
+2
+HR46_hydrogen_sulfide
+0
+0.2443816806 HR46_3863
+-1
+HR46_hydrogen_sulfide2+
+-1
+HR46_hydrogen_sulfide2-
+2
+HR46_hydrogen_sulfide
+0
+0.2408707651 HR46_3864
+-1
+HR46_silane0+
+-1
+HR46_silane0-
+2
+HR46_silane
+0
+0.3088055678 HR46_3865
+-1
+HR46_silane1+
+-1
+HR46_silane1-
+2
+HR46_silane
+0
+0.3088181180 HR46_3866
+-1
+HR46_ammonia0+
+-1
+HR46_ammonia0-
+2
+HR46_ammonia
+0
+0.1364732696 HR46_3867
+-1
+HR46_ammonia1+
+-1
+HR46_ammonia1-
+2
+HR46_ammonia
+0
+0.1349132810 HR46_3868
+-1
+HR46_ammonia2+
+-1
+HR46_ammonia2-
+2
+HR46_ammonia
+0
+0.1490535794 HR46_3869
+-1
+HR46_dimethyl_amine0+
+-1
+HR46_dimethyl_amine0-
+2
+HR46_dimethyl_amine
+0
+0.3967102319 HR46_3870
+-1
+HR46_dimethyl_amine1+
+-1
+HR46_dimethyl_amine1-
+2
+HR46_dimethyl_amine
+0
+0.3436179107 HR46_3871
+-1
+HR46_dimethyl_amine2+
+-1
+HR46_dimethyl_amine2-
+2
+HR46_dimethyl_amine
+0
+0.3790006597 HR46_3872
+-1
+HR46_trimethyl_amine0+
+-1
+HR46_trimethyl_amine0-
+2
+HR46_trimethyl_amine
+0
+0.5080002914 HR46_3873
+-1
+HR46_trimethyl_amine1+
+-1
+HR46_trimethyl_amine1-
+2
+HR46_trimethyl_amine
+0
+0.5093255914 HR46_3874
+-1
+HR46_trimethyl_amine2+
+-1
+HR46_trimethyl_amine2-
+2
+HR46_trimethyl_amine
+0
+0.4776633461 HR46_3875
+-1
+HR46_acetonitrile0+
+-1
+HR46_acetonitrile0-
+2
+HR46_acetonitrile
+0
+0.3892158863 HR46_3876
+-1
+HR46_acetonitrile1+
+-1
+HR46_acetonitrile1-
+2
+HR46_acetonitrile
+0
+0.2396565343 HR46_3877
+-1
+HR46_acetonitrile2+
+-1
+HR46_acetonitrile2-
+2
+HR46_acetonitrile
+0
+0.2396458666 HR46_3878
+-1
+HR46_imidazole0+
+-1
+HR46_imidazole0-
+2
+HR46_imidazole
+0
+0.5468393626 HR46_3879
+-1
+HR46_imidazole1+
+-1
+HR46_imidazole1-
+2
+HR46_imidazole
+0
+0.5629023500 HR46_3880
+-1
+HR46_imidazole2+
+-1
+HR46_imidazole2-
+2
+HR46_imidazole
+0
+0.3348083052 HR46_3881
+-1
+HR46_pyrrole0+
+-1
+HR46_pyrrole0-
+2
+HR46_pyrrole
+0
+0.6022509588 HR46_3882
+-1
+HR46_pyrrole1+
+-1
+HR46_pyrrole1-
+2
+HR46_pyrrole
+0
+0.6223984054 HR46_3883
+-1
+HR46_pyrrole2+
+-1
+HR46_pyrrole2-
+2
+HR46_pyrrole
+0
+0.3817610738 HR46_3884
+-1
+HR46_pyrazole0+
+-1
+HR46_pyrazole0-
+2
+HR46_pyrazole
+0
+0.5457010604 HR46_3885
+-1
+HR46_pyrazole1+
+-1
+HR46_pyrazole1-
+2
+HR46_pyrazole
+0
+0.5596085528 HR46_3886
+-1
+HR46_pyrazole2+
+-1
+HR46_pyrazole2-
+2
+HR46_pyrazole
+0
+0.3364366923 HR46_3887
+-1
+HR46_furan0+
+-1
+HR46_furan0-
+2
+HR46_furan
+0
+0.5218092648 HR46_3888
+-1
+HR46_furan1+
+-1
+HR46_furan1-
+2
+HR46_furan
+0
+0.5631922594 HR46_3889
+-1
+HR46_furan2+
+-1
+HR46_furan2-
+2
+HR46_furan
+0
+0.3400511468 HR46_3890
+-1
+HR46_thiophene0+
+-1
+HR46_thiophene0-
+2
+HR46_thiophene
+0
+0.7555490123 HR46_3891
+-1
+HR46_thiophene1+
+-1
+HR46_thiophene1-
+2
+HR46_thiophene
+0
+0.6926116950 HR46_3892
+-1
+HR46_thiophene2+
+-1
+HR46_thiophene2-
+2
+HR46_thiophene
+0
+0.4361887352 HR46_3893
+-1
+HR46_pyridine0+
+-1
+HR46_pyridine0-
+2
+HR46_pyridine
+0
+0.7102936568 HR46_3894
+-1
+HR46_pyridine1+
+-1
+HR46_pyridine1-
+2
+HR46_pyridine
+0
+0.7515084788 HR46_3895
+-1
+HR46_pyridine2+
+-1
+HR46_pyridine2-
+2
+HR46_pyridine
+0
+0.4001069407 HR46_3896
+-1
+HR46_phenol0+
+-1
+HR46_phenol0-
+2
+HR46_phenol
+0
+0.9030664485 HR46_3897
+-1
+HR46_phenol1+
+-1
+HR46_phenol1-
+2
+HR46_phenol
+0
+0.8197175032 HR46_3898
+-1
+HR46_phenol2+
+-1
+HR46_phenol2-
+2
+HR46_phenol
+0
+0.4589673290 HR46_3899
+-1
+HR46_chlorobenzene0+
+-1
+HR46_chlorobenzene0-
+2
+HR46_chlorobenzene
+0
+1.0795911375 HR46_3900
+-1
+HR46_chlorobenzene1+
+-1
+HR46_chlorobenzene1-
+2
+HR46_chlorobenzene
+0
+0.8573799941 HR46_3901
+-1
+HR46_chlorobenzene2+
+-1
+HR46_chlorobenzene2-
+2
+HR46_chlorobenzene
+0
+0.5136572893 HR46_3902
+-1
+HR46_fluorobenzene0+
+-1
+HR46_fluorobenzene0-
+2
+HR46_fluorobenzene
+0
+0.8037266794 HR46_3903
+-1
+HR46_fluorobenzene1+
+-1
+HR46_fluorobenzene1-
+2
+HR46_fluorobenzene
+0
+0.7829234854 HR46_3904
+-1
+HR46_fluorobenzene2+
+-1
+HR46_fluorobenzene2-
+2
+HR46_fluorobenzene
+0
+0.4309239307 HR46_3905
+-1
+HR46_toluene0+
+-1
+HR46_toluene0-
+2
+HR46_toluene
+0
+1.0001176907 HR46_3906
+-1
+HR46_toluene1+
+-1
+HR46_toluene1-
+2
+HR46_toluene
+0
+0.8728230021 HR46_3907
+-1
+HR46_toluene2+
+-1
+HR46_toluene2-
+2
+HR46_toluene
+0
+0.5287859151 HR46_3908
+-1
+HR46_benzene0+
+-1
+HR46_benzene0-
+2
+HR46_benzene
+0
+0.7887034751 HR46_3909
+-1
+HR46_benzene1+
+-1
+HR46_benzene1-
+2
+HR46_benzene
+0
+0.7886827673 HR46_3910
+-1
+HR46_benzene2+
+-1
+HR46_benzene2-
+2
+HR46_benzene
+0
+0.4379250539 HR46_3911
+-1
+HR46_cytosine0+
+-1
+HR46_cytosine0-
+2
+HR46_cytosine
+0
+1.0497593373 HR46_3912
+-1
+HR46_cytosine1+
+-1
+HR46_cytosine1-
+2
+HR46_cytosine
+0
+0.8080954003 HR46_3913
+-1
+HR46_cytosine2+
+-1
+HR46_cytosine2-
+2
+HR46_cytosine
+0
+0.4520728824 HR46_3914

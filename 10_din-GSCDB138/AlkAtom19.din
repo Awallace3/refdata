@@ -1,0 +1,171 @@
+# Dataset: AlkAtom19
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Atomization energies of n=1-8 alkane
+# Theory level = quasi-W4,W1h and W3.2lite for reaction energies and W4 values for ethane and propane
+# Number of datapoints = 19.0
+# RMS energy (kcal/mol) = 1829.30552515211
+# Min energy (kcal/mol) = -2484.25989730532
+# Max energy (kcal/mol) = -420.429982620176
+# Year last updated = 2009
+# Error (kcal/mol) = 0.24 vs Exp.
+#
+#@ fieldasrxn 999
+1
+11_methane_Alk44
+-1
+133_c_W4-11
+-4
+189_h_W4-11
+0
+-420.4299799000 AlkAtom19_358
+1
+12_ethane_Alk44
+-2
+133_c_W4-11
+-6
+189_h_W4-11
+0
+-713.0599659101 AlkAtom19_359
+1
+13_propane_Alk44
+-3
+133_c_W4-11
+-8
+189_h_W4-11
+0
+-1007.8899518145 AlkAtom19_360
+1
+14_butane_Alk44
+-4
+133_c_W4-11
+-10
+189_h_W4-11
+0
+-1302.8599377128 AlkAtom19_361
+1
+15_pentane_Alk44
+-5
+133_c_W4-11
+-12
+189_h_W4-11
+0
+-1597.7799236133 AlkAtom19_362
+1
+16_hexane_Alk44
+-6
+133_c_W4-11
+-14
+189_h_W4-11
+0
+-1892.7299095122 AlkAtom19_363
+1
+17_heptane_Alk44
+-7
+133_c_W4-11
+-16
+189_h_W4-11
+0
+-2187.6798954111 AlkAtom19_364
+1
+18_octane_Alk44
+-8
+133_c_W4-11
+-18
+189_h_W4-11
+0
+-2482.6398813097 AlkAtom19_365
+1
+19_isobutane_Alk44
+-4
+133_c_W4-11
+-10
+189_h_W4-11
+0
+-1304.2999376438 AlkAtom19_366
+1
+20_isopentane_Alk44
+-5
+133_c_W4-11
+-12
+189_h_W4-11
+0
+-1598.6899235696 AlkAtom19_367
+1
+21_isohexane_Alk44
+-6
+133_c_W4-11
+-14
+189_h_W4-11
+0
+-1893.6099094700 AlkAtom19_368
+1
+22_isoheptane_Alk44
+-7
+133_c_W4-11
+-16
+189_h_W4-11
+0
+-2188.5898953680 AlkAtom19_369
+1
+23_isooctane_Alk44
+-8
+133_c_W4-11
+-18
+189_h_W4-11
+0
+-2484.2598812321 AlkAtom19_370
+1
+24_neopentane_Alk44
+-5
+133_c_W4-11
+-12
+189_h_W4-11
+0
+-1601.4799234367 AlkAtom19_371
+1
+25_neohexane_Alk44
+-6
+133_c_W4-11
+-14
+189_h_W4-11
+0
+-1895.2199093933 AlkAtom19_372
+1
+26_neoheptane_Alk44
+-7
+133_c_W4-11
+-16
+189_h_W4-11
+0
+-2190.1198952944 AlkAtom19_373
+1
+27_3methylpentane_Alk44
+-6
+133_c_W4-11
+-14
+189_h_W4-11
+0
+-1892.9499095018 AlkAtom19_374
+1
+28_diisopropyl_Alk44
+-6
+133_c_W4-11
+-14
+189_h_W4-11
+0
+-1893.8099094609 AlkAtom19_375
+1
+29_hexamethylethane_Alk44
+-8
+133_c_W4-11
+-18
+189_h_W4-11
+0
+-2484.0098812447 AlkAtom19_376

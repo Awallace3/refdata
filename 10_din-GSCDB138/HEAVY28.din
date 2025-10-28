@@ -1,0 +1,235 @@
+# Dataset: HEAVY28
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies between heavy element hydrides
+# Theory level = CCSD(T)/awCV[TQ]Z-PP, CP-corrected
+# Number of datapoints = 28.0
+# RMS energy (kcal/mol) = 1.42963141144376
+# Min energy (kcal/mol) = 0.3600003027398
+# Max energy (kcal/mol) = 3.35000262542302
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+HEAVY28_bih3_2
+2
+HEAVY28_bih3
+0
+1.1600008285 HEAVY28_3730
+-1
+HEAVY28_bih3_h2o
+1
+HEAVY28_bih3
+1
+HEAVY28_h2o
+0
+2.4900021301 HEAVY28_3731
+-1
+HEAVY28_bih3_h2s
+1
+HEAVY28_bih3
+1
+HEAVY28_h2s
+0
+1.3600012743 HEAVY28_3732
+-1
+HEAVY28_bih3_hcl
+1
+HEAVY28_bih3
+1
+HEAVY28_hcl
+0
+0.7700005554 HEAVY28_3733
+-1
+HEAVY28_bih3_hbr
+1
+HEAVY28_bih3
+1
+HEAVY28_hbr
+0
+0.9800009921 HEAVY28_3734
+-1
+HEAVY28_bih3_hi
+1
+HEAVY28_bih3
+1
+HEAVY28_hi
+0
+1.3000007013 HEAVY28_3735
+-1
+HEAVY28_bih3_nh3
+1
+HEAVY28_bih3
+1
+HEAVY28_nh3
+0
+0.6000007099 HEAVY28_3736
+-1
+HEAVY28_pbh4_2
+2
+HEAVY28_pbh4
+0
+1.2500007468 HEAVY28_3737
+-1
+HEAVY28_pbh4_bih3
+1
+HEAVY28_pbh4
+1
+HEAVY28_bih3
+0
+0.5500001278 HEAVY28_3738
+-1
+HEAVY28_pbh4_h2o
+1
+HEAVY28_pbh4
+1
+HEAVY28_h2o
+0
+0.3600003004 HEAVY28_3739
+-1
+HEAVY28_pbh4_hcl
+1
+HEAVY28_pbh4
+1
+HEAVY28_hcl
+0
+0.7500005736 HEAVY28_3740
+-1
+HEAVY28_pbh4_hbr
+1
+HEAVY28_pbh4
+1
+HEAVY28_hbr
+0
+0.9300004100 HEAVY28_3741
+-1
+HEAVY28_pbh4_hi
+1
+HEAVY28_pbh4
+1
+HEAVY28_hi
+0
+1.1800008104 HEAVY28_3742
+-1
+HEAVY28_pbh4_teh2
+1
+HEAVY28_pbh4
+1
+HEAVY28_teh2
+0
+0.6500006644 HEAVY28_3743
+-1
+HEAVY28_sbh3_2
+2
+HEAVY28_sbh3
+0
+1.2800007195 HEAVY28_3744
+-1
+HEAVY28_sbh3_h2o
+1
+HEAVY28_sbh3
+1
+HEAVY28_h2o
+0
+1.5700010835 HEAVY28_3745
+-1
+HEAVY28_sbh3_h2s
+1
+HEAVY28_sbh3
+1
+HEAVY28_h2s
+0
+1.0600009194 HEAVY28_3746
+-1
+HEAVY28_sbh3_hcl
+1
+HEAVY28_sbh3
+1
+HEAVY28_hcl
+0
+2.0200013022 HEAVY28_3747
+-1
+HEAVY28_sbh3_hbr
+1
+HEAVY28_sbh3
+1
+HEAVY28_hbr
+0
+1.8900014203 HEAVY28_3748
+-1
+HEAVY28_sbh3_hi
+1
+HEAVY28_sbh3
+1
+HEAVY28_hi
+0
+1.4900011562 HEAVY28_3749
+-1
+HEAVY28_sbh3_nh3
+1
+HEAVY28_sbh3
+1
+HEAVY28_nh3
+0
+2.8400024396 HEAVY28_3750
+-1
+HEAVY28_teh2_2
+2
+HEAVY28_teh2
+0
+0.5200001550 HEAVY28_3751
+-1
+HEAVY28_teh2_h2o
+1
+HEAVY28_teh2
+1
+HEAVY28_h2o
+0
+0.6800006372 HEAVY28_3752
+-1
+HEAVY28_teh2_h2s
+1
+HEAVY28_teh2
+1
+HEAVY28_h2s
+0
+0.4800001914 HEAVY28_3753
+-1
+HEAVY28_teh2_hcl
+1
+HEAVY28_teh2
+1
+HEAVY28_hcl
+0
+1.2300007649 HEAVY28_3754
+-1
+HEAVY28_teh2_hbr
+1
+HEAVY28_teh2
+1
+HEAVY28_hbr
+0
+1.2200007740 HEAVY28_3755
+-1
+HEAVY28_teh2_hi
+1
+HEAVY28_teh2
+1
+HEAVY28_hi
+0
+0.8000005281 HEAVY28_3756
+-1
+HEAVY28_teh2_nh3
+1
+HEAVY28_teh2
+1
+HEAVY28_nh3
+0
+3.3500026037 HEAVY28_3757

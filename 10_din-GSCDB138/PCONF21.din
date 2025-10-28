@@ -1,0 +1,127 @@
+# Dataset: PCONF21
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of tri- and tetrapeptide conformers
+# Theory level = DLPNO-CCSD(T)/a[TQ]Z
+# Number of datapoints = 18.0
+# RMS energy (kcal/mol) = 1.78857149930934
+# Min energy (kcal/mol) = 0.020017552222514
+# Max energy (kcal/mol) = 2.80000186657996
+# Year last updated = 2017
+# Error (kcal/mol) = <0.05 on ACONF
+#
+#@ fieldasrxn 999
+-1
+PCONF21_99
+1
+PCONF21_444
+0
+0.0200175521 PCONF21_5531
+-1
+PCONF21_99
+1
+PCONF21_357
+0
+1.0100009648 PCONF21_5532
+-1
+PCONF21_99
+1
+PCONF21_366
+0
+0.7000006190 PCONF21_5533
+-1
+PCONF21_99
+1
+PCONF21_215
+0
+0.8500004827 PCONF21_5534
+-1
+PCONF21_99
+1
+PCONF21_300
+0
+0.7800005463 PCONF21_5535
+-1
+PCONF21_99
+1
+PCONF21_114
+0
+1.9200013930 PCONF21_5536
+-1
+PCONF21_99
+1
+PCONF21_412
+0
+2.1800017843 PCONF21_5537
+-1
+PCONF21_99
+1
+PCONF21_691
+0
+1.6100010472 PCONF21_5538
+-1
+PCONF21_99
+1
+PCONF21_470
+0
+1.8900014203 PCONF21_5539
+-1
+PCONF21_99
+1
+PCONF21_224
+0
+2.0700012567 PCONF21_5540
+-1
+PCONF21_GLY_ab
+1
+PCONF21_GLY_aR
+0
+1.0700009103 PCONF21_5541
+-1
+PCONF21_GLY_ab
+1
+PCONF21_GLY_pII
+0
+1.2300007649 PCONF21_5542
+-1
+PCONF21_GLY_ab
+1
+PCONF21_GLY_aL
+0
+2.4400015481 PCONF21_5543
+-1
+PCONF21_GLY_ab
+1
+PCONF21_GLY_b
+0
+2.1400018206 PCONF21_5544
+-1
+PCONF21_SER_ab
+1
+PCONF21_SER_aR
+0
+1.4700011744 PCONF21_5545
+-1
+PCONF21_SER_ab
+1
+PCONF21_SER_pII
+0
+2.8000018485 PCONF21_5546
+-1
+PCONF21_SER_ab
+1
+PCONF21_SER_aL
+0
+2.2700017025 PCONF21_5547
+-1
+PCONF21_SER_ab
+1
+PCONF21_SER_b
+0
+2.7400019030 PCONF21_5548

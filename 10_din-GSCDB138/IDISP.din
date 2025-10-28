@@ -1,0 +1,57 @@
+# Dataset: IDISP
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Intramolecular dispersion interactions
+# Theory level = DLPNO-CCSD(T)/aug-cc-pV[TQ]Z
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 25.228198346573
+# Min energy (kcal/mol) = -60.2800453931287
+# Max energy (kcal/mol) = 9.10000685077172
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+IDISP_antdimer
+-2
+IDISP_ant
+0
+-9.1500067465 IDISP_4043
+2
+IDISP_pxylene
+-1
+IDISP_pc22
+-2
+IDISP_h2
+0
+-60.2800450031 IDISP_4044
+1
+IDISP_octane1
+-1
+IDISP_octane2
+0
+-1.2100007831 IDISP_4045
+1
+IDISP_undecan1
+-1
+IDISP_undecan2
+0
+9.1000067919 IDISP_4046
+-1
+IDISP_F14f
+1
+IDISP_F14l
+0
+-3.6400029678 IDISP_4047
+-1
+IDISP_F22f
+1
+IDISP_F22l
+0
+-1.9600013567 IDISP_4048

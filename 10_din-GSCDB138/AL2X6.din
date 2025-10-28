@@ -1,0 +1,57 @@
+# Dataset: AL2X6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Dimerisation energies of AlX3 compounds
+# Theory level = W2-F12
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 36.9293973378511
+# Min energy (kcal/mol) = 23.1000174386905
+# Max energy (kcal/mol) = 51.6000387909685
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+AL2X6_al2h6
+2
+AL2X6_alh3
+0
+38.5000290246 AL2X6_334
+-1
+AL2X6_al2f6
+2
+AL2X6_alf3
+0
+51.6000384571 AL2X6_335
+-1
+AL2X6_al2cl6
+2
+AL2X6_alcl3
+0
+32.5000244361 AL2X6_336
+-1
+AL2X6_al2me4
+2
+AL2X6_alme2
+0
+38.4000284879 AL2X6_337
+-1
+AL2X6_al2me5
+1
+AL2X6_alme2
+1
+AL2X6_alme3
+0
+31.2000231072 AL2X6_338
+-1
+AL2X6_al2me6
+2
+AL2X6_alme3
+0
+23.1000172892 AL2X6_339

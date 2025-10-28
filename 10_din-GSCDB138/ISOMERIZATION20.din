@@ -1,0 +1,139 @@
+# Dataset: ISOMERIZATION20
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies from the W4-11 dataset
+# Theory level = W4 etc
+# Number of datapoints = 20.0
+# RMS energy (kcal/mol) = 44.0479243152558
+# Min energy (kcal/mol) = -91.8699961867771
+# Max energy (kcal/mol) = -0.209999810551023
+# Year last updated = 2011
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+W4-17_oclo
+-1
+W4-17_cloo
+0
+-1.7399996740 ISOMERIZATION20_4498
+1
+W4-17_t-hono
+-1
+W4-17_c-hono
+0
+-0.4300002368 ISOMERIZATION20_4499
+1
+W4-17_hcn
+-1
+W4-17_hnc
+0
+-15.2099993578 ISOMERIZATION20_4500
+1
+W4-17_hnco
+-1
+W4-17_hocn
+0
+-24.6699989200 ISOMERIZATION20_4501
+1
+W4-17_hnco
+-1
+W4-17_honc
+0
+-84.5899959319 ISOMERIZATION20_4502
+1
+W4-17_hnco
+-1
+W4-17_hcno
+0
+-69.7699968473 ISOMERIZATION20_4503
+1
+W4-17_hocn
+-1
+W4-17_honc
+0
+-59.9199970120 ISOMERIZATION20_4504
+1
+W4-17_hocn
+-1
+W4-17_hcno
+0
+-45.0999979274 ISOMERIZATION20_4505
+1
+W4-17_hcno
+-1
+W4-17_honc
+0
+-14.8199990846 ISOMERIZATION20_4506
+1
+W4-17_h2co
+-1
+W4-17_t-hcoh
+0
+-52.1799977695 ISOMERIZATION20_4507
+1
+W4-17_t-hcoh
+-1
+W4-17_c-hcoh
+0
+-4.8300000040 ISOMERIZATION20_4508
+1
+W4-17_c2h2
+-1
+W4-17_ch2c
+0
+-45.5899981097 ISOMERIZATION20_4509
+1
+W4-17_t-hooo
+-1
+W4-17_c-hooo
+0
+-0.2099998092 ISOMERIZATION20_4510
+1
+W4-17_t-n2h2
+-1
+W4-17_c-n2h2
+0
+-5.3999994861 ISOMERIZATION20_4511
+1
+W4-17_propyne
+-1
+W4-17_allene
+0
+-1.4999998921 ISOMERIZATION20_4512
+1
+W4-17_formic
+-1
+W4-17_dioxirane
+0
+-91.8699955924 ISOMERIZATION20_4513
+1
+W4-17_ketene
+-1
+W4-17_oxirene
+0
+-77.3899961988 ISOMERIZATION20_4514
+1
+W4-17_acetaldehyde
+-1
+W4-17_oxirane
+0
+-26.3399986576 ISOMERIZATION20_4515
+1
+W4-17_h2cn
+-1
+W4-17_hcnh
+0
+-7.4999994605 ISOMERIZATION20_4516
+1
+W4-17_ch2nh2
+-1
+W4-17_ch3nh
+0
+-7.6499993242 ISOMERIZATION20_4517

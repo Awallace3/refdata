@@ -1,0 +1,61 @@
+# Dataset: C60ISO7
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of C60 isomers
+# Theory level = HF/CBS(2,3) + DLPNO-CCSD(T)/def2-TZVP corrected by MP2/CBS(2,3)
+# Number of datapoints = 7.0
+# RMS energy (kcal/mol) = 105.801047888942
+# Min energy (kcal/mol) = 37.4000283834773
+# Max energy (kcal/mol) = 164.88012484962
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+C60ISO_1
+1
+C60ISO_2
+0
+37.4000281415 C60ISO7_1957
+-1
+C60ISO_1
+1
+C60ISO_3
+0
+56.8700424539 C60ISO7_1958
+-1
+C60ISO_1
+1
+C60ISO_4
+0
+56.8900424357 C60ISO7_1959
+-1
+C60ISO_1
+1
+C60ISO_6
+0
+100.4800749931 C60ISO7_1960
+-1
+C60ISO_1
+1
+C60ISO_7
+0
+111.7200836056 C60ISO7_1961
+-1
+C60ISO_1
+1
+C60ISO_9
+0
+143.9601076504 C60ISO7_1962
+-1
+C60ISO_1
+1
+C60ISO_10
+0
+164.8801237828 C60ISO7_1963

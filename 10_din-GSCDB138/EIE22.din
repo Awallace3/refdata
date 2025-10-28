@@ -1,0 +1,151 @@
+# Dataset: EIE22
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of enecarbonyls 
+# Theory level = W1-F12
+# Number of datapoints = 22.0
+# RMS energy (kcal/mol) = 4.96983554503256
+# Min energy (kcal/mol) = -2.74856585186291
+# Max energy (kcal/mol) = 9.22562103338403
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+12_Product1_EIE22
+-1
+11_Reactant1_EIE22
+0
+6.4292539945 EIE22_2499
+1
+14_Product2_EIE22
+-1
+13_Reactant2_EIE22
+0
+4.3260036170 EIE22_2500
+1
+16_Product3_EIE22
+-1
+15_Reactant3_EIE22
+0
+3.3221795737 EIE22_2501
+1
+18_Product4_EIE22
+-1
+17_Reactant4_EIE22
+0
+4.4694070523 EIE22_2502
+1
+20_Product5_EIE22
+-1
+19_Reactant5_EIE22
+0
+4.4933076248 EIE22_2503
+1
+22_Product6_EIE22
+-1
+21_Reactant6_EIE22
+0
+4.5411087692 EIE22_2504
+1
+24_Product7_EIE22
+-1
+23_Reactant7_EIE22
+0
+6.8116631545 EIE22_2505
+1
+26_Product8_EIE22
+-1
+25_Reactant8_EIE22
+0
+8.0305923500 EIE22_2506
+1
+28_Product9_EIE22
+-1
+27_Reactant9_EIE22
+0
+3.5611852984 EIE22_2507
+1
+30_Product10_EIE22
+-1
+29_Reactant10_EIE22
+0
+3.7762904506 EIE22_2508
+1
+32_Product11_EIE22
+-1
+31_Reactant11_EIE22
+0
+0.0956022901 EIE22_2509
+1
+34_Product12_EIE22
+-1
+33_Reactant12_EIE22
+0
+1.0516251884 EIE22_2510
+1
+36_Product13_EIE22
+-1
+35_Reactant13_EIE22
+0
+8.2934986473 EIE22_2511
+1
+38_Product14_EIE22
+-1
+37_Reactant14_EIE22
+0
+0.6214148840 EIE22_2512
+1
+40_Product15_EIE22
+-1
+39_Reactant15_EIE22
+0
+4.9713190743 EIE22_2513
+1
+42_Product16_EIE22
+-1
+41_Reactant16_EIE22
+0
+9.2256209737 EIE22_2514
+1
+44_Product17_EIE22
+-1
+43_Reactant17_EIE22
+0
+5.0191202187 EIE22_2515
+1
+46_Product18_EIE22
+-1
+45_Reactant18_EIE22
+0
+-2.7485658341 EIE22_2516
+1
+48_Product19_EIE22
+-1
+47_Reactant19_EIE22
+0
+3.3699807181 EIE22_2517
+1
+50_Product20_EIE22
+-1
+49_Reactant20_EIE22
+0
+4.1826001825 EIE22_2518
+1
+52_Product21_EIE22
+-1
+51_Reactant21_EIE22
+0
+4.7084127770 EIE22_2519
+1
+54_Product22_EIE22
+-1
+53_Reactant22_EIE22
+0
+3.1309749940 EIE22_2520

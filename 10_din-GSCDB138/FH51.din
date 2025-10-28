@@ -1,0 +1,433 @@
+# Dataset: FH51
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Reaction energies in various (in-)organic systems
+# Theory level = HF/QZ-F12+CABS +MP2/QZ-F12+CCSD(F12*)/TZ-F12 +(T)/[DT]Z-F12
+# Number of datapoints = 51.0
+# RMS energy (kcal/mol) = 45.3538151424734
+# Min energy (kcal/mol) = -150.810113697341
+# Max energy (kcal/mol) = -0.179999837615163
+# Year last updated = 2015(13)
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+FH51_C6H12O
+-2
+FH51_H2O2
+1
+FH51_ethyl-g-butyrolactone
+3
+FH51_H2O
+0
+-150.8101127216 FH51_2521
+-1
+FH51_C4H9NH2
+-3
+FH51_H2O2
+1
+FH51_C4H9NO2
+4
+FH51_H2O
+0
+-144.3801078963 FH51_2522
+-1
+FH51_C4H9CHO
+-1
+FH51_H2O2
+1
+FH51_C4H9CO2H
+1
+FH51_H2O
+0
+-89.3500669081 FH51_2523
+-1
+FH51_C4H9SO2H
+-1
+FH51_H2O2
+1
+FH51_C4H9SO3H
+1
+FH51_H2O
+0
+-82.5500617915 FH51_2524
+-1
+FH51_trans-2-pentene
+-1
+FH51_H2O2
+1
+FH51_pentanediol
+0
+-78.5100585596 FH51_2525
+-1
+FH51_toluene
+-3
+FH51_H2
+1
+FH51_methylcyclohexane
+0
+-66.9600502288 FH51_2526
+-1
+FH51_pentanol
+-1
+FH51_H2O2
+1
+FH51_C4H9CHO
+2
+FH51_H2O
+0
+-63.8900479981 FH51_2527
+-1
+FH51_C2H5O_2
+1
+FH51_C2H4OH_2
+0
+-58.5300440831 FH51_2528
+-1
+FH51_3-hexene
+-1
+FH51_H2O2
+1
+FH51_diethyloxirane
+1
+FH51_H2O
+0
+-56.6400426629 FH51_2529
+-1
+FH51_S_C2H5_2
+-1
+FH51_H2O2
+1
+FH51_OS_C2H5_2
+1
+FH51_H2O
+0
+-52.8500398314 FH51_2530
+-1
+FH51_ax-methylcyclohexene
+1
+FH51_eq-methylcyclohexene
+0
+-52.6000394310 FH51_2531
+-1
+FH51_hexyne
+-1
+FH51_H2
+1
+FH51_1-hexene
+0
+-46.7200347335 FH51_2532
+-1
+FH51_2-pentyne
+-1
+FH51_H2
+1
+FH51_trans-2-pentene
+0
+-44.8200333223 FH51_2533
+-1
+FH51_2-pentyne
+-1
+FH51_H2
+1
+FH51_cis-2-pentene
+0
+-43.6700324847 FH51_2534
+-1
+FH51_2-pentyne
+-1
+FH51_HCN
+1
+FH51_C2H5CCNCHCH3
+0
+-42.8900319384 FH51_2535
+-1
+FH51_1-hexene
+-1
+FH51_H2
+1
+FH51_n-hexane
+0
+-37.0800278047 FH51_2536
+-1
+FH51_1-pentyne
+-1
+FH51_H2O
+1
+FH51_C4H9CHO
+0
+-34.9300259932 FH51_2537
+-2
+FH51_C3H7NH2
+-1
+FH51_COCl2
+1
+FH51_CO_2NHC3H7_2
+2
+FH51_HCl
+0
+-32.4700244633 FH51_2538
+-1
+FH51_eq-methylcyclohexene
+-1
+FH51_H2
+1
+FH51_methylcyclohexane
+0
+-32.1000241720 FH51_2539
+-1
+FH51_trans-2-pentene
+-1
+FH51_Cl2
+1
+FH51_C2H5CClCHCH3
+1
+FH51_HCl
+0
+-31.2200230890 FH51_2540
+-1
+FH51_2-pentyne
+-1
+FH51_HCl
+1
+FH51_C2H5CClCHCH3
+0
+-29.9800223332 FH51_2541
+-1
+FH51_1-pentene
+-1
+FH51_ethene
+1
+FH51_Heptene
+0
+-25.8400191922 FH51_2542
+-1
+FH51_C4H9CHO
+-1
+FH51_H2
+1
+FH51_pentanol
+0
+-23.4700175806 FH51_2543
+-1
+FH51_dimethyloxirane
+-1
+FH51_H2O
+1
+FH51_butanediol
+0
+-22.4500166248 FH51_2544
+-1
+FH51_methylpyridine
+-1
+FH51_H2
+1
+FH51_dimethylpyrrole
+0
+-20.2700154680 FH51_2545
+-1
+FH51_C4H9NCO
+-1
+FH51_NH3
+1
+FH51_C4H9NHCONH2
+0
+-19.7200147127 FH51_2546
+-1
+FH51_C3H7CN
+-1
+FH51_H2O
+1
+FH51_C3H7CONH2
+0
+-19.3400144305 FH51_2547
+-1
+FH51_propylfuran
+-1
+FH51_H2S
+1
+FH51_propylthiophene
+1
+FH51_H2O
+0
+-19.4500143306 FH51_2548
+-1
+FH51_diethylamine
+-1
+FH51_CO
+1
+FH51_HCON_C2H5_2
+0
+-17.3900130647 FH51_2549
+-1
+FH51_C3H7NCO
+-1
+FH51_H2O
+1
+FH51_C3H7NH2
+1
+FH51_CO2
+0
+-16.9800128098 FH51_2550
+-1
+FH51_C3H7CO2C2H3
+1
+FH51_ethyl-g-butyrolactone
+0
+-16.1400123180 FH51_2551
+-1
+FH51_H2C-C5-CH2
+1
+FH51_heptatriyne
+0
+-14.3000108523 FH51_2552
+-1
+FH51_methylpyrazole
+1
+FH51_methylimidazole
+0
+-13.1400100237 FH51_2553
+-1
+FH51_1-pentene
+-1
+FH51_H2O
+1
+FH51_pentanol
+0
+-11.6800088403 FH51_2554
+-1
+FH51_methylfuran
+-1
+FH51_NH3
+1
+FH51_methylpyrrole
+1
+FH51_H2O
+0
+-10.7000078482 FH51_2555
+-1
+FH51_C3H7CHCO
+-1
+FH51_H2CO
+1
+FH51_propyloxirane
+1
+FH51_CO
+0
+-9.3900071559 FH51_2556
+-1
+FH51_pentanol
+-1
+FH51_CO
+1
+FH51_HCO2C5H11
+0
+-8.5300066823 FH51_2557
+-1
+FH51_C3H7S_2
+-1
+FH51_H2
+2
+FH51_C3H7SH
+0
+-6.6300052711 FH51_2558
+1
+FH51_pentadiene
+1
+FH51_ethene
+-1
+FH51_ax-methylcyclohexene
+0
+-6.6500052529 FH51_2559
+-1
+FH51_hexandione
+1
+FH51_methyl-d-valerolactone
+0
+-6.4500048071 FH51_2560
+-1
+FH51_C2H5CO2H
+-1
+FH51_methanol
+1
+FH51_C2H5CO2CH3
+1
+FH51_H2O
+0
+-5.1100035146 FH51_2561
+-1
+FH51_C4H9ONO
+1
+FH51_C4H9NO2
+0
+-3.2500026946 FH51_2562
+-1
+FH51_n-hexane
+1
+FH51_neo-hexane
+0
+-2.6400019938 FH51_2563
+-1
+FH51_methylcyclohexa-1-4-diene
+1
+FH51_methylcyclohexa-1-3-diene
+0
+-2.4800021392 FH51_2564
+-1
+FH51_1-pentene
+1
+FH51_trans-2-pentene
+0
+-2.1100018479 FH51_2565
+-1
+FH51_toluene
+-1
+FH51_H2
+1
+FH51_methylcyclohexa-1-3-diene
+0
+-1.4700011744 FH51_2566
+-1
+FH51_cis-2-pentene
+1
+FH51_trans-2-pentene
+0
+-1.1500008376 FH51_2567
+-1
+FH51_3-methylpentane
+1
+FH51_dimethylbutane
+0
+-0.8600004736 FH51_2568
+-1
+FH51_C2H5CO2H
+-1
+FH51_NH3
+1
+FH51_C2H5CONH2
+1
+FH51_H2O
+0
+-0.4300002368 FH51_2569
+-1
+FH51_n-nonane
+1
+FH51_tetramethylpentane
+0
+-0.4100002550 FH51_2570
+-1
+FH51_C3H7CO2H
+-1
+FH51_NH3
+1
+FH51_C3H7CONH2
+1
+FH51_H2O
+0
+-0.1799998365 FH51_2571

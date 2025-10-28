@@ -1,0 +1,43 @@
+# Dataset: H2O16Rel4
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of (H2O)16 (boat and fused cube structures) 
+# Theory level = CCSD(T)/aTZ
+# Number of datapoints = 4.0
+# RMS energy (kcal/mol) = 0.446416446204382
+# Min energy (kcal/mol) = 0.254999769954814
+# Max energy (kcal/mol) = 0.542000013048792
+# Year last updated = 2010
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+11_boat-a_H2O16Rel5
+-1
+14_4444-a_H2O16Rel5
+0
+0.2549997683 H2O16Rel4_2667
+1
+12_boat-b_H2O16Rel5
+-1
+14_4444-a_H2O16Rel5
+0
+0.4209998685 H2O16Rel4_2668
+1
+13_anti-boat_H2O16Rel5
+-1
+14_4444-a_H2O16Rel5
+0
+0.5109997867 H2O16Rel4_2669
+1
+15_4444-b_H2O16Rel5
+-1
+14_4444-a_H2O16Rel5
+0
+0.5420000095 H2O16Rel4_2670

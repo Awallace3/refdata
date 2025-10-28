@@ -1,0 +1,83 @@
+# Dataset: XB8
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of small halogen-bonded dimers 
+# Theory level = CCSD(T)/a[Q5]Z
+# Number of datapoints = 8.0
+# RMS energy (kcal/mol) = 5.22947859321618
+# Min energy (kcal/mol) = -8.602419448259
+# Max energy (kcal/mol) = -1.40813439733801
+# Year last updated = 2013
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+12_Br2NCH_XB18
+-1
+11_Br2_XB18
+-1
+33_HCN_XB18
+0
+-3.6349954422 XB8_8338
+1
+13_Br2OCH2_XB18
+-1
+11_Br2_XB18
+-1
+29_H2CO_XB18
+0
+-4.4179885812 XB8_8339
+1
+18_ClBrNCH_XB18
+-1
+17_ClBr_XB18
+-1
+33_HCN_XB18
+0
+-4.4743383041 XB8_8340
+1
+19_ClBrOCH2_XB18
+-1
+17_ClBr_XB18
+-1
+29_H2CO_XB18
+0
+-5.2671538488 XB8_8341
+1
+24_FBrNCH_XB18
+-1
+23_FBr_XB18
+-1
+33_HCN_XB18
+0
+-7.6095607315 XB8_8342
+1
+25_FBrOCH2_XB18
+-1
+23_FBr_XB18
+-1
+29_H2CO_XB18
+0
+-8.6024193926 XB8_8343
+1
+31_HBrNCH_XB18
+-1
+30_HBr_XB18
+-1
+33_HCN_XB18
+0
+-1.4081343882 XB8_8344
+1
+32_HBrOCH2_XB18
+-1
+29_H2CO_XB18
+-1
+30_HBr_XB18
+0
+-2.0964884315 XB8_8345

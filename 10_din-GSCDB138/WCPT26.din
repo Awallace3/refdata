@@ -1,0 +1,211 @@
+# Dataset: WCPT26
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Barrier heights of water-catalyzed proton-transfer reactions
+# Theory level = W2.2, W1
+# Number of datapoints = 26.0
+# RMS energy (kcal/mol) = 36.1134704590395
+# Min energy (kcal/mol) = -6.38145320388685
+# Max energy (kcal/mol) = 70.100379781816
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+11_Rxn1_TS_0cat_WCPT27
+-1
+47_Rxn1_Product_WCPT27
+0
+36.7590805562 WCPT26_8066
+1
+12_Rxn2_TS_0cat_WCPT27
+-1
+48_Rxn2_Product_WCPT27
+0
+47.0124259086 WCPT26_8067
+1
+13_Rxn3_TS_0cat_WCPT27
+-1
+49_Rxn3_Product_WCPT27
+0
+70.1003793283 WCPT26_8068
+1
+14_Rxn4_TS_0cat_WCPT27
+-1
+50_Rxn4_Product_WCPT27
+0
+47.5143381032 WCPT26_8069
+1
+15_Rxn5_TS_0cat_WCPT27
+-1
+51_Rxn5_Product_WCPT27
+0
+68.6185433253 WCPT26_8070
+1
+17_Rxn7_TS_0cat_WCPT27
+-1
+53_Rxn7_Product_WCPT27
+0
+31.1424459758 WCPT26_8071
+1
+18_Rxn8_TS_0cat_WCPT27
+-1
+54_Rxn8_Product_WCPT27
+0
+40.1051605982 WCPT26_8072
+1
+19_Rxn9_TS_0cat_WCPT27
+-1
+55_Rxn9_Product_WCPT27
+0
+61.2332664011 WCPT26_8073
+1
+20_Rxn1_TS_1cat_WCPT27
+-1
+47_Rxn1_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+5.4015293542 WCPT26_8074
+1
+21_Rxn2_TS_1cat_WCPT27
+-1
+48_Rxn2_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+13.4799231185 WCPT26_8075
+1
+22_Rxn3_TS_1cat_WCPT27
+-1
+49_Rxn3_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+37.9302083827 WCPT26_8076
+1
+23_Rxn4_TS_1cat_WCPT27
+-1
+50_Rxn4_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+8.6759076541 WCPT26_8077
+1
+24_Rxn5_TS_1cat_WCPT27
+-1
+51_Rxn5_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+36.8307822983 WCPT26_8078
+1
+25_Rxn6_TS_1cat_WCPT27
+-1
+52_Rxn6_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+59.6319281221 WCPT26_8079
+1
+26_Rxn7_TS_1cat_WCPT27
+-1
+53_Rxn7_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+4.9713189017 WCPT26_8080
+1
+27_Rxn8_TS_1cat_WCPT27
+-1
+54_Rxn8_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+14.6749515256 WCPT26_8081
+1
+28_Rxn9_TS_1cat_WCPT27
+-1
+55_Rxn9_Product_WCPT27
+-1
+56_Water_WCPT27
+0
+35.6596538443 WCPT26_8082
+1
+29_Rxn1_TS_2cat_WCPT27
+-1
+47_Rxn1_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+-6.3814531626 WCPT26_8083
+1
+30_Rxn2_TS_2cat_WCPT27
+-1
+48_Rxn2_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+2.6768644101 WCPT26_8084
+1
+31_Rxn3_TS_2cat_WCPT27
+-1
+49_Rxn3_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+23.7093678902 WCPT26_8085
+1
+32_Rxn4_TS_2cat_WCPT27
+-1
+50_Rxn4_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+-4.0869980435 WCPT26_8086
+1
+33_Rxn5_TS_2cat_WCPT27
+-1
+51_Rxn5_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+20.9130012041 WCPT26_8087
+1
+34_Rxn6_TS_2cat_WCPT27
+-1
+52_Rxn6_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+49.4741850925 WCPT26_8088
+1
+35_Rxn7_TS_2cat_WCPT27
+-1
+53_Rxn7_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+-4.6367107720 WCPT26_8089
+1
+36_Rxn8_TS_2cat_WCPT27
+-1
+54_Rxn8_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+6.2858508398 WCPT26_8090
+1
+37_Rxn9_TS_2cat_WCPT27
+-1
+55_Rxn9_Product_WCPT27
+-2
+56_Water_WCPT27
+0
+20.4349895902 WCPT26_8091

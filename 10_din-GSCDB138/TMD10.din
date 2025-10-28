@@ -1,0 +1,99 @@
+# Dataset: TMD10
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Transition Metal
+# Description = Statistically significant subsets from TMD60, which contain bonding energies for diatomic transition-metal species
+# Theory level = nan
+# Number of datapoints = 10.0
+# RMS energy (kcal/mol) = 88.9362465851464
+# Min energy (kcal/mol) = 34.297322849215
+# Max energy (kcal/mol) = 151.003823989455
+# Year last updated = 2019
+# Error (kcal/mol) =  
+#
+#@ fieldasrxn 999
+-1
+TMD15_TiBr
+1
+TMD07_Ti
+1
+TMD06_Br
+0
+92.9458260657 TMD10_7707
+-1
+TMD16_VO
+1
+TMD08_V
+1
+TMD02_O
+0
+151.0038230125 TMD10_7708
+-1
+TMD17_CrS
+1
+TMD09_Cr
+1
+TMD04_S
+0
+77.5885558829 TMD10_7709
+-1
+TMD18_MnBr
+1
+TMD10_Mn
+1
+TMD06_Br
+0
+77.9703175842 TMD10_7710
+-1
+TMD19_FeCl
+1
+TMD11_Fe
+1
+TMD05_Cl
+0
+78.4894831516 TMD10_7711
+-1
+TMD20_FeS
+1
+TMD11_Fe
+1
+TMD04_S
+0
+83.5559481767 TMD10_7712
+-1
+TMD21_CoH
+1
+TMD12_Co
+1
+TMD01_H
+0
+51.3862328030 TMD10_7713
+-1
+TMD22_CoF
+1
+TMD12_Co
+1
+TMD03_F
+0
+110.2902631176 TMD10_7714
+-1
+TMD23_CuBr
+1
+TMD13_Cu
+1
+TMD06_Br
+0
+80.2068209487 TMD10_7715
+-1
+TMD24_ZnS
+1
+TMD14_Zn
+1
+TMD04_S
+0
+34.2973226273 TMD10_7716

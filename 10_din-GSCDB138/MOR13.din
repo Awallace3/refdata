@@ -1,0 +1,133 @@
+# Dataset: MOR13
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Transition Metal
+# Description = Statistically significant subsets from MOR41, which contain the reaction energies of closed-shell organometallic reactions
+# Theory level = nan
+# Number of datapoints = 13.0
+# RMS energy (kcal/mol) = 33.9036757700019
+# Min energy (kcal/mol) = -64.4000002606949
+# Max energy (kcal/mol) = 27.0000001151439
+# Year last updated = 2019
+# Error (kcal/mol) =  
+#
+#@ fieldasrxn 999
+-1
+MOR07_ed01
+-1
+MOR05_co
+1
+MOR25_pr01
+0
+-43.0999997446 MOR13_7717
+-1
+MOR08_ed05
+-1
+MOR05_co
+1
+MOR26_pr05
+0
+3.6999997757 MOR13_7718
+-1
+MOR09_ed07
+-1
+MOR19_h2
+1
+MOR27_pr07
+0
+-16.1999997133 MOR13_7719
+-1
+MOR10_ed09
+-1
+MOR19_h2
+1
+MOR28_pr09
+0
+-18.6999999518 MOR13_7720
+-1
+MOR11_ed11
+-1
+MOR04_c2h6
+1
+MOR29_pr11
+0
+26.9999999405 MOR13_7721
+-1
+MOR07_ed01
+-1
+MOR03_c2h4
+1
+MOR30_pr12
+0
+-29.7999999064 MOR13_7722
+-1
+MOR12_ed18
+-1
+MOR01_accl
+1
+MOR31_pr20
+0
+-30.1999995429 MOR13_7723
+-1
+MOR13_ed24
+-1
+MOR22_pcy3
+1
+MOR32_pr24
+0
+-41.5999998525 MOR13_7724
+-1
+MOR14_ed26
+-1
+MOR15_ed28
+1
+MOR33_pr28
+1
+MOR06_cod
+0
+-36.2999996480 MOR13_7725
+-1
+MOR16_ed33
+-1
+MOR23_phseh
+1
+MOR34_pr35
+1
+MOR03_c2h4
+0
+-30.8999995344 MOR13_7726
+-1
+MOR17_ed36
+-1
+MOR20_i2
+1
+MOR35_pr36
+1
+MOR03_c2h4
+0
+-39.7999996054 MOR13_7727
+-1
+MOR18_ed37
+-3
+MOR21_mecn
+1
+MOR36_pr37
+1
+MOR02_bz
+0
+-13.9999998297 MOR13_7728
+-1
+MOR18_ed37
+-3
+MOR24_pme3
+1
+MOR37_pr38
+1
+MOR02_bz
+0
+-64.3999998440 MOR13_7729

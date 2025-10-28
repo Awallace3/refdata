@@ -1,0 +1,179 @@
+# Dataset: XB20
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of large halogen-bonded dimers 
+# Theory level = CCSD(T)/aTZ+MP2/a[Q5]Z
+# Number of datapoints = 20.0
+# RMS energy (kcal/mol) = 6.06197620825847
+# Min energy (kcal/mol) = -15.3041064244955
+# Max energy (kcal/mol) = -0.74370540337169
+# Year last updated = 2013
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+12_NCH_FBr_XB51
+-1
+75_NCH_XB51
+-1
+64_FBr_XB51
+0
+-7.5339031697 XB20_8346
+1
+13_NCH_FCl_XB51
+-1
+75_NCH_XB51
+-1
+65_FCl_XB51
+0
+-4.8081256514 XB20_8347
+1
+14_NCH_NBS_XB51
+-1
+75_NCH_XB51
+-1
+68_NBS_XB51
+0
+-4.3212768216 XB20_8348
+1
+16_NCH_PhBr_XB51
+-1
+75_NCH_XB51
+-1
+70_PhBr_XB51
+0
+-1.1509828899 XB20_8349
+1
+19_NH3_FBr_XB51
+-1
+76_NH3_XB51
+-1
+64_FBr_XB51
+0
+-15.3041063255 XB20_8350
+1
+20_NH3_FCl_XB51
+-1
+76_NH3_XB51
+-1
+65_FCl_XB51
+0
+-10.5428349237 XB20_8351
+1
+21_NH3_NBS_XB51
+-1
+76_NH3_XB51
+-1
+68_NBS_XB51
+0
+-8.0243833967 XB20_8352
+1
+23_NH3_PhBr_XB51
+-1
+76_NH3_XB51
+-1
+70_PhBr_XB51
+0
+-2.0224918872 XB20_8353
+1
+26_PCH_FBr_XB51
+-1
+79_PCH_XB51
+-1
+64_FBr_XB51
+0
+-2.0654750309 XB20_8354
+1
+27_PCH_FCl_XB51
+-1
+79_PCH_XB51
+-1
+65_FCl_XB51
+0
+-1.1596368731 XB20_8355
+1
+28_PCH_NBS_XB51
+-1
+79_PCH_XB51
+-1
+68_NBS_XB51
+0
+-1.1925691975 XB20_8356
+1
+30_PCH_PhBr_XB51
+-1
+79_PCH_XB51
+-1
+70_PhBr_XB51
+0
+-0.8485565834 XB20_8357
+1
+32_BrBr_FCCH_XB51
+-1
+62_BrBr_XB51
+-1
+72_FCCH_XB51
+0
+-0.7437053986 XB20_8358
+1
+33_BrBr_FMe_XB51
+-1
+62_BrBr_XB51
+-1
+73_FMe_XB51
+0
+-2.8691025638 XB20_8359
+1
+35_BrBr_NCH_XB51
+-1
+62_BrBr_XB51
+-1
+75_NCH_XB51
+0
+-3.6098661980 XB20_8360
+1
+36_BrBr_NH3_XB51
+-1
+62_BrBr_XB51
+-1
+76_NH3_XB51
+0
+-7.2875278915 XB20_8361
+1
+37_BrBr_OCH2_XB51
+-1
+62_BrBr_XB51
+-1
+77_OCH2_XB51
+0
+-4.4135502067 XB20_8362
+1
+38_BrBr_OPH3_XB51
+-1
+62_BrBr_XB51
+-1
+78_OPH3_XB51
+0
+-5.9452612899 XB20_8363
+1
+39_BrBr_PCH_XB51
+-1
+62_BrBr_XB51
+-1
+79_PCH_XB51
+0
+-1.1782695117 XB20_8364
+1
+41_BrBr_pyr_XB51
+-1
+62_BrBr_XB51
+-1
+81_pyr_XB51
+0
+-9.0739055355 XB20_8365

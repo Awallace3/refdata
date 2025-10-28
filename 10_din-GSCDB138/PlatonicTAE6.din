@@ -1,0 +1,67 @@
+# Dataset: PlatonicTAE6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Total atomization energies of platonic hydrocarbon cages, CnHn (n = 4, 6, 8, 10, 12, 20)
+# Theory level = W1-F12
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 2539.27390187193
+# Min energy (kcal/mol) = 793.899967150472
+# Max energy (kcal/mol) = 4621.45980921546
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+11_C4H4_Platonic24
+4
+17_H_Platonic24
+4
+18_C_Platonic24
+0
+793.8999620139 PlatonicTAE6_5612
+-1
+12_C6H6_Platonic24
+6
+17_H_Platonic24
+6
+18_C_Platonic24
+0
+1254.3199402586 PlatonicTAE6_5613
+-1
+13_C8H8_Platonic24
+8
+17_H_Platonic24
+8
+18_C_Platonic24
+0
+1706.5899183783 PlatonicTAE6_5614
+-1
+14_C10H10_Platonic24
+10
+17_H_Platonic24
+10
+18_C_Platonic24
+0
+2196.4598949649 PlatonicTAE6_5615
+-1
+15_C12H12_Platonic24
+12
+17_H_Platonic24
+12
+18_C_Platonic24
+0
+2718.2898701228 PlatonicTAE6_5616
+-1
+16_C20H20_Platonic24
+20
+17_H_Platonic24
+20
+18_C_Platonic24
+0
+4621.4597793145 PlatonicTAE6_5617

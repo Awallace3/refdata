@@ -1,0 +1,113 @@
+# Dataset: DAPD
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Transition Metal
+# Description = Difficult bonding energies of Pd-containing diatomic molecules
+# Theory level = W4X-L: up to CCSDTQ(5)
+# Number of datapoints = 12.0
+# RMS energy (kcal/mol) = 64.9311187375469
+# Min energy (kcal/mol) = 18.2395538624472
+# Max energy (kcal/mol) = 87.0045927841418
+# Year last updated = 2023
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+DAPD_PdH
+1
+DAPD_Pd
+1
+DAPD_H
+0
+56.3661626723 DAPD_2115
+-1
+DAPD_PdB
+1
+DAPD_Pd
+1
+DAPD_B
+0
+87.0045922212 DAPD_2116
+-1
+DAPD_PdC
+1
+DAPD_Pd
+1
+DAPD_C
+0
+84.0786192138 DAPD_2117
+-1
+DAPD_PdN
+1
+DAPD_Pd
+1
+DAPD_N
+0
+46.4220712950 DAPD_2118
+-1
+DAPD_PdO
+1
+DAPD_Pd
+1
+DAPD_O
+0
+55.6947874719 DAPD_2119
+-1
+DAPD_PdF
+1
+DAPD_Pd
+1
+DAPD_F
+0
+77.6309344577 DAPD_2120
+-1
+DAPD_PdAl
+1
+DAPD_Pd
+1
+DAPD_Al
+0
+65.3874095479 DAPD_2121
+-1
+DAPD_PdSi
+1
+DAPD_Pd
+1
+DAPD_Si
+0
+74.9675505475 DAPD_2122
+-1
+DAPD_PdP
+1
+DAPD_Pd
+1
+DAPD_P
+0
+49.9072177837 DAPD_2123
+-1
+DAPD_PdS
+1
+DAPD_Pd
+1
+DAPD_S
+0
+64.6967926936 DAPD_2124
+-1
+DAPD_PdCl
+1
+DAPD_Pd
+1
+DAPD_Cl
+0
+67.7364764798 DAPD_2125
+-1
+DAPD_Pd2
+2
+DAPD_Pd
+0
+18.2395537444 DAPD_2126

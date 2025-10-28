@@ -1,0 +1,67 @@
+# Dataset: PlatonicID6
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Reaction energies of isodesmic reactions involving platonic hydrocarbon cages, CnHn (n = 4, 6, 8, 10, 12, 20)
+# Theory level = W1-F12
+# Number of datapoints = 6.0
+# RMS energy (kcal/mol) = 96.1900351517758
+# Min energy (kcal/mol) = -43.6399982812668
+# Max energy (kcal/mol) = 124.139994685201
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+11_C4H4_Platonic24
+8
+20_CH4_Platonic24
+-6
+21_C2H6_Platonic24
+0
+121.4499944436 PlatonicID6_5600
+1
+12_C6H6_Platonic24
+12
+20_CH4_Platonic24
+-9
+21_C2H6_Platonic24
+0
+118.7199944141 PlatonicID6_5601
+1
+13_C8H8_Platonic24
+16
+20_CH4_Platonic24
+-12
+21_C2H6_Platonic24
+0
+124.1399938820 PlatonicID6_5602
+1
+14_C10H10_Platonic24
+20
+20_CH4_Platonic24
+-15
+21_C2H6_Platonic24
+0
+92.4599956838 PlatonicID6_5603
+1
+15_C12H12_Platonic24
+24
+20_CH4_Platonic24
+-18
+21_C2H6_Platonic24
+0
+28.3999986684 PlatonicID6_5604
+1
+16_C20H20_Platonic24
+40
+20_CH4_Platonic24
+-30
+21_C2H6_Platonic24
+0
+-43.6399979989 PlatonicID6_5605

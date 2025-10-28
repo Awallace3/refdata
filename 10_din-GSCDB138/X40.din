@@ -1,0 +1,339 @@
+# Dataset: X40
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of complexes containing halogenated molecules 
+# Theory level = half-CP MP2-F12/[TQ]Z-F12 + half-CP CCSD(T)/ha[TQ]Z (or ha[DT]Z)
+# Number of datapoints = 40.0
+# RMS energy (kcal/mol) = 4.89873498688843
+# Min energy (kcal/mol) = -14.1379999212646
+# Max energy (kcal/mol) = -0.457999712322698
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+X40x10_01_methane-F2_1.00
+-1
+X40x10_01_methane-F2_monA
+-1
+X40x10_01_methane-F2_monB
+0
+-0.4579997094 X40_8098
+1
+X40x10_02_methane-Cl2_1.00
+-1
+X40x10_02_methane-Cl2_monA
+-1
+X40x10_02_methane-Cl2_monB
+0
+-1.0550002964 X40_8099
+1
+X40x10_03_methane-Br2_1.00
+-1
+X40x10_03_methane-Br2_monA
+-1
+X40x10_03_methane-Br2_monB
+0
+-1.2759997191 X40_8100
+1
+X40x10_04_methane-I2_1.00
+-1
+X40x10_04_methane-I2_monA
+-1
+X40x10_04_methane-I2_monB
+0
+-1.3239998010 X40_8101
+1
+X40x10_05_fluoromethane-methane_1.00
+-1
+X40x10_05_fluoromethane-methane_monA
+-1
+X40x10_05_fluoromethane-methane_monB
+0
+-0.7130001052 X40_8102
+1
+X40x10_06_chloromethane-methane_1.00
+-1
+X40x10_06_chloromethane-methane_monA
+-1
+X40x10_06_chloromethane-methane_monB
+0
+-0.9590001327 X40_8103
+1
+X40x10_07_trifluoromethane-methane_1.00
+-1
+X40x10_07_trifluoromethane-methane_monA
+-1
+X40x10_07_trifluoromethane-methane_monB
+0
+-0.6080002006 X40_8104
+1
+X40x10_08_trichloromethane-methane_1.00
+-1
+X40x10_08_trichloromethane-methane_monA
+-1
+X40x10_08_trichloromethane-methane_monB
+0
+-1.1170001146 X40_8105
+1
+X40x10_09_fluoromethane-fluoromethane_1.00
+-1
+X40x10_09_fluoromethane-fluoromethane_monA
+-1
+X40x10_09_fluoromethane-fluoromethane_monB
+0
+-1.5899998103 X40_8106
+1
+X40x10_10_chloromethane-chloromethane_1.00
+-1
+X40x10_10_chloromethane-chloromethane_monA
+-1
+X40x10_10_chloromethane-chloromethane_monB
+0
+-1.3100000647 X40_8107
+1
+X40x10_11_benF3-ben_1.00
+-1
+X40x10_11_benF3-ben_monA
+-1
+X40x10_11_benF3-ben_monB
+0
+-4.4699997036 X40_8108
+1
+X40x10_12_benF6-ben_1.00
+-1
+X40x10_12_benF6-ben_monA
+-1
+X40x10_12_benF6-ben_monB
+0
+-6.2339997323 X40_8109
+1
+X40x10_13_chloromethane-formaldehyde_1.00
+-1
+X40x10_13_chloromethane-formaldehyde_monA
+-1
+X40x10_13_chloromethane-formaldehyde_monB
+0
+-1.1320001010 X40_8110
+1
+X40x10_14_bromomethane-formaldehyde_1.00
+-1
+X40x10_14_bromomethane-formaldehyde_monA
+-1
+X40x10_14_bromomethane-formaldehyde_monB
+0
+-1.6949997149 X40_8111
+1
+X40x10_15_iodomethane-formaldehyde_1.00
+-1
+X40x10_15_iodomethane-formaldehyde_monA
+-1
+X40x10_15_iodomethane-formaldehyde_monB
+0
+-2.3420002566 X40_8112
+1
+X40x10_16_F3chloromethane-formaldehyde_1.00
+-1
+X40x10_16_F3chloromethane-formaldehyde_monA
+-1
+X40x10_16_F3chloromethane-formaldehyde_monB
+0
+-2.1999998836 X40_8113
+1
+X40x10_17_F3bromomethane-formaldehyde_1.00
+-1
+X40x10_17_F3bromomethane-formaldehyde_monA
+-1
+X40x10_17_F3bromomethane-formaldehyde_monB
+0
+-3.0459999934 X40_8114
+1
+X40x10_18_F3iodomethane-formaldehyde_1.00
+-1
+X40x10_18_F3iodomethane-formaldehyde_monA
+-1
+X40x10_18_F3iodomethane-formaldehyde_monB
+0
+-3.9880002670 X40_8115
+1
+X40x10_19_benCl-acetone_1.00
+-1
+X40x10_19_benCl-acetone_monA
+-1
+X40x10_19_benCl-acetone_monB
+0
+-1.4480000649 X40_8116
+1
+X40x10_20_benBr-acetone_1.00
+-1
+X40x10_20_benBr-acetone_monA
+-1
+X40x10_20_benBr-acetone_monB
+0
+-2.3990000793 X40_8117
+1
+X40x10_21_benI-acetone_1.00
+-1
+X40x10_21_benI-acetone_monA
+-1
+X40x10_21_benI-acetone_monB
+0
+-3.3869999346 X40_8118
+1
+X40x10_22_benCl-Nm3_1.00
+-1
+X40x10_22_benCl-Nm3_monA
+-1
+X40x10_22_benCl-Nm3_monB
+0
+-2.0919998562 X40_8119
+1
+X40x10_23_benBr-Nm3_1.00
+-1
+X40x10_23_benBr-Nm3_monA
+-1
+X40x10_23_benBr-Nm3_monB
+0
+-3.7479998576 X40_8120
+1
+X40x10_24_benI-Nm3_1.00
+-1
+X40x10_24_benI-Nm3_monA
+-1
+X40x10_24_benI-Nm3_monB
+0
+-5.7319996864 X40_8121
+1
+X40x10_25_benBr-mSH_1.00
+-1
+X40x10_25_benBr-mSH_monA
+-1
+X40x10_25_benBr-mSH_monB
+0
+-2.2919996745 X40_8122
+1
+X40x10_26_benI-mSH_1.00
+-1
+X40x10_26_benI-mSH_monA
+-1
+X40x10_26_benI-mSH_monB
+0
+-3.0620002299 X40_8123
+1
+X40x10_27_CH3Br-ben_1.00
+-1
+X40x10_27_CH3Br-ben_monA
+-1
+X40x10_27_CH3Br-ben_monB
+0
+-1.8579996923 X40_8124
+1
+X40x10_28_CH3I-ben_1.00
+-1
+X40x10_28_CH3I-ben_monA
+-1
+X40x10_28_CH3I-ben_monB
+0
+-2.5179997202 X40_8125
+1
+X40x10_29_CF3Br-ben_1.00
+-1
+X40x10_29_CF3Br-ben_monA
+-1
+X40x10_29_CF3Br-ben_monB
+0
+-3.1629997616 X40_8126
+1
+X40x10_30_CF3I-ben_1.00
+-1
+X40x10_30_CF3I-ben_monA
+-1
+X40x10_30_CF3I-ben_monB
+0
+-3.9700001579 X40_8127
+1
+X40x10_31_trifluorometOH-wat_1.00
+-1
+X40x10_31_trifluorometOH-wat_monA
+-1
+X40x10_31_trifluorometOH-wat_monB
+0
+-9.5980001898 X40_8128
+1
+X40x10_32_trichlorometOH-wat_1.00
+-1
+X40x10_32_trichlorometOH-wat_monA
+-1
+X40x10_32_trichlorometOH-wat_monB
+0
+-10.3459996357 X40_8129
+1
+X40x10_33_HF-mOH_1.00
+-1
+X40x10_33_HF-mOH_monA
+-1
+X40x10_33_HF-mOH_monB
+0
+-9.4979996532 X40_8130
+1
+X40x10_34_HCl-mOH_1.00
+-1
+X40x10_34_HCl-mOH_monA
+-1
+X40x10_34_HCl-mOH_monB
+0
+-6.2589997096 X40_8131
+1
+X40x10_35_HBr-mOH_1.00
+-1
+X40x10_35_HBr-mOH_monA
+-1
+X40x10_35_HBr-mOH_monB
+0
+-5.2939999589 X40_8132
+1
+X40x10_36_HI-mOH_1.00
+-1
+X40x10_36_HI-mOH_monA
+-1
+X40x10_36_HI-mOH_monB
+0
+-3.9209998259 X40_8133
+1
+X40x10_37_HF-mNH2_1.00
+-1
+X40x10_37_HF-mNH2_monA
+-1
+X40x10_37_HF-mNH2_monB
+0
+-14.1379998298 X40_8134
+1
+X40x10_38_HCl-mNH2_1.00
+-1
+X40x10_38_HCl-mNH2_monA
+-1
+X40x10_38_HCl-mNH2_monB
+0
+-11.3129998866 X40_8135
+1
+X40x10_39_methanol-fluoromethane_1.00
+-1
+X40x10_39_methanol-fluoromethane_monA
+-1
+X40x10_39_methanol-fluoromethane_monB
+0
+-3.8279997849 X40_8136
+1
+X40x10_40_methanol-chloromethane_1.00
+-1
+X40x10_40_methanol-chloromethane_monA
+-1
+X40x10_40_methanol-chloromethane_monB
+0
+-3.7609999713 X40_8137

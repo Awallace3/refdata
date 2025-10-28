@@ -1,0 +1,187 @@
+# Dataset: HSG
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of small ligands interacting with protein receptors
+# Theory level = HF/aQZ+MP2/a[TQ]Z+CCSD(T) /haTZ
+# Number of datapoints = 21.0
+# RMS energy (kcal/mol) = 6.6256842226484
+# Min energy (kcal/mol) = -19.0759992114837
+# Max energy (kcal/mol) = 0.377999984669259
+# Year last updated = 2011
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+11_ala29-big_dim_HSG
+-1
+11_ala29-big_monA_HSG
+-1
+11_ala29-big_monB_HSG
+0
+-0.5179999755 HSG_3915
+1
+12_ala128-small_dim_HSG
+-1
+12_ala128-small_monA_HSG
+-1
+12_ala128-small_monB_HSG
+0
+-2.2829998910 HSG_3916
+1
+13_arg8_dim_HSG
+-1
+13_arg8_monA_HSG
+-1
+13_arg8_monB_HSG
+0
+-2.4779998814 HSG_3917
+1
+14_ash26-asp125_dim_HSG
+-1
+14_ash26-asp125_monA_HSG
+-1
+14_ash26-asp125_monB_HSG
+0
+-16.5259992100 HSG_3918
+1
+15_asp129-big_dim_HSG
+-1
+15_asp129-big_monA_HSG
+-1
+15_asp129-big_monB_HSG
+0
+-19.0759990881 HSG_3919
+1
+16_asp130_dim_HSG
+-1
+16_asp130_monA_HSG
+-1
+16_asp130_monB_HSG
+0
+-5.9979997133 HSG_3920
+1
+17_gly28-big_dim_HSG
+-1
+17_gly28-big_monA_HSG
+-1
+17_gly28-big_monB_HSG
+0
+-3.3079998420 HSG_3921
+1
+18_gly50-ring-big_dim_HSG
+-1
+18_gly50-ring-big_monA_HSG
+-1
+18_gly50-ring-big_monB_HSG
+0
+-0.5809999722 HSG_3922
+1
+19_gly50-v1_dim_HSG
+-1
+19_gly50-v1_monA_HSG
+-1
+19_gly50-v1_monB_HSG
+0
+-5.0659997576 HSG_3923
+1
+20_gly127_dim_HSG
+-1
+20_gly127_monA_HSG
+-1
+20_gly127_monB_HSG
+0
+-7.5089996412 HSG_3924
+1
+21_gly148_dim_HSG
+-1
+21_gly148_monA_HSG
+-1
+21_gly148_monB_HSG
+0
+-6.2739996997 HSG_3925
+1
+22_ile48-big_dim_HSG
+-1
+22_ile48-big_monA_HSG
+-1
+22_ile48-big_monB_HSG
+0
+0.3019999854 HSG_3926
+1
+23_ile147_dim_HSG
+-1
+23_ile147_monA_HSG
+-1
+23_ile147_monB_HSG
+0
+-2.1029998996 HSG_3927
+1
+24_ile150-big_dim_HSG
+-1
+24_ile150-big_monA_HSG
+-1
+24_ile150-big_monB_HSG
+0
+-1.3779999339 HSG_3928
+1
+25_ile184_dim_HSG
+-1
+25_ile184_monA_HSG
+-1
+25_ile184_monB_HSG
+0
+-0.8559999589 HSG_3929
+1
+26_leu23-big_dim_HSG
+-1
+26_leu23-big_monA_HSG
+-1
+26_leu23-big_monB_HSG
+0
+-1.0999999474 HSG_3930
+1
+27_pro181_dim_HSG
+-1
+27_pro181_monA_HSG
+-1
+27_pro181_monB_HSG
+0
+-1.5339999265 HSG_3931
+1
+28_val33-big_dim_HSG
+-1
+28_val33-big_monA_HSG
+-1
+28_val33-big_monB_HSG
+0
+-0.4719999771 HSG_3932
+1
+29_val83_dim_HSG
+-1
+29_val83_monA_HSG
+-1
+29_val83_monB_HSG
+0
+-1.5979999235 HSG_3933
+1
+30_val132_dim_HSG
+-1
+30_val132_monA_HSG
+-1
+30_val132_monB_HSG
+0
+0.3779999822 HSG_3934
+1
+31_wat200_dim_HSG
+-1
+31_wat200_monA_HSG
+-1
+31_wat200_monB_HSG
+0
+-9.5379995440 HSG_3935

@@ -1,0 +1,143 @@
+# Dataset: BDE99MR
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Multi-reference (MR) bond dissociation energies from W4-11
+# Theory level = W4 etc
+# Number of datapoints = 16.0
+# RMS energy (kcal/mol) = 54.5131878546517
+# Min energy (kcal/mol) = -105.579995741145
+# Max energy (kcal/mol) = -5.26999963829914
+# Year last updated = 2011
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+W4-17_foof
+-1
+W4-17_f
+-1
+W4-17_fo2
+0
+-17.6499990233 BDE99MR_482
+1
+W4-17_foof
+-2
+W4-17_of
+0
+-46.2199975372 BDE99MR_483
+1
+W4-17_oclo
+-1
+W4-17_o
+-1
+W4-17_clo
+0
+-62.6699970234 BDE99MR_484
+1
+W4-17_cloo
+-1
+W4-17_clo
+-1
+W4-17_o
+0
+-60.9399973402 BDE99MR_485
+1
+W4-17_cloo
+-1
+W4-17_cl
+-1
+W4-17_o2
+0
+-5.5599999682 BDE99MR_486
+1
+W4-17_fo2
+-1
+W4-17_of
+-1
+W4-17_o
+0
+-81.6499960932 BDE99MR_487
+1
+W4-17_fo2
+-1
+W4-17_f
+-1
+W4-17_o2
+0
+-13.8999992930 BDE99MR_488
+1
+W4-17_cl2o
+-1
+W4-17_clo
+-1
+W4-17_cl
+0
+-36.0099980290 BDE99MR_489
+1
+W4-17_f2o
+-1
+W4-17_of
+-1
+W4-17_f
+0
+-40.6999981602 BDE99MR_490
+1
+W4-17_hof
+-1
+W4-17_h
+-1
+W4-17_of
+0
+-105.5799950580 BDE99MR_491
+1
+W4-17_t-hooo
+-1
+W4-17_hoo
+-1
+W4-17_o
+0
+-57.7599970921 BDE99MR_492
+1
+W4-17_t-hooo
+-1
+W4-17_oh
+-1
+W4-17_o2
+0
+-5.2699996042 BDE99MR_493
+1
+W4-17_t-hooo
+-1
+W4-17_h
+-1
+W4-17_o3
+0
+-85.8699960239 BDE99MR_494
+1
+W4-17_o3
+-1
+W4-17_o2
+-1
+W4-17_o
+0
+-26.5999984214 BDE99MR_495
+1
+W4-17_s4-c2v
+-1
+W4-17_s3
+-1
+W4-17_s
+0
+-65.9799971534 BDE99MR_496
+1
+W4-17_s4-c2v
+-2
+W4-17_s2
+0
+-25.8499984753 BDE99MR_497

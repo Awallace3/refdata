@@ -1,0 +1,1739 @@
+# Dataset: BzDC215
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = PECs for benzene interacting with two rare-gas atoms and eight first- and second-row hydrides 
+# Theory level = HF/aQZ+MP2/a[TQ]Z+CCSD(T) /aTZ
+# Number of datapoints = 215.0
+# RMS energy (kcal/mol) = 1.8097302023444
+# Min energy (kcal/mol) = -4.19809982656159
+# Max energy (kcal/mol) = 4.00909983454072
+# Year last updated = 2009
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+11_Benzene_Ne_2p800_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+0.2763999867 BzDC215_1736
+1
+11_Benzene_Ne_2p900_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.0365999981 BzDC215_1737
+1
+11_Benzene_Ne_3p000_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.2296999890 BzDC215_1738
+1
+11_Benzene_Ne_3p100_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3404999837 BzDC215_1739
+1
+11_Benzene_Ne_3p150_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3737999823 BzDC215_1740
+1
+11_Benzene_Ne_3p200_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3959999809 BzDC215_1741
+1
+11_Benzene_Ne_3p250_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.4090999803 BzDC215_1742
+1
+11_Benzene_Ne_3p300_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.4149999800 BzDC215_1743
+1
+11_Benzene_Ne_3p350_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.4151999804 BzDC215_1744
+1
+11_Benzene_Ne_3p400_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.4108999806 BzDC215_1745
+1
+11_Benzene_Ne_3p500_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3926999814 BzDC215_1746
+1
+11_Benzene_Ne_3p600_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3665999825 BzDC215_1747
+1
+11_Benzene_Ne_3p700_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3367999839 BzDC215_1748
+1
+11_Benzene_Ne_3p800_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.3058999856 BzDC215_1749
+1
+11_Benzene_Ne_3p900_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.2755999868 BzDC215_1750
+1
+11_Benzene_Ne_4p000_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.2468999884 BzDC215_1751
+1
+11_Benzene_Ne_4p250_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.1848999914 BzDC215_1752
+1
+11_Benzene_Ne_4p500_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.1368999936 BzDC215_1753
+1
+11_Benzene_Ne_4p750_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.1016999954 BzDC215_1754
+1
+11_Benzene_Ne_5p000_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.0761999967 BzDC215_1755
+1
+11_Benzene_Ne_5p500_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.0437999979 BzDC215_1756
+1
+11_Benzene_Ne_6p000_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.0258999991 BzDC215_1757
+1
+11_Benzene_Ne_6p500_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.0155999990 BzDC215_1758
+1
+11_Benzene_Ne_7p000_BzDC215
+-1
+11_Benzene_Ne_monA_BzDC215
+-1
+11_Benzene_Ne_monB_BzDC215
+0
+-0.0096999993 BzDC215_1759
+1
+12_Benzene_HF_2p800_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-2.3394998880 BzDC215_1760
+1
+12_Benzene_HF_2p900_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.2906998426 BzDC215_1761
+1
+12_Benzene_HF_3p000_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.8474998161 BzDC215_1762
+1
+12_Benzene_HF_3p100_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-4.1213998032 BzDC215_1763
+1
+12_Benzene_HF_3p150_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-4.1799998002 BzDC215_1764
+1
+12_Benzene_HF_3p200_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-4.1980997994 BzDC215_1765
+1
+12_Benzene_HF_3p250_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-4.1829997999 BzDC215_1766
+1
+12_Benzene_HF_3p300_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-4.1408998018 BzDC215_1767
+1
+12_Benzene_HF_3p400_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.9964998088 BzDC215_1768
+1
+12_Benzene_HF_3p500_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.7987998183 BzDC215_1769
+1
+12_Benzene_HF_3p600_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.5718998293 BzDC215_1770
+1
+12_Benzene_HF_3p700_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.3323998405 BzDC215_1771
+1
+12_Benzene_HF_3p800_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-3.0916998521 BzDC215_1772
+1
+12_Benzene_HF_3p900_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-2.8572998637 BzDC215_1773
+1
+12_Benzene_HF_4p000_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-2.6336998742 BzDC215_1774
+1
+12_Benzene_HF_4p250_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-2.1363998981 BzDC215_1775
+1
+12_Benzene_HF_4p500_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-1.7318999173 BzDC215_1776
+1
+12_Benzene_HF_4p750_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-1.4107999324 BzDC215_1777
+1
+12_Benzene_HF_5p000_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-1.1574999448 BzDC215_1778
+1
+12_Benzene_HF_5p500_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-0.7972999621 BzDC215_1779
+1
+12_Benzene_HF_6p000_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-0.5646999732 BzDC215_1780
+1
+12_Benzene_HF_6p500_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-0.4102999805 BzDC215_1781
+1
+12_Benzene_HF_7p000_BzDC215
+-1
+12_Benzene_HF_monA_BzDC215
+-1
+12_Benzene_HF_monB_BzDC215
+0
+-0.3046999854 BzDC215_1782
+1
+13_Benzene_H2O_2p800_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+0.4117999804 BzDC215_1783
+1
+13_Benzene_H2O_2p900_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-1.0794999485 BzDC215_1784
+1
+13_Benzene_H2O_3p000_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.0346999026 BzDC215_1785
+1
+13_Benzene_H2O_3p100_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.6055998752 BzDC215_1786
+1
+13_Benzene_H2O_3p200_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.9061998613 BzDC215_1787
+1
+13_Benzene_H2O_3p250_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.9821998575 BzDC215_1788
+1
+13_Benzene_H2O_3p300_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-3.0202998555 BzDC215_1789
+1
+13_Benzene_H2O_3p350_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-3.0273998553 BzDC215_1790
+1
+13_Benzene_H2O_3p400_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-3.0094998559 BzDC215_1791
+1
+13_Benzene_H2O_3p500_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.9178998607 BzDC215_1792
+1
+13_Benzene_H2O_3p600_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.7770998675 BzDC215_1793
+1
+13_Benzene_H2O_3p700_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.6087998755 BzDC215_1794
+1
+13_Benzene_H2O_3p800_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.4285998836 BzDC215_1795
+1
+13_Benzene_H2O_3p900_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.2461998924 BzDC215_1796
+1
+13_Benzene_H2O_4p000_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-2.0682999010 BzDC215_1797
+1
+13_Benzene_H2O_4p250_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-1.6653999207 BzDC215_1798
+1
+13_Benzene_H2O_4p500_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-1.3361999361 BzDC215_1799
+1
+13_Benzene_H2O_4p750_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-1.0771999487 BzDC215_1800
+1
+13_Benzene_H2O_5p000_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-0.8756999580 BzDC215_1801
+1
+13_Benzene_H2O_5p500_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-0.5956999714 BzDC215_1802
+1
+13_Benzene_H2O_6p000_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-0.4205999799 BzDC215_1803
+1
+13_Benzene_H2O_6p500_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-0.3075999853 BzDC215_1804
+1
+13_Benzene_H2O_7p000_BzDC215
+-1
+13_Benzene_H2O_monA_BzDC215
+-1
+13_Benzene_H2O_monB_BzDC215
+0
+-0.2313999887 BzDC215_1805
+1
+14_Benzene_NH3_3p000_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+0.7339999650 BzDC215_1806
+1
+14_Benzene_NH3_3p100_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.4499999783 BzDC215_1807
+1
+14_Benzene_NH3_3p200_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.2322999408 BzDC215_1808
+1
+14_Benzene_NH3_3p300_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.7197999177 BzDC215_1809
+1
+14_Benzene_NH3_3p400_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.9953999045 BzDC215_1810
+1
+14_Benzene_NH3_3p500_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-2.1210998988 BzDC215_1811
+1
+14_Benzene_NH3_3p550_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-2.1428998978 BzDC215_1812
+1
+14_Benzene_NH3_3p600_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-2.1435998978 BzDC215_1813
+1
+14_Benzene_NH3_3p650_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-2.1272998982 BzDC215_1814
+1
+14_Benzene_NH3_3p700_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-2.0971998998 BzDC215_1815
+1
+14_Benzene_NH3_3p800_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-2.0083999039 BzDC215_1816
+1
+14_Benzene_NH3_3p900_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.8922999097 BzDC215_1817
+1
+14_Benzene_NH3_4p000_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.7627999156 BzDC215_1818
+1
+14_Benzene_NH3_4p250_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.4313999318 BzDC215_1819
+1
+14_Benzene_NH3_4p500_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-1.1363999457 BzDC215_1820
+1
+14_Benzene_NH3_4p750_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.8966999571 BzDC215_1821
+1
+14_Benzene_NH3_5p000_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.7096999664 BzDC215_1822
+1
+14_Benzene_NH3_5p500_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.4537999786 BzDC215_1823
+1
+14_Benzene_NH3_6p000_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.3004999855 BzDC215_1824
+1
+14_Benzene_NH3_6p500_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.2063999900 BzDC215_1825
+1
+14_Benzene_NH3_7p000_BzDC215
+-1
+14_Benzene_NH3_monA_BzDC215
+-1
+14_Benzene_NH3_monB_BzDC215
+0
+-0.1463999931 BzDC215_1826
+1
+15_Benzene_CH4_3p000_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+4.0090998086 BzDC215_1827
+1
+15_Benzene_CH4_3p100_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+2.1431998975 BzDC215_1828
+1
+15_Benzene_CH4_3p200_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+0.8259999605 BzDC215_1829
+1
+15_Benzene_CH4_3p300_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.0788999961 BzDC215_1830
+1
+15_Benzene_CH4_3p400_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.6771999676 BzDC215_1831
+1
+15_Benzene_CH4_3p500_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.0512999496 BzDC215_1832
+1
+15_Benzene_CH4_3p600_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.2641999394 BzDC215_1833
+1
+15_Benzene_CH4_3p700_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.3634999346 BzDC215_1834
+1
+15_Benzene_CH4_3p750_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.3819999341 BzDC215_1835
+1
+15_Benzene_CH4_3p800_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.3850999338 BzDC215_1836
+1
+15_Benzene_CH4_3p850_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.3748999342 BzDC215_1837
+1
+15_Benzene_CH4_3p900_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.3543999353 BzDC215_1838
+1
+15_Benzene_CH4_4p000_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.2904999381 BzDC215_1839
+1
+15_Benzene_CH4_4p250_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-1.0675999493 BzDC215_1840
+1
+15_Benzene_CH4_4p500_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.8369999599 BzDC215_1841
+1
+15_Benzene_CH4_4p750_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.6399999694 BzDC215_1842
+1
+15_Benzene_CH4_5p000_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.4856999766 BzDC215_1843
+1
+15_Benzene_CH4_5p500_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.2814999864 BzDC215_1844
+1
+15_Benzene_CH4_6p000_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.1673999922 BzDC215_1845
+1
+15_Benzene_CH4_6p500_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.1036999949 BzDC215_1846
+1
+15_Benzene_CH4_7p000_BzDC215
+-1
+15_Benzene_CH4_monA_BzDC215
+-1
+15_Benzene_CH4_monB_BzDC215
+0
+-0.0667999970 BzDC215_1847
+1
+16_Benzene_Ar_3p000_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+0.5329999744 BzDC215_1848
+1
+16_Benzene_Ar_3p100_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.1868999908 BzDC215_1849
+1
+16_Benzene_Ar_3p200_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.6407999693 BzDC215_1850
+1
+16_Benzene_Ar_3p300_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.9073999568 BzDC215_1851
+1
+16_Benzene_Ar_3p400_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0444999502 BzDC215_1852
+1
+16_Benzene_Ar_3p450_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0780999485 BzDC215_1853
+1
+16_Benzene_Ar_3p500_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0940999478 BzDC215_1854
+1
+16_Benzene_Ar_3p525_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0965999474 BzDC215_1855
+1
+16_Benzene_Ar_3p550_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0958999474 BzDC215_1856
+1
+16_Benzene_Ar_3p600_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0864999478 BzDC215_1857
+1
+16_Benzene_Ar_3p700_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-1.0428999504 BzDC215_1858
+1
+16_Benzene_Ar_3p800_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.9783999531 BzDC215_1859
+1
+16_Benzene_Ar_3p900_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.9031999568 BzDC215_1860
+1
+16_Benzene_Ar_4p000_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.8240999603 BzDC215_1861
+1
+16_Benzene_Ar_4p250_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.6344999694 BzDC215_1862
+1
+16_Benzene_Ar_4p500_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.4767999772 BzDC215_1863
+1
+16_Benzene_Ar_4p750_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.3553999833 BzDC215_1864
+1
+16_Benzene_Ar_5p000_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.2648999871 BzDC215_1865
+1
+16_Benzene_Ar_5p500_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.1497999925 BzDC215_1866
+1
+16_Benzene_Ar_6p000_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.0880999959 BzDC215_1867
+1
+16_Benzene_Ar_7p000_BzDC215
+-1
+16_Benzene_Ar_monA_BzDC215
+-1
+16_Benzene_Ar_monB_BzDC215
+0
+-0.0343999982 BzDC215_1868
+1
+17_Benzene_HCl_3p100_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+0.2831999862 BzDC215_1869
+1
+17_Benzene_HCl_3p200_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-1.4476999308 BzDC215_1870
+1
+17_Benzene_HCl_3p300_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-2.5842998764 BzDC215_1871
+1
+17_Benzene_HCl_3p400_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.2824998432 BzDC215_1872
+1
+17_Benzene_HCl_3p500_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.6628998251 BzDC215_1873
+1
+17_Benzene_HCl_3p550_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.7636998201 BzDC215_1874
+1
+17_Benzene_HCl_3p600_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.8178998173 BzDC215_1875
+1
+17_Benzene_HCl_3p650_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.8335998168 BzDC215_1876
+1
+17_Benzene_HCl_3p700_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.8175998176 BzDC215_1877
+1
+17_Benzene_HCl_3p800_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.7136998222 BzDC215_1878
+1
+17_Benzene_HCl_3p900_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.5444998304 BzDC215_1879
+1
+17_Benzene_HCl_4p000_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-3.3371998405 BzDC215_1880
+1
+17_Benzene_HCl_4p250_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-2.7649998678 BzDC215_1881
+1
+17_Benzene_HCl_4p500_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-2.2273998932 BzDC215_1882
+1
+17_Benzene_HCl_4p750_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-1.7776999153 BzDC215_1883
+1
+17_Benzene_HCl_5p000_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-1.4193999321 BzDC215_1884
+1
+17_Benzene_HCl_5p500_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-0.9235999559 BzDC215_1885
+1
+17_Benzene_HCl_6p000_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-0.6218999702 BzDC215_1886
+1
+17_Benzene_HCl_6p500_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-0.4326999796 BzDC215_1887
+1
+17_Benzene_HCl_7p000_BzDC215
+-1
+17_Benzene_HCl_monA_BzDC215
+-1
+17_Benzene_HCl_monB_BzDC215
+0
+-0.3101999855 BzDC215_1888
+1
+18_Benzene_H2S_3p200_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+1.6068999230 BzDC215_1889
+1
+18_Benzene_H2S_3p300_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-0.1624999923 BzDC215_1890
+1
+18_Benzene_H2S_3p400_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-1.3271999368 BzDC215_1891
+1
+18_Benzene_H2S_3p500_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.0543999017 BzDC215_1892
+1
+18_Benzene_H2S_3p600_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.4700998816 BzDC215_1893
+1
+18_Benzene_H2S_3p650_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.5915998760 BzDC215_1894
+1
+18_Benzene_H2S_3p700_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.6681998723 BzDC215_1895
+1
+18_Benzene_H2S_3p750_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.7078998708 BzDC215_1896
+1
+18_Benzene_H2S_3p800_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.7163998700 BzDC215_1897
+1
+18_Benzene_H2S_3p850_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.7015998709 BzDC215_1898
+1
+18_Benzene_H2S_3p900_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.6672998725 BzDC215_1899
+1
+18_Benzene_H2S_4p000_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.5559998776 BzDC215_1900
+1
+18_Benzene_H2S_4p100_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.4079998847 BzDC215_1901
+1
+18_Benzene_H2S_4p200_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.2411998926 BzDC215_1902
+1
+18_Benzene_H2S_4p300_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-2.0678999013 BzDC215_1903
+1
+18_Benzene_H2S_4p500_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-1.7306999172 BzDC215_1904
+1
+18_Benzene_H2S_4p750_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-1.3647999346 BzDC215_1905
+1
+18_Benzene_H2S_5p000_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-1.0710999486 BzDC215_1906
+1
+18_Benzene_H2S_5p250_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-0.8440999597 BzDC215_1907
+1
+18_Benzene_H2S_5p500_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-0.6707999678 BzDC215_1908
+1
+18_Benzene_H2S_6p000_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-0.4370999794 BzDC215_1909
+1
+18_Benzene_H2S_6p500_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-0.2973999858 BzDC215_1910
+1
+18_Benzene_H2S_7p000_BzDC215
+-1
+18_Benzene_H2S_monA_BzDC215
+-1
+18_Benzene_H2S_monB_BzDC215
+0
+-0.2100999898 BzDC215_1911
+1
+19_Benzene_PH3_3p400_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+2.0405999023 BzDC215_1912
+1
+19_Benzene_PH3_3p500_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+0.4486999789 BzDC215_1913
+1
+19_Benzene_PH3_3p600_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.5498999735 BzDC215_1914
+1
+19_Benzene_PH3_3p700_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.2056999424 BzDC215_1915
+1
+19_Benzene_PH3_3p800_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.6107999232 BzDC215_1916
+1
+19_Benzene_PH3_3p900_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.8340999123 BzDC215_1917
+1
+19_Benzene_PH3_4p000_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.9284999075 BzDC215_1918
+1
+19_Benzene_PH3_4p050_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.9401999075 BzDC215_1919
+1
+19_Benzene_PH3_4p100_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.9336999078 BzDC215_1920
+1
+19_Benzene_PH3_4p200_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.8793999101 BzDC215_1921
+1
+19_Benzene_PH3_4p300_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.7874999145 BzDC215_1922
+1
+19_Benzene_PH3_4p400_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.6734999202 BzDC215_1923
+1
+19_Benzene_PH3_4p500_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.5487999262 BzDC215_1924
+1
+19_Benzene_PH3_4p750_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-1.2349999409 BzDC215_1925
+1
+19_Benzene_PH3_5p000_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.9602999539 BzDC215_1926
+1
+19_Benzene_PH3_5p250_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.7404999647 BzDC215_1927
+1
+19_Benzene_PH3_5p500_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.5707999727 BzDC215_1928
+1
+19_Benzene_PH3_6p000_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.3454999835 BzDC215_1929
+1
+19_Benzene_PH3_6p500_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.2171999896 BzDC215_1930
+1
+19_Benzene_PH3_7p000_BzDC215
+-1
+19_Benzene_PH3_monA_BzDC215
+-1
+19_Benzene_PH3_monB_BzDC215
+0
+-0.1426999933 BzDC215_1931
+1
+20_Benzene_SiH4_3p600_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+1.1422999454 BzDC215_1932
+1
+20_Benzene_SiH4_3p700_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+0.1498999931 BzDC215_1933
+1
+20_Benzene_SiH4_3p800_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.5213999749 BzDC215_1934
+1
+20_Benzene_SiH4_3p900_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.9538999547 BzDC215_1935
+1
+20_Benzene_SiH4_4p000_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.2117999419 BzDC215_1936
+1
+20_Benzene_SiH4_4p100_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.3440999359 BzDC215_1937
+1
+20_Benzene_SiH4_4p150_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.3751999340 BzDC215_1938
+1
+20_Benzene_SiH4_4p200_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.3882999334 BzDC215_1939
+1
+20_Benzene_SiH4_4p250_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.3864999337 BzDC215_1940
+1
+20_Benzene_SiH4_4p300_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.3726999344 BzDC215_1941
+1
+20_Benzene_SiH4_4p400_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.3180999369 BzDC215_1942
+1
+20_Benzene_SiH4_4p500_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.2393999406 BzDC215_1943
+1
+20_Benzene_SiH4_4p750_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-1.0022999521 BzDC215_1944
+1
+20_Benzene_SiH4_5p000_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.7719999631 BzDC215_1945
+1
+20_Benzene_SiH4_5p250_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.5810999721 BzDC215_1946
+1
+20_Benzene_SiH4_5p500_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.4335999794 BzDC215_1947
+1
+20_Benzene_SiH4_6p000_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.2418999885 BzDC215_1948
+1
+20_Benzene_SiH4_6p500_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.1385999933 BzDC215_1949
+1
+20_Benzene_SiH4_7p000_BzDC215
+-1
+20_Benzene_SiH4_monA_BzDC215
+-1
+20_Benzene_SiH4_monB_BzDC215
+0
+-0.0825999959 BzDC215_1950

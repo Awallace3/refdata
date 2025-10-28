@@ -1,0 +1,87 @@
+# Dataset: TMB11
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Transition Metal
+# Description = Statistically significant subsets from TMB50, which contain reaction barriers involving transition metal complexes
+# Theory level = nan
+# Number of datapoints = 11.0
+# RMS energy (kcal/mol) = 16.1381063859642
+# Min energy (kcal/mol) = 3.35000011538512
+# Max energy (kcal/mol) = 37.1399997525974
+# Year last updated = 2019
+# Error (kcal/mol) =  
+#
+#@ fieldasrxn 999
+1
+TMB01_T1
+-1
+TMB01_R1
+-1
+TMB01_R2
+0
+3.3500000937 TMB11_7730
+1
+TMB06_T1
+-1
+TMB06_C1
+0
+8.5199997888 TMB11_7731
+1
+TMB08_T1
+-1
+TMB08_C1
+0
+13.5399996201 TMB11_7732
+1
+TMB09_T1
+-1
+TMB10_C1
+0
+14.6899998302 TMB11_7733
+1
+TMB20_T1
+-1
+TMB20_C1
+0
+37.1399995123 TMB11_7734
+1
+TMB20_T2
+-1
+TMB20_I1
+0
+17.0299995866 TMB11_7735
+1
+TMB20_T3
+-1
+TMB20_I1
+0
+20.9399997990 TMB11_7736
+1
+TMB26_T1
+-1
+TMB26_C1
+0
+8.9799999983 TMB11_7737
+1
+TMB28_T1
+-1
+TMB28_C1
+0
+5.9700002232 TMB11_7738
+1
+TMB29_T1
+-1
+TMB29_C2
+0
+9.1799998166 TMB11_7739
+1
+TMB31_T1
+-1
+TMB31_C1
+0
+8.5699997433 TMB11_7740

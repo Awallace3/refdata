@@ -1,0 +1,83 @@
+# Dataset: CARBHB8
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of hydrogen-bonded complexes between carbene analogues and H2O, NH3, or HCl 
+# Theory level = W2-F12
+# Number of datapoints = 8.0
+# RMS energy (kcal/mol) = 7.46540953258302
+# Min energy (kcal/mol) = 1.20500079545215
+# Max energy (kcal/mol) = 16.2960125326706
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+CARBHB12_2O
+1
+CARBHB12_2O_A
+1
+CARBHB12_2O_B
+0
+6.0470044203 CARBHB8_1964
+-1
+CARBHB12_3O
+1
+CARBHB12_3O_A
+1
+CARBHB12_3O_B
+0
+2.4210018163 CARBHB8_1965
+-1
+CARBHB12_4O
+1
+CARBHB12_4O_A
+1
+CARBHB12_4O_B
+0
+9.9670077612 CARBHB8_1966
+-1
+CARBHB12_2N
+1
+CARBHB12_2N_A
+1
+CARBHB12_2N_B
+0
+3.0210025262 CARBHB8_1967
+-1
+CARBHB12_3N
+1
+CARBHB12_3N_A
+1
+CARBHB12_3N_B
+0
+1.2050007877 CARBHB8_1968
+-1
+CARBHB12_4N
+1
+CARBHB12_4N_A
+1
+CARBHB12_4N_B
+0
+4.1770029818 CARBHB8_1969
+-1
+CARBHB12_3CL
+1
+CARBHB12_3CL_A
+1
+CARBHB12_3CL_B
+0
+3.2410023263 CARBHB8_1970
+-1
+CARBHB12_4CL
+1
+CARBHB12_4CL_A
+1
+CARBHB12_4CL_B
+0
+16.2960124272 CARBHB8_1971

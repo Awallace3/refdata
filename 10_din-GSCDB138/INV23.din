@@ -1,0 +1,157 @@
+# Dataset: INV23
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Inversion/Racemization barrier heights
+# Theory level = W1-F12,W2-F12, DLPNO-CCSD(T)/TightPNO/CBS(def2-[TQ]ZVPP)
+# Number of datapoints = 23.0
+# RMS energy (kcal/mol) = 36.573764915523
+# Min energy (kcal/mol) = 4.10000320383848
+# Max energy (kcal/mol) = 74.2000560532185
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+INV24_H2O
+1
+INV24_H2O_TS
+0
+31.7000239079 INV23_4365
+-1
+INV24_H2S
+1
+INV24_H2S_TS
+0
+69.3000518677 INV23_4366
+-1
+INV24_SO2
+1
+INV24_SO2_TS
+0
+60.6000453399 INV23_4367
+-1
+INV24_Ether
+1
+INV24_Ether_TS
+0
+37.0000278774 INV23_4368
+-1
+INV24_Thioether
+1
+INV24_Thioether_TS
+0
+74.2000555731 INV23_4369
+-1
+INV24_NMe3
+1
+INV24_NMe3_TS
+0
+9.7000075017 INV23_4370
+-1
+INV24_NCl3
+1
+INV24_NCl3_TS
+0
+18.9000142028 INV23_4371
+-1
+INV24_PMe3
+1
+INV24_PMe3_TS
+0
+43.2000322842 INV23_4372
+-1
+INV24_PH2Ph
+1
+INV24_PH2Ph_TS
+0
+31.2000231072 INV23_4373
+-1
+INV24_PPh3
+1
+INV24_PPh3_TS
+0
+29.3000216960 INV23_4374
+-1
+INV24_Dibenzocycloheptene
+1
+INV24_Dibenzocycloheptene_TS
+0
+10.3000075841 INV23_4375
+-1
+INV24_Tetrahelicene
+1
+INV24_Tetrahelicene_TS
+0
+4.5000034414 INV23_4376
+-1
+INV24_Pentahelicene
+1
+INV24_Pentahelicene_TS
+0
+24.7000183455 INV23_4377
+-1
+INV24_Hexahelicene
+1
+INV24_Hexahelicene_TS
+0
+37.6000279598 INV23_4378
+-1
+INV24_Dibenzocarbazole
+1
+INV24_Dibenzocarbazole_TS
+0
+4.1000031773 INV23_4379
+-1
+INV24_Methinecyanine
+1
+INV24_Methinecyanine_TS
+0
+13.1000100601 INV23_4380
+-1
+INV24_Corannulene
+1
+INV24_Corannulene_TS
+0
+11.2000086489 INV23_4381
+-1
+INV24_BN_Corannulene
+1
+INV24_BN_Corannulene_TS
+0
+6.2000044068 INV23_4382
+-1
+INV24_Sumanene
+1
+INV24_Sumanene_TS
+0
+21.3000157872 INV23_4383
+-1
+INV24_Triazasumanene
+1
+INV24_Triazasumanene_TS
+0
+42.3000318469 INV23_4384
+-1
+INV24_BN_Sumanene
+1
+INV24_BN_Sumanene_TS
+0
+27.2000204665 INV23_4385
+-1
+INV24_Tetrabenzopyracylene
+1
+INV24_Tetrabenzopyracylene_TS
+0
+8.4000061729 INV23_4386
+-1
+INV24_Triindenotriphenylene
+1
+INV24_Triindenotriphenylene_TS
+0
+68.6000512487 INV23_4387

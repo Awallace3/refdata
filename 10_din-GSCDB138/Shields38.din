@@ -1,0 +1,247 @@
+# Dataset: Shields38
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of (H2O)n (n = 2 - 10) 
+# Theory level = PLATINUM: through (H2O)6; GOLD: (H2O)7; and SILVER: (H2O)n=8–10
+# Number of datapoints = 38.0
+# RMS energy (kcal/mol) = 51.6071954750184
+# Min energy (kcal/mol) = -93.1421057239156
+# Max energy (kcal/mol) = -4.96979691450923
+# Year last updated = 2023
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+4179_water2Cs_Shields38
+-2
+4217_waterC2v_Shields38
+0
+-4.9697968824 Shields38_6978
+1
+4180_water3UUD_Shields38
+-3
+4217_waterC2v_Shields38
+0
+-15.5909902538 Shields38_6979
+1
+4181_water3UUU_Shields38
+-3
+4217_waterC2v_Shields38
+0
+-14.9740666536 Shields38_6980
+1
+4182_water4S4_Shields38
+-4
+4217_waterC2v_Shields38
+0
+-27.3584706584 Shields38_6981
+1
+4183_water4Ci_Shields38
+-4
+4217_waterC2v_Shields38
+0
+-26.5098388033 Shields38_6982
+1
+4184_water4Py_Shields38
+-4
+4217_waterC2v_Shields38
+0
+-23.7894469465 Shields38_6983
+1
+4185_water5CYC_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-35.9288233974 Shields38_6984
+1
+4186_water5CAA_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-34.4426980931 Shields38_6985
+1
+4187_water5CAB_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-33.7417617168 Shields38_6986
+1
+4188_water5CAC_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-34.6194296229 Shields38_6987
+1
+4189_water5FRA_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-33.0166023264 Shields38_6988
+1
+4190_water5FRB_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-34.7790471635 Shields38_6989
+1
+4191_water5FRC_Shields38
+-5
+4217_waterC2v_Shields38
+0
+-32.3407976111 Shields38_6990
+1
+4192_water6BAG_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-44.9001386515 Shields38_6991
+1
+4193_water6BK1_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-45.8182455064 Shields38_6992
+1
+4194_water6BK2_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-45.4832690670 Shields38_6993
+1
+4195_water6CA_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-46.2628681814 Shields38_6994
+1
+4196_water6CB1_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-43.8091724475 Shields38_6995
+1
+4197_water6CB2_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-43.7627292009 Shields38_6996
+1
+4198_water6CC_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-44.8216279469 Shields38_6997
+1
+4199_water6PR_Shields38
+-6
+4217_waterC2v_Shields38
+0
+-46.5111349241 Shields38_6998
+1
+4200_water7PR3_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-56.9141811439 Shields38_6999
+1
+4201_water7BI2_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-53.2476862192 Shields38_7000
+1
+4202_water7BI1_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-53.3235802793 Shields38_7001
+1
+4203_water7PR1_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-57.3968783594 Shields38_7002
+1
+4204_water7CH3_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-52.9831608015 Shields38_7003
+1
+4205_water7CH2_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-53.7257511958 Shields38_7004
+1
+4206_water7CA2_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-54.8553456384 Shields38_7005
+1
+4207_water7HM1_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-52.1804760786 Shields38_7006
+1
+4208_water7CA1_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-55.6686811995 Shields38_7007
+1
+4209_water7PR2_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-57.1048300612 Shields38_7008
+1
+4210_water7CH1_Shields38
+-7
+4217_waterC2v_Shields38
+0
+-54.2991715666 Shields38_7009
+1
+4211_water8D2d_Shields38
+-8
+4217_waterC2v_Shields38
+0
+-72.7031591154 Shields38_7010
+1
+4212_water8S4_Shields38
+-8
+4217_waterC2v_Shields38
+0
+-72.7033351373 Shields38_7011
+1
+4213_water9D2dDD_Shields38
+-9
+4217_waterC2v_Shields38
+0
+-81.8254224533 Shields38_7012
+1
+4214_water9S4DA_Shields38
+-9
+4217_waterC2v_Shields38
+0
+-81.5423933094 Shields38_7013
+1
+4215_water10PP1_Shields38
+-10
+4217_waterC2v_Shields38
+0
+-93.1421051213 Shields38_7014
+1
+4216_water10PP2_Shields38
+-10
+4217_waterC2v_Shields38
+0
+-93.1003607165 Shields38_7015

@@ -1,0 +1,109 @@
+# Dataset: ACONF
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of alkane conformers 
+# Theory level = W1h-val
+# Number of datapoints = 15.0
+# RMS energy (kcal/mol) = 2.23280707213216
+# Min energy (kcal/mol) = 0.595000718246848
+# Max energy (kcal/mol) = 4.92500371459359
+# Year last updated = 2009
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+ACONF_B_T
+1
+ACONF_B_G
+0
+0.5980002097 ACONF_263
+-1
+ACONF_P_TT
+1
+ACONF_P_TG
+0
+0.6140004461 ACONF_264
+-1
+ACONF_P_TT
+1
+ACONF_P_GG
+0
+0.9610006329 ACONF_265
+-1
+ACONF_P_TT
+1
+ACONF_P_GX
+0
+2.8130019622 ACONF_266
+-1
+ACONF_H_ttt
+1
+ACONF_H_gtt
+0
+0.5950007144 ACONF_267
+-1
+ACONF_H_ttt
+1
+ACONF_H_tgt
+0
+0.6040004552 ACONF_268
+-1
+ACONF_H_ttt
+1
+ACONF_H_tgg
+0
+0.9340007829 ACONF_269
+-1
+ACONF_H_ttt
+1
+ACONF_H_gtg
+0
+1.1780009377 ACONF_270
+-1
+ACONF_H_ttt
+1
+ACONF_H_g+t+g-
+0
+1.3020012015 ACONF_271
+-1
+ACONF_H_ttt
+1
+ACONF_H_ggg
+0
+1.2500007468 ACONF_272
+-1
+ACONF_H_ttt
+1
+ACONF_H_g+x-t+
+0
+2.6320018756 ACONF_273
+-1
+ACONF_H_ttt
+1
+ACONF_H_t+g+x-
+0
+2.7400019030 ACONF_274
+-1
+ACONF_H_ttt
+1
+ACONF_H_g+x-g-
+0
+3.2830021626 ACONF_275
+-1
+ACONF_H_ttt
+1
+ACONF_H_x+g-g-
+0
+3.0830023443 ACONF_276
+-1
+ACONF_H_ttt
+1
+ACONF_H_x+g-x+
+0
+4.9250036827 ACONF_277

@@ -1,0 +1,663 @@
+# Dataset: BDE99nonMR
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Single-reference (SR) bond dissociation energies from W4-11
+# Theory level = W4 etc
+# Number of datapoints = 83.0
+# RMS energy (kcal/mol) = 114.983949183756
+# Min energy (kcal/mol) = -237.079990061706
+# Max energy (kcal/mol) = -19.6899991796589
+# Year last updated = 2011
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+W4-17_hocl
+-1
+W4-17_h
+-1
+W4-17_clo
+0
+-100.7799950268 BDE99nonMR_498
+1
+W4-17_hocl
+-1
+W4-17_oh
+-1
+W4-17_cl
+0
+-59.0199972022 BDE99nonMR_499
+1
+W4-17_hof
+-1
+W4-17_oh
+-1
+W4-17_f
+0
+-51.4499978053 BDE99nonMR_500
+1
+W4-17_no2
+-1
+W4-17_no
+-1
+W4-17_o
+0
+-75.1399963607 BDE99nonMR_501
+1
+W4-17_n2o
+-1
+W4-17_no
+-1
+W4-17_n
+0
+-118.0999943499 BDE99nonMR_502
+1
+W4-17_n2o
+-1
+W4-17_n2
+-1
+W4-17_o
+0
+-42.3599979069 BDE99nonMR_503
+1
+W4-17_t-hono
+-1
+W4-17_h
+-1
+W4-17_no2
+0
+-84.7699957684 BDE99nonMR_504
+1
+W4-17_t-hono
+-1
+W4-17_oh
+-1
+W4-17_no
+0
+-52.6999972970 BDE99nonMR_505
+1
+W4-17_hnc
+-1
+W4-17_h
+-1
+W4-17_cn
+0
+-116.8499942307 BDE99nonMR_506
+1
+W4-17_hnc
+-1
+W4-17_nh
+-1
+W4-17_c
+0
+-215.1099896646 BDE99nonMR_507
+1
+W4-17_honc
+-1
+W4-17_oh
+-1
+W4-17_cn
+0
+-61.5899967496 BDE99nonMR_508
+1
+W4-17_hnco
+-1
+W4-17_nh
+-1
+W4-17_co
+0
+-91.9099955560 BDE99nonMR_509
+1
+W4-17_hcno
+-1
+W4-17_ch
+-1
+W4-17_no
+0
+-128.0099941308 BDE99nonMR_510
+1
+W4-17_hno
+-1
+W4-17_h
+-1
+W4-17_no
+0
+-53.1399975248 BDE99nonMR_511
+1
+W4-17_hno
+-1
+W4-17_nh
+-1
+W4-17_o
+0
+-122.7899938536 BDE99nonMR_512
+1
+W4-17_methanol
+-1
+W4-17_ch3
+-1
+W4-17_oh
+0
+-98.4199952886 BDE99nonMR_513
+1
+W4-17_t-hcoh
+-1
+W4-17_ch
+-1
+W4-17_oh
+0
+-131.0499938786 BDE99nonMR_514
+1
+W4-17_t-hcoh
+-1
+W4-17_hco
+-1
+W4-17_h
+0
+-43.0499979075 BDE99nonMR_515
+1
+W4-17_formic
+-1
+W4-17_hco
+-1
+W4-17_oh
+0
+-115.2699944113 BDE99nonMR_516
+1
+W4-17_ketene
+-1
+W4-17_ch2c
+-1
+W4-17_o
+0
+-173.5299916765 BDE99nonMR_517
+1
+W4-17_ketene
+-1
+W4-17_ch2-trip
+-1
+W4-17_co
+0
+-82.9899961307 BDE99nonMR_518
+1
+W4-17_glyoxal
+-2
+W4-17_hco
+0
+-76.2599965980 BDE99nonMR_519
+1
+W4-17_acetaldehyde
+-1
+W4-17_ch3
+-1
+W4-17_hco
+0
+-90.5699955185 BDE99nonMR_520
+1
+W4-17_f2co
+-1
+W4-17_cf2
+-1
+W4-17_o
+0
+-161.8499922489 BDE99nonMR_521
+1
+W4-17_hcof
+-1
+W4-17_hco
+-1
+W4-17_f
+0
+-124.3199943460 BDE99nonMR_522
+1
+W4-17_h2co
+-1
+W4-17_hco
+-1
+W4-17_h
+0
+-95.2399956679 BDE99nonMR_523
+1
+W4-17_h2co
+-1
+W4-17_ch2-trip
+-1
+W4-17_o
+0
+-183.9099910303 BDE99nonMR_524
+1
+W4-17_hco
+-1
+W4-17_h
+-1
+W4-17_co
+0
+-19.6899990523 BDE99nonMR_525
+1
+W4-17_hco
+-1
+W4-17_ch
+-1
+W4-17_o
+0
+-195.1999908123 BDE99nonMR_526
+1
+W4-17_cs2
+-1
+W4-17_cs
+-1
+W4-17_s
+0
+-108.5599948604 BDE99nonMR_527
+1
+W4-17_co2
+-1
+W4-17_co
+-1
+W4-17_o
+0
+-130.4099938326 BDE99nonMR_528
+1
+W4-17_ch2nh2
+-1
+W4-17_ch2-trip
+-1
+W4-17_nh2
+0
+-108.9399945152 BDE99nonMR_529
+1
+W4-17_ch2nh2
+-1
+W4-17_ch2nh
+-1
+W4-17_h
+0
+-42.8299981074 BDE99nonMR_530
+1
+W4-17_ch3nh
+-1
+W4-17_ch3
+-1
+W4-17_nh
+0
+-83.6599961494 BDE99nonMR_531
+1
+W4-17_ch3nh
+-1
+W4-17_ch2nh
+-1
+W4-17_h
+0
+-35.1899981465 BDE99nonMR_532
+1
+W4-17_ch3nh2
+-1
+W4-17_ch2nh2
+-1
+W4-17_h
+0
+-100.0299950807 BDE99nonMR_533
+1
+W4-17_ch3nh2
+-1
+W4-17_ch3nh
+-1
+W4-17_h
+0
+-107.6699950416 BDE99nonMR_534
+1
+W4-17_ch2nh
+-1
+W4-17_hcnh
+-1
+W4-17_h
+0
+-103.1899953471 BDE99nonMR_535
+1
+W4-17_hcnh
+-1
+W4-17_nh
+-1
+W4-17_ch
+0
+-168.9299920910 BDE99nonMR_536
+1
+W4-17_hcnh
+-1
+W4-17_hcn
+-1
+W4-17_h
+0
+-22.8299987093 BDE99nonMR_537
+1
+W4-17_hcn
+-1
+W4-17_cn
+-1
+W4-17_h
+0
+-132.0699935794 BDE99nonMR_538
+1
+W4-17_hcn
+-1
+W4-17_ch
+-1
+W4-17_n
+0
+-229.1999887850 BDE99nonMR_539
+1
+W4-17_nccn
+-2
+W4-17_cn
+0
+-139.3399932489 BDE99nonMR_540
+1
+W4-17_h2s
+-1
+W4-17_hs
+-1
+W4-17_h
+0
+-96.1799954413 BDE99nonMR_541
+1
+W4-17_hooh
+-1
+W4-17_hoo
+-1
+W4-17_h
+0
+-93.5599953118 BDE99nonMR_542
+1
+W4-17_hooh
+-2
+W4-17_oh
+0
+-54.6699973896 BDE99nonMR_543
+1
+W4-17_ssh
+-1
+W4-17_hs
+-1
+W4-17_s
+0
+-77.3999961897 BDE99nonMR_544
+1
+W4-17_ssh
+-1
+W4-17_s2
+-1
+W4-17_h
+0
+-60.8799973947 BDE99nonMR_545
+1
+W4-17_hoo
+-1
+W4-17_oh
+-1
+W4-17_o
+0
+-68.3299969007 BDE99nonMR_546
+1
+W4-17_hoo
+-1
+W4-17_o2
+-1
+W4-17_h
+0
+-54.7099973533 BDE99nonMR_547
+1
+W4-17_h2o
+-1
+W4-17_oh
+-1
+W4-17_h
+0
+-125.7699942835 BDE99nonMR_548
+1
+W4-17_hnnn
+-1
+W4-17_n2
+-1
+W4-17_nh
+0
+-20.1999992164 BDE99nonMR_549
+1
+W4-17_n2h4
+-2
+W4-17_nh2
+0
+-73.0999963317 BDE99nonMR_550
+1
+W4-17_t-n2h2
+-2
+W4-17_nh
+0
+-130.3399938962 BDE99nonMR_551
+1
+W4-17_n2h
+-1
+W4-17_nh
+-1
+W4-17_n
+0
+-141.7699929235 BDE99nonMR_552
+1
+W4-17_nh2cl
+-1
+W4-17_nh2
+-1
+W4-17_cl
+0
+-65.4699969893 BDE99nonMR_553
+1
+W4-17_nh3
+-1
+W4-17_nh2
+-1
+W4-17_h
+0
+-115.4299942659 BDE99nonMR_554
+1
+W4-17_nh2
+-1
+W4-17_nh
+-1
+W4-17_h
+0
+-99.4999949348 BDE99nonMR_555
+1
+W4-17_allene
+-1
+W4-17_ch2c
+-1
+W4-17_ch2-trip
+0
+-153.4199923783 BDE99nonMR_556
+1
+W4-17_propyne
+-1
+W4-17_cch
+-1
+W4-17_ch3
+0
+-131.5699934062 BDE99nonMR_557
+1
+W4-17_propene
+-1
+W4-17_ch2ch
+-1
+W4-17_ch3
+0
+-107.6299950779 BDE99nonMR_558
+1
+W4-17_c2h3f
+-1
+W4-17_ch2ch
+-1
+W4-17_f
+0
+-127.8099936850 BDE99nonMR_559
+1
+W4-17_c2h6
+-2
+W4-17_ch3
+0
+-97.3399956424 BDE99nonMR_560
+1
+W4-17_c2h4
+-2
+W4-17_ch2-trip
+0
+-182.6099909565 BDE99nonMR_561
+1
+W4-17_ch2ch
+-1
+W4-17_ch2c
+-1
+W4-17_h
+0
+-86.1499957695 BDE99nonMR_562
+1
+W4-17_ch2ch
+-1
+W4-17_c2h2
+-1
+W4-17_h
+0
+-40.5599982874 BDE99nonMR_563
+1
+W4-17_ch2c
+-1
+W4-17_ch2-trip
+-1
+W4-17_c
+0
+-169.1899918548 BDE99nonMR_564
+1
+W4-17_hccf
+-1
+W4-17_cch
+-1
+W4-17_f
+0
+-132.3099933613 BDE99nonMR_565
+1
+W4-17_hccf
+-1
+W4-17_ch
+-1
+W4-17_cf
+0
+-181.5299913102 BDE99nonMR_566
+1
+W4-17_c2h2
+-1
+W4-17_cch
+-1
+W4-17_h
+0
+-139.3599932307 BDE99nonMR_567
+1
+W4-17_c2h2
+-2
+W4-17_ch
+0
+-237.0799885278 BDE99nonMR_568
+1
+W4-17_ch3f
+-1
+W4-17_ch3
+-1
+W4-17_f
+0
+-115.0899945748 BDE99nonMR_569
+1
+W4-17_ch4
+-1
+W4-17_ch3
+-1
+W4-17_h
+0
+-112.5499943726 BDE99nonMR_570
+1
+W4-17_ch3
+-1
+W4-17_ch2-trip
+-1
+W4-17_h
+0
+-117.1299946038 BDE99nonMR_571
+1
+W4-17_ch2-trip
+-1
+W4-17_ch
+-1
+W4-17_h
+0
+-106.5199948315 BDE99nonMR_572
+1
+W4-17_cf2
+-1
+W4-17_cf
+-1
+W4-17_f
+0
+-126.0599940200 BDE99nonMR_573
+1
+W4-17_clcn
+-1
+W4-17_cn
+-1
+W4-17_cl
+0
+-104.0999951478 BDE99nonMR_574
+1
+W4-17_b2h6
+-2
+W4-17_bh3
+0
+-44.4499978905 BDE99nonMR_575
+1
+W4-17_s2o
+-1
+W4-17_s2
+-1
+W4-17_o
+0
+-104.5299947571 BDE99nonMR_576
+1
+W4-17_s2o
+-1
+W4-17_s
+-1
+W4-17_so
+0
+-82.3199961120 BDE99nonMR_577
+1
+W4-17_so3
+-1
+W4-17_so2
+-1
+W4-17_o
+0
+-86.3199956151 BDE99nonMR_578
+1
+W4-17_so2
+-1
+W4-17_so
+-1
+W4-17_o
+0
+-134.1599935629 BDE99nonMR_579
+1
+W4-17_p4
+-2
+W4-17_p2
+0
+-55.3899973629 BDE99nonMR_580

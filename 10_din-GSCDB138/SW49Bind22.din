@@ -1,0 +1,195 @@
+# Dataset: SW49Bind22
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of isomers of SO42-(H2O) (n = 3 -5) 
+# Theory level = HF/aQZ+MP2/a[TQ]Z+CCSD(T) /aTZ
+# Number of datapoints = 22.0
+# RMS energy (kcal/mol) = 34.1992360962777
+# Min energy (kcal/mol) = -43.3196095140771
+# Max energy (kcal/mol) = -19.9757494238805
+# Year last updated = 2013
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+4_4_4-1_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-19.9757492946 SW49Bind22_6928
+1
+4_5_3-1_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-22.2086965630 SW49Bind22_6929
+1
+4_5_3-2_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-20.0534487722 SW49Bind22_6930
+1
+4_6_2-1_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-20.5931633923 SW49Bind22_6931
+1
+4_6_2-2_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-20.9576930560 SW49Bind22_6932
+1
+4_7_1-1_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-21.8406999094 SW49Bind22_6933
+1
+4_7_1-2_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-21.7850209941 SW49Bind22_6934
+1
+4_8_0-1_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-21.7515226561 SW49Bind22_6935
+1
+4_8_0-2_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-21.4918479422 SW49Bind22_6936
+1
+4_8_0-3_SW49
+-1
+3_6_0-1_SW49
+-1
+h2o_SW49
+0
+-20.6622578325 SW49Bind22_6937
+1
+5_6_4-1_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-42.1951317164 SW49Bind22_6938
+1
+5_6_4-2_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-42.1953287543 SW49Bind22_6939
+1
+5_6_4-3_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.9399041621 SW49Bind22_6940
+1
+5_6_4-4_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-42.3317060149 SW49Bind22_6941
+1
+5_6_4-5_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-42.4474702170 SW49Bind22_6942
+1
+5_6_4-6_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.9765212222 SW49Bind22_6943
+1
+5_6_4-7_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.7925856464 SW49Bind22_6944
+1
+5_6_4-8_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.7927343661 SW49Bind22_6945
+1
+5_7_3-1_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-43.3196092338 SW49Bind22_6946
+1
+5_7_3-2_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.9648024829 SW49Bind22_6947
+1
+5_9_1-1_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.9435023014 SW49Bind22_6948
+1
+5_10_0-1_SW49
+-1
+3_6_0-1_SW49
+-2
+h2o_SW49
+0
+-41.1570835882 SW49Bind22_6949

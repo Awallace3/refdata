@@ -1,0 +1,819 @@
+# Dataset: IHB100
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of equilibrium ionic hydrogen-bonded dimers in the HCNO chemical space.
+# Theory level = HF/a5Z+MP2/a[Q5]Z+CCSD(T) /haTZ
+# Number of datapoints = 100.0
+# RMS energy (kcal/mol) = 20.6886199002796
+# Min energy (kcal/mol) = -40.9280002258575
+# Max energy (kcal/mol) = -2.593000296296
+# Year last updated = 2020
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+IHB100x10_01.001_OHk-O__oxonium--methylcyanate_100
+-1
+IHB100x10_01.001_OHk-O__oxonium--methylcyanate_monA
+-1
+IHB100x10_01.001_OHk-O__oxonium--methylcyanate_monB
+0
+-22.4179998366 IHB100_4049
+1
+IHB100x10_02.001_NHk-O__ammonium--acetaldehyde_100
+-1
+IHB100x10_02.001_NHk-O__ammonium--acetaldehyde_monA
+-1
+IHB100x10_02.001_NHk-O__ammonium--acetaldehyde_monB
+0
+-26.2069999080 IHB100_4050
+1
+IHB100x10_02.002_NHk-O__ammonium--dimethylcarbonate_100
+-1
+IHB100x10_02.002_NHk-O__ammonium--dimethylcarbonate_monA
+-1
+IHB100x10_02.002_NHk-O__ammonium--dimethylcarbonate_monB
+0
+-37.0090000078 IHB100_4051
+1
+IHB100x10_02.003_NHk-O__ammonium--dimethylether_100
+-1
+IHB100x10_02.003_NHk-O__ammonium--dimethylether_monA
+-1
+IHB100x10_02.003_NHk-O__ammonium--dimethylether_monB
+0
+-27.4079996952 IHB100_4052
+1
+IHB100x10_02.004_NHk-O__ammonium--nitromethane_100
+-1
+IHB100x10_02.004_NHk-O__ammonium--nitromethane_monA
+-1
+IHB100x10_02.004_NHk-O__ammonium--nitromethane_monB
+0
+-24.8489997613 IHB100_4053
+1
+IHB100x10_02.005_NHk-O__guanidinium--nitrosomethane_100
+-1
+IHB100x10_02.005_NHk-O__guanidinium--nitrosomethane_monA
+-1
+IHB100x10_02.005_NHk-O__guanidinium--nitrosomethane_monB
+0
+-17.7600001784 IHB100_4054
+1
+IHB100x10_02.006_NHk-O__imidazolium--acetone_100
+-1
+IHB100x10_02.006_NHk-O__imidazolium--acetone_monA
+-1
+IHB100x10_02.006_NHk-O__imidazolium--acetone_monB
+0
+-22.1839996727 IHB100_4055
+1
+IHB100x10_02.007_NHk-O__imidazolium--Nmethylacetamide_100
+-1
+IHB100x10_02.007_NHk-O__imidazolium--Nmethylacetamide_monA
+-1
+IHB100x10_02.007_NHk-O__imidazolium--Nmethylacetamide_monB
+0
+-30.0729997838 IHB100_4056
+1
+IHB100x10_02.008_NHk-O__imidazolium--phenol_100
+-1
+IHB100x10_02.008_NHk-O__imidazolium--phenol_monA
+-1
+IHB100x10_02.008_NHk-O__imidazolium--phenol_monB
+0
+-17.6399996599 IHB100_4057
+1
+IHB100x10_02.009_NHk-O__trimethylammonium--acetaldehyde_100
+-1
+IHB100x10_02.009_NHk-O__trimethylammonium--acetaldehyde_monA
+-1
+IHB100x10_02.009_NHk-O__trimethylammonium--acetaldehyde_monB
+0
+-19.9959996527 IHB100_4058
+1
+IHB100x10_02.010_NHk-O__trimethylammonium--acetamide_100
+-1
+IHB100x10_02.010_NHk-O__trimethylammonium--acetamide_monA
+-1
+IHB100x10_02.010_NHk-O__trimethylammonium--acetamide_monB
+0
+-28.0279997594 IHB100_4059
+1
+IHB100x10_02.011_NHk-O__trimethylammonium--aceticacid_100
+-1
+IHB100x10_02.011_NHk-O__trimethylammonium--aceticacid_monA
+-1
+IHB100x10_02.011_NHk-O__trimethylammonium--aceticacid_monB
+0
+-20.2129999576 IHB100_4060
+1
+IHB100x10_02.012_NHk-O__trimethylammonium--nitrosomethane_100
+-1
+IHB100x10_02.012_NHk-O__trimethylammonium--nitrosomethane_monA
+-1
+IHB100x10_02.012_NHk-O__trimethylammonium--nitrosomethane_monB
+0
+-16.0619997132 IHB100_4061
+1
+IHB100x10_02.013_NHk-O__guanidinium--acetamide_100
+-1
+IHB100x10_02.013_NHk-O__guanidinium--acetamide_monA
+-1
+IHB100x10_02.013_NHk-O__guanidinium--acetamide_monB
+0
+-29.1399998786 IHB100_4062
+1
+IHB100x10_02.014_NHk-O__guanidinium--furan_100
+-1
+IHB100x10_02.014_NHk-O__guanidinium--furan_monA
+-1
+IHB100x10_02.014_NHk-O__guanidinium--furan_monB
+0
+-14.0940001208 IHB100_4063
+1
+IHB100x10_02.015_NHk-O__guanidinium--nitromethane_100
+-1
+IHB100x10_02.015_NHk-O__guanidinium--nitromethane_monA
+-1
+IHB100x10_02.015_NHk-O__guanidinium--nitromethane_monB
+0
+-20.6000001080 IHB100_4064
+1
+IHB100x10_03.001_NHk-N__ammonium--methylazide_100
+-1
+IHB100x10_03.001_NHk-N__ammonium--methylazide_monA
+-1
+IHB100x10_03.001_NHk-N__ammonium--methylazide_monB
+0
+-18.9149997564 IHB100_4065
+1
+IHB100x10_03.002_NHk-N__ammonium--methylcyanate_100
+-1
+IHB100x10_03.002_NHk-N__ammonium--methylcyanate_monA
+-1
+IHB100x10_03.002_NHk-N__ammonium--methylcyanate_monB
+0
+-31.6979995624 IHB100_4066
+1
+IHB100x10_03.003_NHk-N__guanidinium--ammonia_100
+-1
+IHB100x10_03.003_NHk-N__guanidinium--ammonia_monA
+-1
+IHB100x10_03.003_NHk-N__guanidinium--ammonia_monB
+0
+-18.2690000924 IHB100_4067
+1
+IHB100x10_03.004_NHk-N__guanidinium--dimethyldiazene_100
+-1
+IHB100x10_03.004_NHk-N__guanidinium--dimethyldiazene_monA
+-1
+IHB100x10_03.004_NHk-N__guanidinium--dimethyldiazene_monB
+0
+-16.1210000361 IHB100_4068
+1
+IHB100x10_03.005_NHk-N__imidazolium--acetonitrile_100
+-1
+IHB100x10_03.005_NHk-N__imidazolium--acetonitrile_monA
+-1
+IHB100x10_03.005_NHk-N__imidazolium--acetonitrile_monB
+0
+-21.9579996271 IHB100_4069
+1
+IHB100x10_03.006_NHk-N__imidazolium--aniline_100
+-1
+IHB100x10_03.006_NHk-N__imidazolium--aniline_monA
+-1
+IHB100x10_03.006_NHk-N__imidazolium--aniline_monB
+0
+-23.3519999920 IHB100_4070
+1
+IHB100x10_03.007_NHk-N__trimethylammonium--acetonitrile_100
+-1
+IHB100x10_03.007_NHk-N__trimethylammonium--acetonitrile_monA
+-1
+IHB100x10_03.007_NHk-N__trimethylammonium--acetonitrile_monB
+0
+-22.6400001369 IHB100_4071
+1
+IHB100x10_03.008_NHk-N__trimethylammonium--ammonia_100
+-1
+IHB100x10_03.008_NHk-N__trimethylammonium--ammonia_monA
+-1
+IHB100x10_03.008_NHk-N__trimethylammonium--ammonia_monB
+0
+-20.9010000855 IHB100_4072
+1
+IHB100x10_03.009_NHk-N__trimethylammonium--dimethylamine_100
+-1
+IHB100x10_03.009_NHk-N__trimethylammonium--dimethylamine_monA
+-1
+IHB100x10_03.009_NHk-N__trimethylammonium--dimethylamine_monB
+0
+-25.5789997256 IHB100_4073
+1
+IHB100x10_03.010_NHk-N__trimethylammonium--dimethyldiazene_100
+-1
+IHB100x10_03.010_NHk-N__trimethylammonium--dimethyldiazene_monA
+-1
+IHB100x10_03.010_NHk-N__trimethylammonium--dimethyldiazene_monB
+0
+-18.0169998194 IHB100_4074
+1
+IHB100x10_03.011_NHk-N__trimethylammonium--methylamine_100
+-1
+IHB100x10_03.011_NHk-N__trimethylammonium--methylamine_monA
+-1
+IHB100x10_03.011_NHk-N__trimethylammonium--methylamine_monB
+0
+-23.5499999376 IHB100_4075
+1
+IHB100x10_03.012_NHk-N__trimethylammonium--methylazide_100
+-1
+IHB100x10_03.012_NHk-N__trimethylammonium--methylazide_monA
+-1
+IHB100x10_03.012_NHk-N__trimethylammonium--methylazide_monB
+0
+-15.3319997489 IHB100_4076
+1
+IHB100x10_03.013_NHk-N__trimethylammonium--trimethylamine_100
+-1
+IHB100x10_03.013_NHk-N__trimethylammonium--trimethylamine_monA
+-1
+IHB100x10_03.013_NHk-N__trimethylammonium--trimethylamine_monB
+0
+-27.0979999769 IHB100_4077
+1
+IHB100x10_03.014_NHk-N__guanidinium--methylcyanate_100
+-1
+IHB100x10_03.014_NHk-N__guanidinium--methylcyanate_monA
+-1
+IHB100x10_03.014_NHk-N__guanidinium--methylcyanate_monB
+0
+-24.3010001338 IHB100_4078
+1
+IHB100x10_03.015_NHk-N__guanidinium--Nmethyl2propanimine_100
+-1
+IHB100x10_03.015_NHk-N__guanidinium--Nmethyl2propanimine_monA
+-1
+IHB100x10_03.015_NHk-N__guanidinium--Nmethyl2propanimine_monB
+0
+-26.7900001313 IHB100_4079
+1
+IHB100x10_04.001_NHk-C__ammonium--methylisocyanide_100
+-1
+IHB100x10_04.001_NHk-C__ammonium--methylisocyanide_monA
+-1
+IHB100x10_04.001_NHk-C__ammonium--methylisocyanide_monB
+0
+-29.3529998105 IHB100_4080
+1
+IHB100x10_04.002_NHk-C__imidazolium--methylisocyanide_100
+-1
+IHB100x10_04.002_NHk-C__imidazolium--methylisocyanide_monA
+-1
+IHB100x10_04.002_NHk-C__imidazolium--methylisocyanide_monB
+0
+-22.1159996090 IHB100_4081
+1
+IHB100x10_04.003_NHk-C__trimethylammonium--methylisocyanide_100
+-1
+IHB100x10_04.003_NHk-C__trimethylammonium--methylisocyanide_monA
+-1
+IHB100x10_04.003_NHk-C__trimethylammonium--methylisocyanide_monB
+0
+-22.9829999508 IHB100_4082
+1
+IHB100x10_04.004_NHk-C__guanidinium--methylisocyanide_100
+-1
+IHB100x10_04.004_NHk-C__guanidinium--methylisocyanide_monA
+-1
+IHB100x10_04.004_NHk-C__guanidinium--methylisocyanide_monB
+0
+-21.1009999038 IHB100_4083
+1
+IHB100x10_05.001_OH-Oa__water--oxalate_100
+-1
+IHB100x10_05.001_OH-Oa__water--oxalate_monA
+-1
+IHB100x10_05.001_OH-Oa__water--oxalate_monB
+0
+-30.5689995842 IHB100_4084
+1
+IHB100x10_05.002_OH-Oa__aceticacid--benzoate_100
+-1
+IHB100x10_05.002_OH-Oa__aceticacid--benzoate_monA
+-1
+IHB100x10_05.002_OH-Oa__aceticacid--benzoate_monB
+0
+-30.4949999024 IHB100_4085
+1
+IHB100x10_05.003_OH-Oa__aceticacid--nitrite_100
+-1
+IHB100x10_05.003_OH-Oa__aceticacid--nitrite_monA
+-1
+IHB100x10_05.003_OH-Oa__aceticacid--nitrite_monB
+0
+-40.3469996104 IHB100_4086
+1
+IHB100x10_05.004_OH-Oa__methanol--acetate_100
+-1
+IHB100x10_05.004_OH-Oa__methanol--acetate_monA
+-1
+IHB100x10_05.004_OH-Oa__methanol--acetate_monB
+0
+-21.2270000403 IHB100_4087
+1
+IHB100x10_05.005_OH-Oa__methanol--benzoate_100
+-1
+IHB100x10_05.005_OH-Oa__methanol--benzoate_monA
+-1
+IHB100x10_05.005_OH-Oa__methanol--benzoate_monB
+0
+-19.2479995794 IHB100_4088
+1
+IHB100x10_05.006_OH-Oa__methanol--nitrate_100
+-1
+IHB100x10_05.006_OH-Oa__methanol--nitrate_monA
+-1
+IHB100x10_05.006_OH-Oa__methanol--nitrate_monB
+0
+-16.3970000363 IHB100_4089
+1
+IHB100x10_05.007_OH-Oa__methanol--nitrite_100
+-1
+IHB100x10_05.007_OH-Oa__methanol--nitrite_monA
+-1
+IHB100x10_05.007_OH-Oa__methanol--nitrite_monB
+0
+-19.1439999249 IHB100_4090
+1
+IHB100x10_05.008_OH-Oa__phenol--acetate_100
+-1
+IHB100x10_05.008_OH-Oa__phenol--acetate_monA
+-1
+IHB100x10_05.008_OH-Oa__phenol--acetate_monB
+0
+-32.5639996540 IHB100_4091
+1
+IHB100x10_05.009_OH-Oa__phenol--benzoate_100
+-1
+IHB100x10_05.009_OH-Oa__phenol--benzoate_monA
+-1
+IHB100x10_05.009_OH-Oa__phenol--benzoate_monB
+0
+-28.0149996457 IHB100_4092
+1
+IHB100x10_05.010_OH-Oa__phenol--nitrate_100
+-1
+IHB100x10_05.010_OH-Oa__phenol--nitrate_monA
+-1
+IHB100x10_05.010_OH-Oa__phenol--nitrate_monB
+0
+-24.9209995704 IHB100_4093
+1
+IHB100x10_05.011_OH-Oa__phenol--nitrite_100
+-1
+IHB100x10_05.011_OH-Oa__phenol--nitrite_monA
+-1
+IHB100x10_05.011_OH-Oa__phenol--nitrite_monB
+0
+-28.5959999963 IHB100_4094
+1
+IHB100x10_05.012_OH-Oa__water--hydroxide_100
+-1
+IHB100x10_05.012_OH-Oa__water--hydroxide_monA
+-1
+IHB100x10_05.012_OH-Oa__water--hydroxide_monB
+0
+-40.9279999611 IHB100_4095
+1
+IHB100x10_05.013_OH-Oa__water--nitrate_100
+-1
+IHB100x10_05.013_OH-Oa__water--nitrate_monA
+-1
+IHB100x10_05.013_OH-Oa__water--nitrate_monB
+0
+-13.6389999067 IHB100_4096
+1
+IHB100x10_05.014_OH-Oa__water--nitrite_100
+-1
+IHB100x10_05.014_OH-Oa__water--nitrite_monA
+-1
+IHB100x10_05.014_OH-Oa__water--nitrite_monB
+0
+-17.4999997871 IHB100_4097
+1
+IHB100x10_05.015_OH-Oa__water--benzoate_100
+-1
+IHB100x10_05.015_OH-Oa__water--benzoate_monA
+-1
+IHB100x10_05.015_OH-Oa__water--benzoate_monB
+0
+-19.2129996112 IHB100_4098
+1
+IHB100x10_06.001_OH-Na__aceticacid--cyanide_100
+-1
+IHB100x10_06.001_OH-Na__aceticacid--cyanide_monA
+-1
+IHB100x10_06.001_OH-Na__aceticacid--cyanide_monB
+0
+-30.7519995434 IHB100_4099
+1
+IHB100x10_06.002_OH-Na__phenol--cyanide_100
+-1
+IHB100x10_06.002_OH-Na__phenol--cyanide_monA
+-1
+IHB100x10_06.002_OH-Na__phenol--cyanide_monB
+0
+-29.1309995102 IHB100_4100
+1
+IHB100x10_06.003_OH-Na__water--cyanide_100
+-1
+IHB100x10_06.003_OH-Na__water--cyanide_monA
+-1
+IHB100x10_06.003_OH-Na__water--cyanide_monB
+0
+-16.5789997454 IHB100_4101
+1
+IHB100x10_07.001_OH-Ca__methanol--cyanide_100
+-1
+IHB100x10_07.001_OH-Ca__methanol--cyanide_monA
+-1
+IHB100x10_07.001_OH-Ca__methanol--cyanide_monB
+0
+-18.9029998928 IHB100_4102
+1
+IHB100x10_07.002_OH-Ca__water--cyanide_100
+-1
+IHB100x10_07.002_OH-Ca__water--cyanide_monA
+-1
+IHB100x10_07.002_OH-Ca__water--cyanide_monB
+0
+-16.6719997864 IHB100_4103
+1
+IHB100x10_08.001_NH-Oa__ammonia--carbonate_100
+-1
+IHB100x10_08.001_NH-Oa__ammonia--carbonate_monA
+-1
+IHB100x10_08.001_NH-Oa__ammonia--carbonate_monB
+0
+-26.1079996214 IHB100_4104
+1
+IHB100x10_08.002_NH-Oa__ammonia--oxalate_100
+-1
+IHB100x10_08.002_NH-Oa__ammonia--oxalate_monA
+-1
+IHB100x10_08.002_NH-Oa__ammonia--oxalate_monB
+0
+-18.2919995695 IHB100_4105
+1
+IHB100x10_08.003_NH-Oa__1Hpyrrole--acetate_100
+-1
+IHB100x10_08.003_NH-Oa__1Hpyrrole--acetate_monA
+-1
+IHB100x10_08.003_NH-Oa__1Hpyrrole--acetate_monB
+0
+-26.3749998808 IHB100_4106
+1
+IHB100x10_08.004_NH-Oa__1Hpyrrole--benzoate_100
+-1
+IHB100x10_08.004_NH-Oa__1Hpyrrole--benzoate_monA
+-1
+IHB100x10_08.004_NH-Oa__1Hpyrrole--benzoate_monB
+0
+-23.8879997560 IHB100_4107
+1
+IHB100x10_08.005_NH-Oa__1Hpyrrole--nitrite_100
+-1
+IHB100x10_08.005_NH-Oa__1Hpyrrole--nitrite_monA
+-1
+IHB100x10_08.005_NH-Oa__1Hpyrrole--nitrite_monB
+0
+-23.7049997968 IHB100_4108
+1
+IHB100x10_08.006_NH-Oa__ammonia--acetate_100
+-1
+IHB100x10_08.006_NH-Oa__ammonia--acetate_monA
+-1
+IHB100x10_08.006_NH-Oa__ammonia--acetate_monB
+0
+-9.8010001309 IHB100_4109
+1
+IHB100x10_08.007_NH-Oa__ammonia--benzoate_100
+-1
+IHB100x10_08.007_NH-Oa__ammonia--benzoate_monA
+-1
+IHB100x10_08.007_NH-Oa__ammonia--benzoate_monB
+0
+-10.2369999857 IHB100_4110
+1
+IHB100x10_08.008_NH-Oa__aniline--benzoate_100
+-1
+IHB100x10_08.008_NH-Oa__aniline--benzoate_monA
+-1
+IHB100x10_08.008_NH-Oa__aniline--benzoate_monB
+0
+-19.7220001527 IHB100_4111
+1
+IHB100x10_08.009_NH-Oa__aniline--nitrite_100
+-1
+IHB100x10_08.009_NH-Oa__aniline--nitrite_monA
+-1
+IHB100x10_08.009_NH-Oa__aniline--nitrite_monB
+0
+-19.9179995981 IHB100_4112
+1
+IHB100x10_08.010_NH-Oa__dimethylamine--acetate_100
+-1
+IHB100x10_08.010_NH-Oa__dimethylamine--acetate_monA
+-1
+IHB100x10_08.010_NH-Oa__dimethylamine--acetate_monB
+0
+-14.0799997570 IHB100_4113
+1
+IHB100x10_08.011_NH-Oa__dimethylamine--hydroxide_100
+-1
+IHB100x10_08.011_NH-Oa__dimethylamine--hydroxide_monA
+-1
+IHB100x10_08.011_NH-Oa__dimethylamine--hydroxide_monB
+0
+-22.5559998367 IHB100_4114
+1
+IHB100x10_08.012_NH-Oa__methylamine--acetate_100
+-1
+IHB100x10_08.012_NH-Oa__methylamine--acetate_monA
+-1
+IHB100x10_08.012_NH-Oa__methylamine--acetate_monB
+0
+-11.8310001689 IHB100_4115
+1
+IHB100x10_08.013_NH-Oa__methylamine--benzoate_100
+-1
+IHB100x10_08.013_NH-Oa__methylamine--benzoate_monA
+-1
+IHB100x10_08.013_NH-Oa__methylamine--benzoate_monB
+0
+-11.5770000232 IHB100_4116
+1
+IHB100x10_08.014_NH-Oa__methylamine--nitrate_100
+-1
+IHB100x10_08.014_NH-Oa__methylamine--nitrate_monA
+-1
+IHB100x10_08.014_NH-Oa__methylamine--nitrate_monB
+0
+-10.2219999993 IHB100_4117
+1
+IHB100x10_08.015_NH-Oa__methylamine--nitrite_100
+-1
+IHB100x10_08.015_NH-Oa__methylamine--nitrite_monA
+-1
+IHB100x10_08.015_NH-Oa__methylamine--nitrite_monB
+0
+-11.3549997229 IHB100_4118
+1
+IHB100x10_09.001_NH-Na__1Hpyrrole--cyanide_100
+-1
+IHB100x10_09.001_NH-Na__1Hpyrrole--cyanide_monA
+-1
+IHB100x10_09.001_NH-Na__1Hpyrrole--cyanide_monB
+0
+-22.8449999507 IHB100_4119
+1
+IHB100x10_09.002_NH-Na__ammonia--cyanide_100
+-1
+IHB100x10_09.002_NH-Na__ammonia--cyanide_monA
+-1
+IHB100x10_09.002_NH-Na__ammonia--cyanide_monB
+0
+-9.0069998483 IHB100_4120
+1
+IHB100x10_09.003_NH-Na__aniline--cyanide_100
+-1
+IHB100x10_09.003_NH-Na__aniline--cyanide_monA
+-1
+IHB100x10_09.003_NH-Na__aniline--cyanide_monB
+0
+-18.6309996380 IHB100_4121
+1
+IHB100x10_09.004_NH-Na__dimethylamine--cyanide_100
+-1
+IHB100x10_09.004_NH-Na__dimethylamine--cyanide_monA
+-1
+IHB100x10_09.004_NH-Na__dimethylamine--cyanide_monB
+0
+-11.4040000549 IHB100_4122
+1
+IHB100x10_09.005_NH-Na__methylamine--cyanide_100
+-1
+IHB100x10_09.005_NH-Na__methylamine--cyanide_monA
+-1
+IHB100x10_09.005_NH-Na__methylamine--cyanide_monB
+0
+-10.0939999901 IHB100_4123
+1
+IHB100x10_09.006_NH-Na__Nmethylacetamide--cyanide_100
+-1
+IHB100x10_09.006_NH-Na__Nmethylacetamide--cyanide_monA
+-1
+IHB100x10_09.006_NH-Na__Nmethylacetamide--cyanide_monB
+0
+-24.6279997111 IHB100_4124
+1
+IHB100x10_10.001_NH-Ca__ammonia--cyanide_100
+-1
+IHB100x10_10.001_NH-Ca__ammonia--cyanide_monA
+-1
+IHB100x10_10.001_NH-Ca__ammonia--cyanide_monB
+0
+-8.6970001300 IHB100_4125
+1
+IHB100x10_10.002_NH-Ca__aniline--cyanide_100
+-1
+IHB100x10_10.002_NH-Ca__aniline--cyanide_monA
+-1
+IHB100x10_10.002_NH-Ca__aniline--cyanide_monB
+0
+-18.1560000696 IHB100_4126
+1
+IHB100x10_10.003_NH-Ca__dimethylamine--cyanide_100
+-1
+IHB100x10_10.003_NH-Ca__dimethylamine--cyanide_monA
+-1
+IHB100x10_10.003_NH-Ca__dimethylamine--cyanide_monB
+0
+-11.2210000957 IHB100_4127
+1
+IHB100x10_10.004_NH-Ca__methylamine--cyanide_100
+-1
+IHB100x10_10.004_NH-Ca__methylamine--cyanide_monA
+-1
+IHB100x10_10.004_NH-Ca__methylamine--cyanide_monB
+0
+-9.7919997625 IHB100_4128
+1
+IHB100x10_10.005_NH-Ca__Nmethylacetamide--cyanide_100
+-1
+IHB100x10_10.005_NH-Ca__Nmethylacetamide--cyanide_monA
+-1
+IHB100x10_10.005_NH-Ca__Nmethylacetamide--cyanide_monB
+0
+-24.5019995746 IHB100_4129
+1
+IHB100x10_11.001_CH-Oa__ethyne--oxalate_100
+-1
+IHB100x10_11.001_CH-Oa__ethyne--oxalate_monA
+-1
+IHB100x10_11.001_CH-Oa__ethyne--oxalate_monB
+0
+-22.2960000730 IHB100_4130
+1
+IHB100x10_11.002_CH-Oa__ethene--oxalate_100
+-1
+IHB100x10_11.002_CH-Oa__ethene--oxalate_monA
+-1
+IHB100x10_11.002_CH-Oa__ethene--oxalate_monB
+0
+-11.8230000507 IHB100_4131
+1
+IHB100x10_11.003_CH-Oa__benzene--hydroxide_100
+-1
+IHB100x10_11.003_CH-Oa__benzene--hydroxide_monA
+-1
+IHB100x10_11.003_CH-Oa__benzene--hydroxide_monB
+0
+-14.6869997075 IHB100_4132
+1
+IHB100x10_11.004_CH-Oa__benzene--nitrite_100
+-1
+IHB100x10_11.004_CH-Oa__benzene--nitrite_monA
+-1
+IHB100x10_11.004_CH-Oa__benzene--nitrite_monB
+0
+-9.6530001398 IHB100_4133
+1
+IHB100x10_11.005_CH-Oa__ethene--hydroxide_100
+-1
+IHB100x10_11.005_CH-Oa__ethene--hydroxide_monA
+-1
+IHB100x10_11.005_CH-Oa__ethene--hydroxide_monB
+0
+-10.4789996403 IHB100_4134
+1
+IHB100x10_11.006_CH-Oa__ethene--nitrite_100
+-1
+IHB100x10_11.006_CH-Oa__ethene--nitrite_monA
+-1
+IHB100x10_11.006_CH-Oa__ethene--nitrite_monB
+0
+-5.4189998453 IHB100_4135
+1
+IHB100x10_11.007_CH-Oa__ethyne--acetate_100
+-1
+IHB100x10_11.007_CH-Oa__ethyne--acetate_monA
+-1
+IHB100x10_11.007_CH-Oa__ethyne--acetate_monB
+0
+-12.5410001513 IHB100_4136
+1
+IHB100x10_11.008_CH-Oa__ethyne--nitrate_100
+-1
+IHB100x10_11.008_CH-Oa__ethyne--nitrate_monA
+-1
+IHB100x10_11.008_CH-Oa__ethyne--nitrate_monB
+0
+-9.9429998763 IHB100_4137
+1
+IHB100x10_11.009_CH-Oa__methane--acetate_100
+-1
+IHB100x10_11.009_CH-Oa__methane--acetate_monA
+-1
+IHB100x10_11.009_CH-Oa__methane--acetate_monB
+0
+-3.5089996982 IHB100_4138
+1
+IHB100x10_11.010_CH-Oa__methane--hydroxide_100
+-1
+IHB100x10_11.010_CH-Oa__methane--hydroxide_monA
+-1
+IHB100x10_11.010_CH-Oa__methane--hydroxide_monB
+0
+-6.0039999413 IHB100_4139
+1
+IHB100x10_11.011_CH-Oa__methane--nitrate_100
+-1
+IHB100x10_11.011_CH-Oa__methane--nitrate_monA
+-1
+IHB100x10_11.011_CH-Oa__methane--nitrate_monB
+0
+-2.9190002343 IHB100_4140
+1
+IHB100x10_11.012_CH-Oa__methane--nitrite_100
+-1
+IHB100x10_11.012_CH-Oa__methane--nitrite_monA
+-1
+IHB100x10_11.012_CH-Oa__methane--nitrite_monB
+0
+-2.9519997023 IHB100_4141
+1
+IHB100x10_11.013_CH-Oa__benzene--acetate_100
+-1
+IHB100x10_11.013_CH-Oa__benzene--acetate_monA
+-1
+IHB100x10_11.013_CH-Oa__benzene--acetate_monB
+0
+-11.2249998410 IHB100_4142
+1
+IHB100x10_11.014_CH-Oa__benzene--benzoate_100
+-1
+IHB100x10_11.014_CH-Oa__benzene--benzoate_monA
+-1
+IHB100x10_11.014_CH-Oa__benzene--benzoate_monB
+0
+-10.1659997992 IHB100_4143
+1
+IHB100x10_11.015_CH-Oa__ethene--acetate_100
+-1
+IHB100x10_11.015_CH-Oa__ethene--acetate_monA
+-1
+IHB100x10_11.015_CH-Oa__ethene--acetate_monB
+0
+-7.3779996969 IHB100_4144
+1
+IHB100x10_12.001_CH-Na__benzene--cyanide_100
+-1
+IHB100x10_12.001_CH-Na__benzene--cyanide_monA
+-1
+IHB100x10_12.001_CH-Na__benzene--cyanide_monB
+0
+-8.5890001026 IHB100_4145
+1
+IHB100x10_12.002_CH-Na__ethene--cyanide_100
+-1
+IHB100x10_12.002_CH-Na__ethene--cyanide_monA
+-1
+IHB100x10_12.002_CH-Na__ethene--cyanide_monB
+0
+-5.0729999087 IHB100_4146
+1
+IHB100x10_12.003_CH-Na__ethyne--cyanide_100
+-1
+IHB100x10_12.003_CH-Na__ethyne--cyanide_monA
+-1
+IHB100x10_12.003_CH-Na__ethyne--cyanide_monB
+0
+-11.2579999365 IHB100_4147
+1
+IHB100x10_13.001_CH-Ca__methane--cyanide_100
+-1
+IHB100x10_13.001_CH-Ca__methane--cyanide_monA
+-1
+IHB100x10_13.001_CH-Ca__methane--cyanide_monB
+0
+-2.5930002795 IHB100_4148

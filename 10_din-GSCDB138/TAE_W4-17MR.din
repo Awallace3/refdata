@@ -1,0 +1,145 @@
+# Dataset: TAE_W4-17MR
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Total atomization energies (MR) from W4-17
+# Theory level = W4 etc
+# Number of datapoints = 17.0
+# RMS energy (kcal/mol) = 141.494045938472
+# Min energy (kcal/mol) = 53.0700399748635
+# Max energy (kcal/mol) = 234.330177030371
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+W4-17_b2
+2
+W4-17_b
+0
+67.4700503929 TAE_W4-17MR_7492
+-1
+W4-17_bn
+1
+W4-17_b
+1
+W4-17_n
+0
+105.2400788257 TAE_W4-17MR_7493
+-1
+W4-17_c2
+2
+W4-17_c
+0
+147.0301098810 TAE_W4-17MR_7494
+-1
+W4-17_cl2o
+2
+W4-17_cl
+1
+W4-17_o
+0
+101.4300760124 TAE_W4-17MR_7495
+-1
+W4-17_clf3
+3
+W4-17_f
+1
+W4-17_cl
+0
+128.5470964289 TAE_W4-17MR_7496
+-1
+W4-17_clf5
+5
+W4-17_f
+1
+W4-17_cl
+0
+186.7941400162 TAE_W4-17MR_7497
+-1
+W4-17_clo3
+3
+W4-17_o
+1
+W4-17_cl
+0
+169.8361270609 TAE_W4-17MR_7498
+-1
+W4-17_cloo
+1
+W4-17_cl
+2
+W4-17_o
+0
+126.3400947946 TAE_W4-17MR_7499
+-1
+W4-17_cloocl
+2
+W4-17_o
+2
+W4-17_cl
+0
+149.1251117426 TAE_W4-17MR_7500
+-1
+W4-17_f2o
+2
+W4-17_f
+1
+W4-17_o
+0
+93.7800704131 TAE_W4-17MR_7501
+-1
+W4-17_fo2
+1
+W4-17_f
+2
+W4-17_o
+0
+134.6901010130 TAE_W4-17MR_7502
+-1
+W4-17_foof
+2
+W4-17_f
+2
+W4-17_o
+0
+152.3401138415 TAE_W4-17MR_7503
+-1
+W4-17_o3
+3
+W4-17_o
+0
+147.4301101451 TAE_W4-17MR_7504
+-1
+W4-17_oclo
+2
+W4-17_o
+1
+W4-17_cl
+0
+128.0900957146 TAE_W4-17MR_7505
+-1
+W4-17_of
+1
+W4-17_o
+1
+W4-17_f
+0
+53.0700396315 TAE_W4-17MR_7506
+-1
+W4-17_s3
+3
+W4-17_s
+0
+168.3501262776 TAE_W4-17MR_7507
+-1
+W4-17_s4-c2v
+4
+W4-17_s
+0
+234.3301755142 TAE_W4-17MR_7508

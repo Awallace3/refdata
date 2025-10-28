@@ -1,0 +1,131 @@
+# Dataset: AlkIsod14
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Isodesmic reaction energies in n = 3–8 alkanes.
+# Theory level = W1h and W3.2lite
+# Number of datapoints = 14.0
+# RMS energy (kcal/mol) = 10.3537918378731
+# Min energy (kcal/mol) = 2.19999990912003
+# Max energy (kcal/mol) = 15.3999993632127
+# Year last updated = 2009
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+2
+12_ethane_Alk44
+-1
+13_propane_Alk44
+-1
+11_methane_Alk44
+0
+2.1999998949 AlkIsod14_377
+3
+12_ethane_Alk44
+-1
+14_butane_Alk44
+-2
+11_methane_Alk44
+0
+4.5399997830 AlkIsod14_378
+4
+12_ethane_Alk44
+-1
+15_pentane_Alk44
+-3
+11_methane_Alk44
+0
+6.8199996736 AlkIsod14_379
+5
+12_ethane_Alk44
+-1
+16_hexane_Alk44
+-4
+11_methane_Alk44
+0
+9.1299995633 AlkIsod14_380
+6
+12_ethane_Alk44
+-1
+17_heptane_Alk44
+-5
+11_methane_Alk44
+0
+11.4499994527 AlkIsod14_381
+7
+12_ethane_Alk44
+-1
+18_octane_Alk44
+-6
+11_methane_Alk44
+0
+13.7799993412 AlkIsod14_382
+3
+12_ethane_Alk44
+-1
+19_isobutane_Alk44
+-2
+11_methane_Alk44
+0
+5.9799997140 AlkIsod14_383
+4
+12_ethane_Alk44
+-1
+20_isopentane_Alk44
+-3
+11_methane_Alk44
+0
+7.7299996306 AlkIsod14_384
+5
+12_ethane_Alk44
+-1
+21_isohexane_Alk44
+-4
+11_methane_Alk44
+0
+10.0099995212 AlkIsod14_385
+6
+12_ethane_Alk44
+-1
+22_isoheptane_Alk44
+-5
+11_methane_Alk44
+0
+12.3599994090 AlkIsod14_386
+7
+12_ethane_Alk44
+-1
+23_isooctane_Alk44
+-6
+11_methane_Alk44
+0
+15.3999992636 AlkIsod14_387
+4
+12_ethane_Alk44
+-1
+24_neopentane_Alk44
+-3
+11_methane_Alk44
+0
+10.5199994970 AlkIsod14_388
+5
+12_ethane_Alk44
+-1
+25_neohexane_Alk44
+-4
+11_methane_Alk44
+0
+11.6299994442 AlkIsod14_389
+6
+12_ethane_Alk44
+-1
+26_neoheptane_Alk44
+-5
+11_methane_Alk44
+0
+13.8899993360 AlkIsod14_390

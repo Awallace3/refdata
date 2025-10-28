@@ -1,0 +1,211 @@
+# Dataset: O24
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Interaction energies in 24 small high-spin open-shell dimers
+# Theory level = CCSD(T)/a[Q5]Z
+# Number of datapoints = 24.0
+# RMS energy (kcal/mol) = 7.12859649965927
+# Min energy (kcal/mol) = -29.5206284887776
+# Max energy (kcal/mol) = -0.0559820027093148
+# Year last updated = 2021
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+O24x5_c2h3-c2h4_1.0
+-1
+O24x5_c2h3-c2h4_monA
+-1
+O24x5_c2h3-c2h4_monB
+0
+-0.0998982526 O24_5126
+1
+O24x5_c2h3-co2_1.0
+-1
+O24x5_c2h3-co2_monA
+-1
+O24x5_c2h3-co2_monB
+0
+-1.8840043123 O24_5127
+1
+O24x5_ch2o-nh2_1.0
+-1
+O24x5_ch2o-nh2_monA
+-1
+O24x5_ch2o-nh2_monB
+0
+-2.9372268744 O24_5128
+1
+O24x5_cn-ar_1.0
+-1
+O24x5_cn-ar_monA
+-1
+O24x5_cn-ar_monB
+0
+-0.3157351549 O24_5129
+1
+O24x5_cn-h2_1.0
+-1
+O24x5_cn-h2_monA
+-1
+O24x5_cn-h2_monB
+0
+-0.1441295126 O24_5130
+1
+O24x5_cn-he_1.0
+-1
+O24x5_cn-he_monA
+-1
+O24x5_cn-he_monB
+0
+-0.0559820023 O24_5131
+1
+O24x5_co2-o2_1.0
+-1
+O24x5_co2-o2_monA
+-1
+O24x5_co2-o2_monB
+0
+-0.7613616325 O24_5132
+1
+O24x5_h2o-na_1.0
+-1
+O24x5_h2o-na_monA
+-1
+O24x5_h2o-na_monB
+0
+-5.1209548099 O24_5133
+1
+O24x5_h2o-o2h_1.0
+-1
+O24x5_h2o-o2h_monA
+-1
+O24x5_h2o-o2h_monB
+0
+-7.5686960598 O24_5134
+1
+O24x5_h2o-o2_gm_1.0
+-1
+O24x5_h2o-o2_gm_monA
+-1
+O24x5_h2o-o2_gm_monB
+0
+-0.6382179191 O24_5135
+1
+O24x5_h2o-o2_sp_1.0
+-1
+O24x5_h2o-o2_sp_monA
+-1
+O24x5_h2o-o2_sp_monB
+0
+-0.3574212365 O24_5136
+1
+O24x5_h2o-oh_1.0
+-1
+O24x5_h2o-oh_monA
+-1
+O24x5_h2o-oh_monB
+0
+-5.6719118896 O24_5137
+1
+O24x5_he2_1.0
+-1
+O24x5_he2_monA
+-1
+O24x5_he2_monB
+0
+-2.9131813390 O24_5138
+1
+O24x5_hf-co+_1.0
+-1
+O24x5_hf-co+_monA
+-1
+O24x5_hf-co+_monB
+0
+-29.5206282978 O24_5139
+1
+O24x5_li-nh3_gm_1.0
+-1
+O24x5_li-nh3_gm_monA
+-1
+O24x5_li-nh3_gm_monB
+0
+-14.3374041416 O24_5140
+1
+O24x5_li-nh3_lm_1.0
+-1
+O24x5_li-nh3_lm_monA
+-1
+O24x5_li-nh3_lm_monB
+0
+-0.2966933800 O24_5141
+1
+O24x5_li-o2_1.0
+-1
+O24x5_li-o2_monA
+-1
+O24x5_li-o2_monB
+0
+-0.1038157942 O24_5142
+1
+O24x5_na-li_1.0
+-1
+O24x5_na-li_monA
+-1
+O24x5_na-li_monB
+0
+-0.7412901146 O24_5143
+1
+O24x5_nh-ar_1.0
+-1
+O24x5_nh-ar_monA
+-1
+O24x5_nh-ar_monB
+0
+-0.2814543125 O24_5144
+1
+O24x5_nh-he_1.0
+-1
+O24x5_nh-he_monA
+-1
+O24x5_nh-he_monB
+0
+-0.0562965101 O24_5145
+1
+O24x5_nh-nh_1.0
+-1
+O24x5_nh-nh_monA
+-1
+O24x5_nh-nh_monB
+0
+-1.9941667373 O24_5146
+1
+O24x5_o2-h2_1.0
+-1
+O24x5_o2-h2_monA
+-1
+O24x5_o2-h2_monB
+0
+-0.1561092959 O24_5147
+1
+O24x5_o2-n2_1.0
+-1
+O24x5_o2-n2_monA
+-1
+O24x5_o2-n2_monB
+0
+-0.3249131084 O24_5148
+1
+O24x5_o2-o2_1.0
+-1
+O24x5_o2-o2_monA
+-1
+O24x5_o2-o2_monB
+0
+-0.3842686017 O24_5149

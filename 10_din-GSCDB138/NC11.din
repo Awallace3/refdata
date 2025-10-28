@@ -1,0 +1,107 @@
+# Dataset: NC11
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Binding energies of very small non-covalent complexes 
+# Theory level = CCSD(T)/CBS + T(Q)/aug-cc-pVTZ
+# Number of datapoints = 11.0
+# RMS energy (kcal/mol) = 0.481248154367969
+# Min energy (kcal/mol) = -1.14322562527832
+# Max energy (kcal/mol) = -0.0314219721550278
+# Year last updated = 2014
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+12_Ar-HF_dim_NC15
+-1
+12_Ar-HF_monA_NC15
+-1
+12_Ar-HF_monB_NC15
+0
+-0.6259036733 NC11_5115
+1
+13_C3-He_dim_NC15
+-1
+13_C3-He_monA_NC15
+-1
+13_C3-He_monB_NC15
+0
+-0.0775112248 NC11_5116
+1
+14_H2-CO_dim_NC15
+-1
+14_H2-CO_monA_NC15
+-1
+14_H2-CO_monB_NC15
+0
+-0.2676785971 NC11_5117
+1
+15_H2-H2_dim_NC15
+-1
+15_H2-H2_monA_NC15
+-1
+15_H2-H2_monB_NC15
+0
+-0.1130533611 NC11_5118
+1
+16_H2-HCl_dim_NC15
+-1
+16_H2-HCl_monA_NC15
+-1
+16_H2-HCl_monB_NC15
+0
+-0.5994936822 NC11_5119
+1
+17_H2-HF_dim_NC15
+-1
+17_H2-HF_monA_NC15
+-1
+17_H2-HF_monB_NC15
+0
+-1.1432256179 NC11_5120
+1
+19_He-H2_dim_NC15
+-1
+19_He-H2_monA_NC15
+-1
+19_He-H2_monB_NC15
+0
+-0.0314219720 NC11_5121
+1
+21_He-LiH_dim_NC15
+-1
+21_He-LiH_monA_NC15
+-1
+21_He-LiH_monB_NC15
+0
+-0.4287201175 NC11_5122
+1
+22_N2-N2_D2h_dim_NC15
+-1
+22_N2-N2_D2h_monA_NC15
+-1
+22_N2-N2_D2h_monB_NC15
+0
+-0.2271132475 NC11_5123
+1
+23_N2-N2_dim_NC15
+-1
+23_N2-N2_monA_NC15
+-1
+23_N2-N2_monB_NC15
+0
+-0.3112465796 NC11_5124
+1
+24_Ne-HF_dim_NC15
+-1
+24_Ne-HF_monA_NC15
+-1
+24_Ne-HF_monB_NC15
+0
+-0.2565164587 NC11_5125

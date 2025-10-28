@@ -1,0 +1,157 @@
+# Dataset: UPU23
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of RNA-backbone conformers 
+# Theory level = HF/CBS(2,3) + DLPNO-CCSD(T)/def2-TZVP corrected by MP2/CBS(2,3)
+# Number of datapoints = 23.0
+# RMS energy (kcal/mol) = 6.51518586386413
+# Min energy (kcal/mol) = 0.570000740800297
+# Max energy (kcal/mol) = 14.4100108455517
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+UPU23_2p
+1
+UPU23_1a
+0
+4.8700037327 UPU23_7741
+-1
+UPU23_2p
+1
+UPU23_1b
+0
+2.9700023215 UPU23_7742
+-1
+UPU23_2p
+1
+UPU23_1c
+0
+8.9000069736 UPU23_7743
+-1
+UPU23_2p
+1
+UPU23_1g
+0
+2.2200017479 UPU23_7744
+-1
+UPU23_2p
+1
+UPU23_1p
+0
+2.0200013022 UPU23_7745
+-1
+UPU23_2p
+1
+UPU23_2a
+0
+3.1400021670 UPU23_7746
+-1
+UPU23_2p
+1
+UPU23_5z
+0
+0.5700007371 UPU23_7747
+-1
+UPU23_2p
+1
+UPU23_6p
+0
+3.3200026310 UPU23_7748
+-1
+UPU23_2p
+1
+UPU23_7a
+0
+7.2600053262 UPU23_7749
+-1
+UPU23_2p
+1
+UPU23_aa
+0
+3.9600026770 UPU23_7750
+-1
+UPU23_2p
+1
+UPU23_1e
+0
+11.1300080850 UPU23_7751
+-1
+UPU23_2p
+1
+UPU23_0a
+0
+4.8200037781 UPU23_7752
+-1
+UPU23_2p
+1
+UPU23_1f
+0
+14.4100107523 UPU23_7753
+-1
+UPU23_2p
+1
+UPU23_9a
+0
+5.1500041058 UPU23_7754
+-1
+UPU23_2p
+1
+UPU23_4b
+0
+5.4800038060 UPU23_7755
+-1
+UPU23_2p
+1
+UPU23_3a
+0
+6.8400050803 UPU23_7756
+-1
+UPU23_2p
+1
+UPU23_7p
+0
+3.9000027315 UPU23_7757
+-1
+UPU23_2p
+1
+UPU23_8d
+0
+6.4300048253 UPU23_7758
+-1
+UPU23_2p
+1
+UPU23_3d
+0
+5.4200038605 UPU23_7759
+-1
+UPU23_2p
+1
+UPU23_0b
+0
+6.7000052075 UPU23_7760
+-1
+UPU23_2p
+1
+UPU23_1m
+0
+5.6000043244 UPU23_7761
+-1
+UPU23_2p
+1
+UPU23_2h
+0
+10.4200081026 UPU23_7762
+-1
+UPU23_2p
+1
+UPU23_3b
+0
+6.0900045067 UPU23_7763

@@ -1,0 +1,211 @@
+# Dataset: A24
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = Highly accurate binding energies of small non-covalent complexes 
+# Theory level = CCSD(T)/aug-cc-pV[TQ5(6)]Z + CCSDT(Q)/aDZ
+# Number of datapoints = 24.0
+# RMS energy (kcal/mol) = 2.65059287387282
+# Min energy (kcal/mol) = -6.55499973407078
+# Max energy (kcal/mol) = 1.09599988977003
+# Year last updated = 2015
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+3957_01waterammonia_dim_A24
+-1
+3957_01waterammonia_monA_A24
+-1
+3957_01waterammonia_monB_A24
+0
+-6.5549996917 A24_239
+1
+3958_02waterdimer_dim_A24
+-1
+3958_02waterdimer_monA_A24
+-1
+3958_02waterdimer_monB_A24
+0
+-5.0490001815 A24_240
+1
+3959_03HCNdimer_dim_A24
+-1
+3959_03HCNdimer_monA_A24
+-1
+3959_03HCNdimer_monB_A24
+0
+-4.7759996765 A24_241
+1
+3960_04HFdimer_dim_A24
+-1
+3960_04HFdimer_monA_A24
+-1
+3960_04HFdimer_monB_A24
+0
+-4.6020000857 A24_242
+1
+3961_05ammoniadimer_dim_A24
+-1
+3961_05ammoniadimer_monA_A24
+-1
+3961_05ammoniadimer_monB_A24
+0
+-3.1700002573 A24_243
+1
+3962_06HFmethane_dim_A24
+-1
+3962_06HFmethane_monA_A24
+-1
+3962_06HFmethane_monB_A24
+0
+-1.6640001196 A24_244
+1
+3963_07ammoniamethane_dim_A24
+-1
+3963_07ammoniamethane_monA_A24
+-1
+3963_07ammoniamethane_monB_A24
+0
+-0.7790002962 A24_245
+1
+3964_08watermethane_dim_A24
+-1
+3964_08watermethane_monA_A24
+-1
+3964_08watermethane_monB_A24
+0
+-0.6810002598 A24_246
+1
+3965_09formaldehydedimer_dim_A24
+-1
+3965_09formaldehydedimer_monA_A24
+-1
+3965_09formaldehydedimer_monB_A24
+0
+-4.5240000310 A24_247
+1
+3966_10waterethene_dim_A24
+-1
+3966_10waterethene_monA_A24
+-1
+3966_10waterethene_monB_A24
+0
+-2.5859997839 A24_248
+1
+3967_11formaldehydeethene_dim_A24
+-1
+3967_11formaldehydeethene_monA_A24
+-1
+3967_11formaldehydeethene_monB_A24
+0
+-1.6340001469 A24_249
+1
+3968_12ethynedimer_dim_A24
+-1
+3968_12ethynedimer_monA_A24
+-1
+3968_12ethynedimer_monB_A24
+0
+-1.5349998603 A24_250
+1
+3969_13ammoniaethene_dim_A24
+-1
+3969_13ammoniaethene_monA_A24
+-1
+3969_13ammoniaethene_monB_A24
+0
+-1.3949999875 A24_251
+1
+3970_14ethenedimer_dim_A24
+-1
+3970_14ethenedimer_monA_A24
+-1
+3970_14ethenedimer_monB_A24
+0
+-1.1089999964 A24_252
+1
+3971_15methaneethene_dim_A24
+-1
+3971_15methaneethene_monA_A24
+-1
+3971_15methaneethene_monB_A24
+0
+-0.5180002824 A24_253
+1
+3972_16boranemethane_dim_A24
+-1
+3972_16boranemethane_monA_A24
+-1
+3972_16boranemethane_monB_A24
+0
+-1.5210001240 A24_254
+1
+3973_17methaneethane_dim_A24
+-1
+3973_17methaneethane_monA_A24
+-1
+3973_17methaneethane_monB_A24
+0
+-0.8440002371 A24_255
+1
+3974_18methaneethane_dim_A24
+-1
+3974_18methaneethane_monA_A24
+-1
+3974_18methaneethane_monB_A24
+0
+-0.6169999414 A24_256
+1
+3975_19methanedimer_dim_A24
+-1
+3975_19methanedimer_monA_A24
+-1
+3975_19methanedimer_monB_A24
+0
+-0.5420000095 A24_257
+1
+3976_20Armethane_dim_A24
+-1
+3976_20Armethane_monA_A24
+-1
+3976_20Armethane_monB_A24
+0
+-0.4029997593 A24_258
+1
+3977_21Arethene_dim_A24
+-1
+3977_21Arethene_monA_A24
+-1
+3977_21Arethene_monB_A24
+0
+-0.3540000549 A24_259
+1
+3978_22etheneethyne_dim_A24
+-1
+3978_22etheneethyne_monA_A24
+-1
+3978_22etheneethyne_monB_A24
+0
+0.7999999006 A24_260
+1
+3979_23ethenedimer_dim_A24
+-1
+3979_23ethenedimer_monA_A24
+-1
+3979_23ethenedimer_monB_A24
+0
+0.9079999280 A24_261
+1
+3980_24ethynedimer_dim_A24
+-1
+3980_24ethynedimer_monA_A24
+-1
+3980_24ethynedimer_monB_A24
+0
+1.0959998827 A24_262

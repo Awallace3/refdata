@@ -1,0 +1,73 @@
+# Dataset: PX9
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Proton-exchange barriers in H2O, NH3, and HF clusters
+# Theory level = W1-F12
+# Number of datapoints = 9.0
+# RMS energy (kcal/mol) = 38.8694118833131
+# Min energy (kcal/mol) = 16.6000126349263
+# Max energy (kcal/mol) = 59.300045022205
+# Year last updated = 2012
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+PX13_nh3_2
+1
+PX13_nh3_2_ts
+0
+59.3000446385 PX9_5572
+-1
+PX13_nh3_3
+1
+PX13_nh3_3_ts
+0
+46.9000351975 PX9_5573
+-1
+PX13_h2o_2
+1
+PX13_h2o_2_ts
+0
+48.6000361629 PX9_5574
+-1
+PX13_h2o_3
+1
+PX13_h2o_3_ts
+0
+29.8000224967 PX9_5575
+-1
+PX13_h2o_5
+1
+PX13_h2o_5_ts
+0
+30.1000228517 PX9_5576
+-1
+PX13_h2o_6
+1
+PX13_h2o_6_ts
+0
+35.1000264662 PX9_5577
+-1
+PX13_hf_2
+1
+PX13_hf_2_ts
+0
+42.3000318469 PX9_5578
+-1
+PX13_hf_3
+1
+PX13_hf_3_ts
+0
+20.7000157048 PX9_5579
+-1
+PX13_hf_6
+1
+PX13_hf_6_ts
+0
+16.6000125275 PX9_5580

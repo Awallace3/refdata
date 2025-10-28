@@ -1,0 +1,787 @@
+# Dataset: O24x4
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = PECs for O24
+# Theory level = CCSD(T)/a[Q5]Z
+# Number of datapoints = 96.0
+# RMS energy (kcal/mol) = 4.1990670307897
+# Min energy (kcal/mol) = -25.5114516337241
+# Max energy (kcal/mol) = 0.150648081966006
+# Year last updated = 2021
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+O24x5_c2h3-c2h4_0.9
+-1
+O24x5_c2h3-c2h4_monA
+-1
+O24x5_c2h3-c2h4_monB
+0
+0.0050892755 O24x4_5150
+1
+O24x5_c2h3-c2h4_1.2
+-1
+O24x5_c2h3-c2h4_monA
+-1
+O24x5_c2h3-c2h4_monB
+0
+-0.0313361914 O24x4_5151
+1
+O24x5_c2h3-c2h4_1.5
+-1
+O24x5_c2h3-c2h4_monA
+-1
+O24x5_c2h3-c2h4_monB
+0
+0.0078626447 O24x4_5152
+1
+O24x5_c2h3-c2h4_2.0
+-1
+O24x5_c2h3-c2h4_monA
+-1
+O24x5_c2h3-c2h4_monB
+0
+0.0064902558 O24x4_5153
+1
+O24x5_c2h3-co2_0.9
+-1
+O24x5_c2h3-co2_monA
+-1
+O24x5_c2h3-co2_monB
+0
+-1.0476471405 O24x4_5154
+1
+O24x5_c2h3-co2_1.2
+-1
+O24x5_c2h3-co2_monA
+-1
+O24x5_c2h3-co2_monB
+0
+-1.1866875513 O24x4_5155
+1
+O24x5_c2h3-co2_1.5
+-1
+O24x5_c2h3-co2_monA
+-1
+O24x5_c2h3-co2_monB
+0
+-0.4025385399 O24x4_5156
+1
+O24x5_c2h3-co2_2.0
+-1
+O24x5_c2h3-co2_monA
+-1
+O24x5_c2h3-co2_monB
+0
+-0.0901775034 O24x4_5157
+1
+O24x5_ch2o-nh2_0.9
+-1
+O24x5_ch2o-nh2_monA
+-1
+O24x5_ch2o-nh2_monB
+0
+-2.1801825070 O24x4_5158
+1
+O24x5_ch2o-nh2_1.2
+-1
+O24x5_ch2o-nh2_monA
+-1
+O24x5_ch2o-nh2_monB
+0
+-2.0912060567 O24x4_5159
+1
+O24x5_ch2o-nh2_1.5
+-1
+O24x5_ch2o-nh2_monA
+-1
+O24x5_ch2o-nh2_monB
+0
+-0.9712798655 O24x4_5160
+1
+O24x5_ch2o-nh2_2.0
+-1
+O24x5_ch2o-nh2_monA
+-1
+O24x5_ch2o-nh2_monB
+0
+-0.3574212365 O24x4_5161
+1
+O24x5_cn-ar_0.9
+-1
+O24x5_cn-ar_monA
+-1
+O24x5_cn-ar_monB
+0
+0.1506480810 O24x4_5162
+1
+O24x5_cn-ar_1.2
+-1
+O24x5_cn-ar_monA
+-1
+O24x5_cn-ar_monB
+0
+-0.1899897872 O24x4_5163
+1
+O24x5_cn-ar_1.5
+-1
+O24x5_cn-ar_monA
+-1
+O24x5_cn-ar_monB
+0
+-0.0473760237 O24x4_5164
+1
+O24x5_cn-ar_2.0
+-1
+O24x5_cn-ar_monA
+-1
+O24x5_cn-ar_monB
+0
+-0.0074051765 O24x4_5165
+1
+O24x5_cn-h2_0.9
+-1
+O24x5_cn-h2_monA
+-1
+O24x5_cn-h2_monB
+0
+-0.0458892655 O24x4_5166
+1
+O24x5_cn-h2_1.2
+-1
+O24x5_cn-h2_monA
+-1
+O24x5_cn-h2_monB
+0
+-0.0815141077 O24x4_5167
+1
+O24x5_cn-h2_1.5
+-1
+O24x5_cn-h2_monA
+-1
+O24x5_cn-h2_monB
+0
+-0.0220439684 O24x4_5168
+1
+O24x5_cn-h2_2.0
+-1
+O24x5_cn-h2_monA
+-1
+O24x5_cn-h2_monB
+0
+-0.0036025193 O24x4_5169
+1
+O24x5_cn-he_0.9
+-1
+O24x5_cn-he_monA
+-1
+O24x5_cn-he_monB
+0
+0.0121799514 O24x4_5170
+1
+O24x5_cn-he_1.2
+-1
+O24x5_cn-he_monA
+-1
+O24x5_cn-he_monB
+0
+-0.0321367680 O24x4_5171
+1
+O24x5_cn-he_1.5
+-1
+O24x5_cn-he_monA
+-1
+O24x5_cn-he_monB
+0
+-0.0083200853 O24x4_5172
+1
+O24x5_cn-he_2.0
+-1
+O24x5_cn-he_monA
+-1
+O24x5_cn-he_monB
+0
+-0.0013723883 O24x4_5173
+1
+O24x5_co2-o2_0.9
+-1
+O24x5_co2-o2_monA
+-1
+O24x5_co2-o2_monB
+0
+-0.5352316924 O24x4_5174
+1
+O24x5_co2-o2_1.2
+-1
+O24x5_co2-o2_monA
+-1
+O24x5_co2-o2_monB
+0
+-0.3788939830 O24x4_5175
+1
+O24x5_co2-o2_1.5
+-1
+O24x5_co2-o2_monA
+-1
+O24x5_co2-o2_monB
+0
+-0.1033294744 O24x4_5176
+1
+O24x5_co2-o2_2.0
+-1
+O24x5_co2-o2_monA
+-1
+O24x5_co2-o2_monB
+0
+-0.0182127721 O24x4_5177
+1
+O24x5_h2o-na_0.9
+-1
+O24x5_h2o-na_monA
+-1
+O24x5_h2o-na_monB
+0
+-1.8448339161 O24x4_5178
+1
+O24x5_h2o-na_1.2
+-1
+O24x5_h2o-na_monA
+-1
+O24x5_h2o-na_monB
+0
+-3.6685671988 O24x4_5179
+1
+O24x5_h2o-na_1.5
+-1
+O24x5_h2o-na_monA
+-1
+O24x5_h2o-na_monB
+0
+-1.4913007283 O24x4_5180
+1
+O24x5_h2o-na_2.0
+-1
+O24x5_h2o-na_monA
+-1
+O24x5_h2o-na_monB
+0
+-0.3920741920 O24x4_5181
+1
+O24x5_h2o-o2h_0.9
+-1
+O24x5_h2o-o2h_monA
+-1
+O24x5_h2o-o2h_monB
+0
+-6.8867332005 O24x4_5182
+1
+O24x5_h2o-o2h_1.2
+-1
+O24x5_h2o-o2h_monA
+-1
+O24x5_h2o-o2h_monB
+0
+-4.5661096815 O24x4_5183
+1
+O24x5_h2o-o2h_1.5
+-1
+O24x5_h2o-o2h_monA
+-1
+O24x5_h2o-o2h_monB
+0
+-1.9394999948 O24x4_5184
+1
+O24x5_h2o-o2h_2.0
+-1
+O24x5_h2o-o2h_monA
+-1
+O24x5_h2o-o2h_monB
+0
+-0.6713554392 O24x4_5185
+1
+O24x5_h2o-o2_gm_0.9
+-1
+O24x5_h2o-o2_gm_monA
+-1
+O24x5_h2o-o2_gm_monB
+0
+-0.2097751608 O24x4_5186
+1
+O24x5_h2o-o2_gm_1.2
+-1
+O24x5_h2o-o2_gm_monA
+-1
+O24x5_h2o-o2_gm_monB
+0
+-0.3616813983 O24x4_5187
+1
+O24x5_h2o-o2_gm_1.5
+-1
+O24x5_h2o-o2_gm_monA
+-1
+O24x5_h2o-o2_gm_monB
+0
+-0.1029008854 O24x4_5188
+1
+O24x5_h2o-o2_gm_2.0
+-1
+O24x5_h2o-o2_gm_monA
+-1
+O24x5_h2o-o2_gm_monB
+0
+-0.0193564081 O24x4_5189
+1
+O24x5_h2o-o2_sp_0.9
+-1
+O24x5_h2o-o2_sp_monA
+-1
+O24x5_h2o-o2_sp_monB
+0
+-0.0374261708 O24x4_5190
+1
+O24x5_h2o-o2_sp_1.2
+-1
+O24x5_h2o-o2_sp_monA
+-1
+O24x5_h2o-o2_sp_monB
+0
+-0.1698900314 O24x4_5191
+1
+O24x5_h2o-o2_sp_1.5
+-1
+O24x5_h2o-o2_sp_monA
+-1
+O24x5_h2o-o2_sp_monB
+0
+-0.0255607197 O24x4_5192
+1
+O24x5_h2o-o2_sp_2.0
+-1
+O24x5_h2o-o2_sp_monA
+-1
+O24x5_h2o-o2_sp_monB
+0
+0.0027161863 O24x4_5193
+1
+O24x5_h2o-oh_0.9
+-1
+O24x5_h2o-oh_monA
+-1
+O24x5_h2o-oh_monB
+0
+-4.0930353122 O24x4_5194
+1
+O24x5_h2o-oh_1.2
+-1
+O24x5_h2o-oh_monA
+-1
+O24x5_h2o-oh_monB
+0
+-3.8669913408 O24x4_5195
+1
+O24x5_h2o-oh_1.5
+-1
+O24x5_h2o-oh_monA
+-1
+O24x5_h2o-oh_monB
+0
+-1.7103398114 O24x4_5196
+1
+O24x5_h2o-oh_2.0
+-1
+O24x5_h2o-oh_monA
+-1
+O24x5_h2o-oh_monB
+0
+-0.5914427357 O24x4_5197
+1
+O24x5_he2_0.9
+-1
+O24x5_he2_monA
+-1
+O24x5_he2_monB
+0
+-2.3642542524 O24x4_5198
+1
+O24x5_he2_1.2
+-1
+O24x5_he2_monA
+-1
+O24x5_he2_monB
+0
+-2.2594093427 O24x4_5199
+1
+O24x5_he2_1.5
+-1
+O24x5_he2_monA
+-1
+O24x5_he2_monB
+0
+-0.9757973062 O24x4_5200
+1
+O24x5_he2_2.0
+-1
+O24x5_he2_monA
+-1
+O24x5_he2_monB
+0
+-0.2120912983 O24x4_5201
+1
+O24x5_hf-co+_0.9
+-1
+O24x5_hf-co+_monA
+-1
+O24x5_hf-co+_monB
+0
+-25.5114514687 O24x4_5202
+1
+O24x5_hf-co+_1.2
+-1
+O24x5_hf-co+_monA
+-1
+O24x5_hf-co+_monB
+0
+-21.8898602563 O24x4_5203
+1
+O24x5_hf-co+_1.5
+-1
+O24x5_hf-co+_monA
+-1
+O24x5_hf-co+_monB
+0
+-10.5874370418 O24x4_5204
+1
+O24x5_hf-co+_2.0
+-1
+O24x5_hf-co+_monA
+-1
+O24x5_hf-co+_monB
+0
+-4.6935129292 O24x4_5205
+1
+O24x5_li-nh3_gm_0.9
+-1
+O24x5_li-nh3_gm_monA
+-1
+O24x5_li-nh3_gm_monB
+0
+-11.3385909778 O24x4_5206
+1
+O24x5_li-nh3_gm_1.2
+-1
+O24x5_li-nh3_gm_monA
+-1
+O24x5_li-nh3_gm_monB
+0
+-10.8956238853 O24x4_5207
+1
+O24x5_li-nh3_gm_1.5
+-1
+O24x5_li-nh3_gm_monA
+-1
+O24x5_li-nh3_gm_monB
+0
+-4.7846053414 O24x4_5208
+1
+O24x5_li-nh3_gm_2.0
+-1
+O24x5_li-nh3_gm_monA
+-1
+O24x5_li-nh3_gm_monB
+0
+-1.2076451126 O24x4_5209
+1
+O24x5_li-nh3_lm_0.9
+-1
+O24x5_li-nh3_lm_monA
+-1
+O24x5_li-nh3_lm_monB
+0
+-0.2494030113 O24x4_5210
+1
+O24x5_li-nh3_lm_1.2
+-1
+O24x5_li-nh3_lm_monA
+-1
+O24x5_li-nh3_lm_monB
+0
+-0.2090033242 O24x4_5211
+1
+O24x5_li-nh3_lm_1.5
+-1
+O24x5_li-nh3_lm_monA
+-1
+O24x5_li-nh3_lm_monB
+0
+-0.0735660727 O24x4_5212
+1
+O24x5_li-nh3_lm_2.0
+-1
+O24x5_li-nh3_lm_monA
+-1
+O24x5_li-nh3_lm_monB
+0
+-0.0123515199 O24x4_5213
+1
+O24x5_li-o2_0.9
+-1
+O24x5_li-o2_monA
+-1
+O24x5_li-o2_monB
+0
+-0.0420293920 O24x4_5214
+1
+O24x5_li-o2_1.2
+-1
+O24x5_li-o2_monA
+-1
+O24x5_li-o2_monB
+0
+-0.0697916033 O24x4_5215
+1
+O24x5_li-o2_1.5
+-1
+O24x5_li-o2_monA
+-1
+O24x5_li-o2_monB
+0
+-0.0205572730 O24x4_5216
+1
+O24x5_li-o2_2.0
+-1
+O24x5_li-o2_monA
+-1
+O24x5_li-o2_monB
+0
+-0.0032308329 O24x4_5217
+1
+O24x5_na-li_0.9
+-1
+O24x5_na-li_monA
+-1
+O24x5_na-li_monB
+0
+-0.6015638359 O24x4_5218
+1
+O24x5_na-li_1.2
+-1
+O24x5_na-li_monA
+-1
+O24x5_na-li_monB
+0
+-0.5380335222 O24x4_5219
+1
+O24x5_na-li_1.5
+-1
+O24x5_na-li_monA
+-1
+O24x5_na-li_monB
+0
+-0.2149219935 O24x4_5220
+1
+O24x5_na-li_2.0
+-1
+O24x5_na-li_monA
+-1
+O24x5_na-li_monB
+0
+-0.0407428094 O24x4_5221
+1
+O24x5_nh-ar_0.9
+-1
+O24x5_nh-ar_monA
+-1
+O24x5_nh-ar_monB
+0
+-0.2536349352 O24x4_5222
+1
+O24x5_nh-ar_1.2
+-1
+O24x5_nh-ar_monA
+-1
+O24x5_nh-ar_monB
+0
+-0.1208275760 O24x4_5223
+1
+O24x5_nh-ar_1.5
+-1
+O24x5_nh-ar_monA
+-1
+O24x5_nh-ar_monB
+0
+-0.0294492077 O24x4_5224
+1
+O24x5_nh-ar_2.0
+-1
+O24x5_nh-ar_monA
+-1
+O24x5_nh-ar_monB
+0
+-0.0045460363 O24x4_5225
+1
+O24x5_nh-he_0.9
+-1
+O24x5_nh-he_monA
+-1
+O24x5_nh-he_monB
+0
+-0.0208145519 O24x4_5226
+1
+O24x5_nh-he_1.2
+-1
+O24x5_nh-he_monA
+-1
+O24x5_nh-he_monB
+0
+-0.0296779349 O24x4_5227
+1
+O24x5_nh-he_1.5
+-1
+O24x5_nh-he_monA
+-1
+O24x5_nh-he_monB
+0
+-0.0078054648 O24x4_5228
+1
+O24x5_nh-he_2.0
+-1
+O24x5_nh-he_monA
+-1
+O24x5_nh-he_monB
+0
+-0.0011722504 O24x4_5229
+1
+O24x5_nh-nh_0.9
+-1
+O24x5_nh-nh_monA
+-1
+O24x5_nh-nh_monB
+0
+-1.3318179415 O24x4_5230
+1
+O24x5_nh-nh_1.2
+-1
+O24x5_nh-nh_monA
+-1
+O24x5_nh-nh_monB
+0
+-1.3149486044 O24x4_5231
+1
+O24x5_nh-nh_1.5
+-1
+O24x5_nh-nh_monA
+-1
+O24x5_nh-nh_monB
+0
+-0.5881257206 O24x4_5232
+1
+O24x5_nh-nh_2.0
+-1
+O24x5_nh-nh_monA
+-1
+O24x5_nh-nh_monB
+0
+-0.2192103932 O24x4_5233
+1
+O24x5_o2-h2_0.9
+-1
+O24x5_o2-h2_monA
+-1
+O24x5_o2-h2_monB
+0
+-0.0475761365 O24x4_5234
+1
+O24x5_o2-h2_1.2
+-1
+O24x5_o2-h2_monA
+-1
+O24x5_o2-h2_monB
+0
+-0.0889482124 O24x4_5235
+1
+O24x5_o2-h2_1.5
+-1
+O24x5_o2-h2_monA
+-1
+O24x5_o2-h2_monB
+0
+-0.0241883565 O24x4_5236
+1
+O24x5_o2-h2_2.0
+-1
+O24x5_o2-h2_monA
+-1
+O24x5_o2-h2_monB
+0
+-0.0040028013 O24x4_5237
+1
+O24x5_o2-n2_0.9
+-1
+O24x5_o2-n2_monA
+-1
+O24x5_o2-n2_monB
+0
+-0.0904059169 O24x4_5238
+1
+O24x5_o2-n2_1.2
+-1
+O24x5_o2-n2_monA
+-1
+O24x5_o2-n2_monB
+0
+-0.1792399225 O24x4_5239
+1
+O24x5_o2-n2_1.5
+-1
+O24x5_o2-n2_monA
+-1
+O24x5_o2-n2_monB
+0
+-0.0477763120 O24x4_5240
+1
+O24x5_o2-n2_2.0
+-1
+O24x5_o2-n2_monA
+-1
+O24x5_o2-n2_monB
+0
+-0.0078626309 O24x4_5241
+1
+O24x5_o2-o2_0.9
+-1
+O24x5_o2-o2_monA
+-1
+O24x5_o2-o2_monB
+0
+-0.1900186526 O24x4_5242
+1
+O24x5_o2-o2_1.2
+-1
+O24x5_o2-o2_monA
+-1
+O24x5_o2-o2_monB
+0
+-0.2039713257 O24x4_5243
+1
+O24x5_o2-o2_1.5
+-1
+O24x5_o2-o2_monA
+-1
+O24x5_o2-o2_monB
+0
+-0.0550099274 O24x4_5244
+1
+O24x5_o2-o2_2.0
+-1
+O24x5_o2-o2_monA
+-1
+O24x5_o2-o2_monB
+0
+-0.0090063297 O24x4_5245

@@ -1,0 +1,835 @@
+# Dataset: OEEF
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Electric field
+# Description = Relative energies in oriented external electric fields compared to zero field
+# Theory level = CCSD(T)/aQZ
+# Number of datapoints = 136.0
+# RMS energy (kcal/mol) = 18.0232256601784
+# Min energy (kcal/mol) = -77.5165107671393
+# Max energy (kcal/mol) = 18.8781983306906
+# Year last updated = 2023
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+OEEF_c2h2_0.01
+-1
+OEEF_c2h2_0.0
+0
+-0.9681153352 OEEF_5246
+1
+OEEF_c2h2_0.02
+-1
+OEEF_c2h2_0.0
+0
+-3.8890828117 OEEF_5247
+1
+OEEF_c2h2_0.03
+-1
+OEEF_c2h2_0.0
+0
+-8.8175647794 OEEF_5248
+1
+OEEF_c2h2_0.04
+-1
+OEEF_c2h2_0.0
+0
+-15.8569202057 OEEF_5249
+1
+OEEF_c2h4_0.01
+-1
+OEEF_c2h4_0.0
+0
+-1.0755499766 OEEF_5250
+1
+OEEF_c2h4_0.02
+-1
+OEEF_c2h4_0.0
+0
+-4.3247563617 OEEF_5251
+1
+OEEF_c2h4_0.03
+-1
+OEEF_c2h4_0.0
+0
+-9.8193403501 OEEF_5252
+1
+OEEF_c2h4_0.04
+-1
+OEEF_c2h4_0.0
+0
+-17.6980041253 OEEF_5253
+1
+OEEF_c2h6_0.01
+-1
+OEEF_c2h6_0.0
+0
+-0.9695629996 OEEF_5254
+1
+OEEF_c2h6_0.02
+-1
+OEEF_c2h6_0.0
+0
+-3.9031120409 OEEF_5255
+1
+OEEF_c2h6_0.03
+-1
+OEEF_c2h6_0.0
+0
+-8.8851739048 OEEF_5256
+1
+OEEF_c2h6_0.04
+-1
+OEEF_c2h6_0.0
+0
+-16.1171257926 OEEF_5257
+1
+OEEF_cl2_0.01
+-1
+OEEF_cl2_0.0
+0
+-1.3232016090 OEEF_5258
+1
+OEEF_cl2_0.02
+-1
+OEEF_cl2_0.0
+0
+-5.3186861815 OEEF_5259
+1
+OEEF_cl2_0.03
+-1
+OEEF_cl2_0.0
+0
+-12.0688438283 OEEF_5260
+1
+OEEF_cl2_0.04
+-1
+OEEF_cl2_0.0
+0
+-21.7300398693 OEEF_5261
+1
+OEEF_cl2_0.05
+-1
+OEEF_cl2_0.0
+0
+-34.5809581628 OEEF_5262
+1
+OEEF_co_-0.01
+-1
+OEEF_co_0.0
+0
+-0.7618975256 OEEF_5263
+1
+OEEF_co_-0.02
+-1
+OEEF_co_0.0
+0
+-2.5373859977 OEEF_5264
+1
+OEEF_co_-0.03
+-1
+OEEF_co_0.0
+0
+-5.3552844163 OEEF_5265
+1
+OEEF_co_-0.04
+-1
+OEEF_co_0.0
+0
+-9.2667460982 OEEF_5266
+1
+OEEF_co_-0.05
+-1
+OEEF_co_0.0
+0
+-14.3602925495 OEEF_5267
+1
+OEEF_co_0.01
+-1
+OEEF_co_0.0
+0
+-0.2386958173 OEEF_5268
+1
+OEEF_co_0.02
+-1
+OEEF_co_0.0
+0
+-1.4783539529 OEEF_5269
+1
+OEEF_co_0.03
+-1
+OEEF_co_0.0
+0
+-3.7329998712 OEEF_5270
+1
+OEEF_co_0.04
+-1
+OEEF_co_0.0
+0
+-7.0341389400 OEEF_5271
+1
+OEEF_co_0.05
+-1
+OEEF_co_0.0
+0
+-11.4424224597 OEEF_5272
+1
+OEEF_f2_0.01
+-1
+OEEF_f2_0.0
+0
+-0.3861812505 OEEF_5273
+1
+OEEF_f2_0.02
+-1
+OEEF_f2_0.0
+0
+-1.5476705315 OEEF_5274
+1
+OEEF_f2_0.03
+-1
+OEEF_f2_0.0
+0
+-3.4935397474 OEEF_5275
+1
+OEEF_f2_0.04
+-1
+OEEF_f2_0.0
+0
+-6.2391497025 OEEF_5276
+1
+OEEF_f2_0.05
+-1
+OEEF_f2_0.0
+0
+-9.8075513297 OEEF_5277
+1
+OEEF_fluoromethane_-0.01
+-1
+OEEF_fluoromethane_0.0
+0
+3.9882042076 OEEF_5278
+1
+OEEF_fluoromethane_-0.02
+-1
+OEEF_fluoromethane_0.0
+0
+6.7061642129 OEEF_5279
+1
+OEEF_fluoromethane_-0.03
+-1
+OEEF_fluoromethane_0.0
+0
+8.1379638658 OEEF_5280
+1
+OEEF_fluoromethane_-0.04
+-1
+OEEF_fluoromethane_0.0
+0
+8.2415073209 OEEF_5281
+1
+OEEF_fluoromethane_-0.05
+-1
+OEEF_fluoromethane_0.0
+0
+6.9397941462 OEEF_5282
+1
+OEEF_fluoromethane_0.01
+-1
+OEEF_fluoromethane_0.0
+0
+-5.2661241057 OEEF_5283
+1
+OEEF_fluoromethane_0.02
+-1
+OEEF_fluoromethane_0.0
+0
+-11.8427873068 OEEF_5284
+1
+OEEF_fluoromethane_0.03
+-1
+OEEF_fluoromethane_0.0
+0
+-19.7942064124 OEEF_5285
+1
+OEEF_fluoromethane_0.04
+-1
+OEEF_fluoromethane_0.0
+0
+-29.2323699001 OEEF_5286
+1
+OEEF_fluoromethane_0.05
+-1
+OEEF_fluoromethane_0.0
+0
+-40.3580695050 OEEF_5287
+1
+OEEF_formaldehyde_-0.01
+-1
+OEEF_formaldehyde_0.0
+0
+5.1864065577 OEEF_5288
+1
+OEEF_formaldehyde_-0.02
+-1
+OEEF_formaldehyde_0.0
+0
+8.8950019581 OEEF_5289
+1
+OEEF_formaldehyde_-0.03
+-1
+OEEF_formaldehyde_0.0
+0
+11.0658672045 OEEF_5290
+1
+OEEF_formaldehyde_-0.04
+-1
+OEEF_formaldehyde_0.0
+0
+11.5863549344 OEEF_5291
+1
+OEEF_formaldehyde_-0.05
+-1
+OEEF_formaldehyde_0.0
+0
+10.2413298011 OEEF_5292
+1
+OEEF_formaldehyde_0.01
+-1
+OEEF_formaldehyde_0.0
+0
+-6.6388851576 OEEF_5293
+1
+OEEF_formaldehyde_0.02
+-1
+OEEF_formaldehyde_0.0
+0
+-14.7311619414 OEEF_5294
+1
+OEEF_formaldehyde_0.03
+-1
+OEEF_formaldehyde_0.0
+0
+-24.3033702370 OEEF_5295
+1
+OEEF_formaldehyde_0.04
+-1
+OEEF_formaldehyde_0.0
+0
+-35.4117292453 OEEF_5296
+1
+OEEF_formaldehyde_0.05
+-1
+OEEF_formaldehyde_0.0
+0
+-48.1548746698 OEEF_5297
+1
+OEEF_formamide_-0.01
+-1
+OEEF_formamide_0.0
+0
+7.9240283172 OEEF_5298
+1
+OEEF_formamide_-0.02
+-1
+OEEF_formamide_0.0
+0
+13.3889185576 OEEF_5299
+1
+OEEF_formamide_-0.03
+-1
+OEEF_formamide_0.0
+0
+16.2023127132 OEEF_5300
+1
+OEEF_formamide_0.01
+-1
+OEEF_formamide_0.0
+0
+-10.3451619105 OEEF_5301
+1
+OEEF_formamide_0.02
+-1
+OEEF_formamide_0.0
+0
+-23.1414661723 OEEF_5302
+1
+OEEF_formamide_0.03
+-1
+OEEF_formamide_0.0
+0
+-38.4756553017 OEEF_5303
+1
+OEEF_formamide_0.04
+-1
+OEEF_formamide_0.0
+0
+-56.5046549847 OEEF_5304
+1
+OEEF_formamide_0.05
+-1
+OEEF_formamide_0.0
+0
+-77.5165102656 OEEF_5305
+1
+OEEF_formicacid_-0.01
+-1
+OEEF_formicacid_0.0
+0
+2.3391055554 OEEF_5306
+1
+OEEF_formicacid_-0.02
+-1
+OEEF_formicacid_0.0
+0
+2.7263993802 OEEF_5307
+1
+OEEF_formicacid_-0.03
+-1
+OEEF_formicacid_0.0
+0
+1.0989014865 OEEF_5308
+1
+OEEF_formicacid_-0.04
+-1
+OEEF_formicacid_0.0
+0
+-2.7084959075 OEEF_5309
+1
+OEEF_formicacid_-0.05
+-1
+OEEF_formicacid_0.0
+0
+-9.2954766193 OEEF_5310
+1
+OEEF_formicacid_0.01
+-1
+OEEF_formicacid_0.0
+0
+-4.2772739751 OEEF_5311
+1
+OEEF_formicacid_0.02
+-1
+OEEF_formicacid_0.0
+0
+-10.5152966706 OEEF_5312
+1
+OEEF_formicacid_0.03
+-1
+OEEF_formicacid_0.0
+0
+-18.7725218487 OEEF_5313
+1
+OEEF_formicacid_0.04
+-1
+OEEF_formicacid_0.0
+0
+-29.1535471805 OEEF_5314
+1
+OEEF_formicacid_0.05
+-1
+OEEF_formicacid_0.0
+0
+-41.8401690620 OEEF_5315
+1
+OEEF_h2_0.01
+-1
+OEEF_h2_0.0
+0
+-0.2013960268 OEEF_5316
+1
+OEEF_h2_0.02
+-1
+OEEF_h2_0.0
+0
+-0.8085459521 OEEF_5317
+1
+OEEF_h2_0.03
+-1
+OEEF_h2_0.0
+0
+-1.8320490382 OEEF_5318
+1
+OEEF_h2_0.04
+-1
+OEEF_h2_0.0
+0
+-3.2908272057 OEEF_5319
+1
+OEEF_h2_0.05
+-1
+OEEF_h2_0.0
+0
+-5.2155970432 OEEF_5320
+1
+OEEF_hcl_-0.01
+-1
+OEEF_hcl_0.0
+0
+2.1390272984 OEEF_5321
+1
+OEEF_hcl_-0.02
+-1
+OEEF_hcl_0.0
+0
+3.1102889661 OEEF_5322
+1
+OEEF_hcl_-0.03
+-1
+OEEF_hcl_0.0
+0
+2.8912222726 OEEF_5323
+1
+OEEF_hcl_-0.04
+-1
+OEEF_hcl_0.0
+0
+1.4384092101 OEEF_5324
+1
+OEEF_hcl_-0.05
+-1
+OEEF_hcl_0.0
+0
+-1.3198450608 OEEF_5325
+1
+OEEF_hcl_0.01
+-1
+OEEF_hcl_0.0
+0
+-3.3012470005 OEEF_5326
+1
+OEEF_hcl_0.02
+-1
+OEEF_hcl_0.0
+0
+-7.7744407272 OEEF_5327
+1
+OEEF_hcl_0.03
+-1
+OEEF_hcl_0.0
+0
+-13.4449551533 OEEF_5328
+1
+OEEF_hcl_0.04
+-1
+OEEF_hcl_0.0
+0
+-20.3558179754 OEEF_5329
+1
+OEEF_hcl_0.05
+-1
+OEEF_hcl_0.0
+0
+-28.5727557905 OEEF_5330
+1
+OEEF_hcn_-0.01
+-1
+OEEF_hcn_0.0
+0
+6.7410769573 OEEF_5331
+1
+OEEF_hcn_-0.02
+-1
+OEEF_hcn_0.0
+0
+12.0593427074 OEEF_5332
+1
+OEEF_hcn_-0.03
+-1
+OEEF_hcn_0.0
+0
+15.9235516713 OEEF_5333
+1
+OEEF_hcn_-0.04
+-1
+OEEF_hcn_0.0
+0
+18.2632640283 OEEF_5334
+1
+OEEF_hcn_-0.05
+-1
+OEEF_hcn_0.0
+0
+18.8781982085 OEEF_5335
+1
+OEEF_hcn_0.01
+-1
+OEEF_hcn_0.0
+0
+-8.1563022026 OEEF_5336
+1
+OEEF_hcn_0.02
+-1
+OEEF_hcn_0.0
+0
+-17.7425033318 OEEF_5337
+1
+OEEF_hcn_0.03
+-1
+OEEF_hcn_0.0
+0
+-28.7956389967 OEEF_5338
+1
+OEEF_hcn_0.04
+-1
+OEEF_hcn_0.0
+0
+-41.3829135788 OEEF_5339
+1
+OEEF_hcn_0.05
+-1
+OEEF_hcn_0.0
+0
+-55.6233072664 OEEF_5340
+1
+OEEF_hf_-0.01
+-1
+OEEF_hf_0.0
+0
+4.2356682147 OEEF_5341
+1
+OEEF_hf_-0.02
+-1
+OEEF_hf_0.0
+0
+8.0615978458 OEEF_5342
+1
+OEEF_hf_-0.03
+-1
+OEEF_hf_0.0
+0
+11.4724010972 OEEF_5343
+1
+OEEF_hf_-0.04
+-1
+OEEF_hf_0.0
+0
+14.4589075452 OEEF_5344
+1
+OEEF_hf_-0.05
+-1
+OEEF_hf_0.0
+0
+17.0073615550 OEEF_5345
+1
+OEEF_hf_0.01
+-1
+OEEF_hf_0.0
+0
+-4.6433278593 OEEF_5346
+1
+OEEF_hf_0.02
+-1
+OEEF_hf_0.0
+0
+-9.6953940521 OEEF_5347
+1
+OEEF_hf_0.03
+-1
+OEEF_hf_0.0
+0
+-15.1599416723 OEEF_5348
+1
+OEEF_hf_0.04
+-1
+OEEF_hf_0.0
+0
+-21.0452852204 OEEF_5349
+1
+OEEF_hf_0.05
+-1
+OEEF_hf_0.0
+0
+-27.3621086727 OEEF_5350
+1
+OEEF_meoh_-0.01
+-1
+OEEF_meoh_0.0
+0
+1.6664787820 OEEF_5351
+1
+OEEF_meoh_-0.02
+-1
+OEEF_meoh_0.0
+0
+1.6586248735 OEEF_5352
+1
+OEEF_meoh_-0.03
+-1
+OEEF_meoh_0.0
+0
+-0.1046798748 OEEF_5353
+1
+OEEF_meoh_-0.04
+-1
+OEEF_meoh_0.0
+0
+-3.7914824988 OEEF_5354
+1
+OEEF_meoh_-0.05
+-1
+OEEF_meoh_0.0
+0
+-9.8045800724 OEEF_5355
+1
+OEEF_meoh_0.01
+-1
+OEEF_meoh_0.0
+0
+-3.3088122546 OEEF_5356
+1
+OEEF_meoh_0.02
+-1
+OEEF_meoh_0.0
+0
+-8.2732329447 OEEF_5357
+1
+OEEF_meoh_0.03
+-1
+OEEF_meoh_0.0
+0
+-14.9539478836 OEEF_5358
+1
+OEEF_meoh_0.04
+-1
+OEEF_meoh_0.0
+0
+-23.4805402869 OEEF_5359
+1
+OEEF_meoh_0.05
+-1
+OEEF_meoh_0.0
+0
+-34.1218741170 OEEF_5360
+1
+OEEF_methylamine_-0.01
+-1
+OEEF_methylamine_0.0
+0
+0.1013509370 OEEF_5361
+1
+OEEF_methylamine_-0.02
+-1
+OEEF_methylamine_0.0
+0
+-1.8046243643 OEEF_5362
+1
+OEEF_methylamine_-0.03
+-1
+OEEF_methylamine_0.0
+0
+-5.9312107253 OEEF_5363
+1
+OEEF_methylamine_0.01
+-1
+OEEF_methylamine_0.0
+0
+-2.0387199096 OEEF_5364
+1
+OEEF_methylamine_0.02
+-1
+OEEF_methylamine_0.0
+0
+-6.0242026087 OEEF_5365
+1
+OEEF_methylamine_0.03
+-1
+OEEF_methylamine_0.0
+0
+-12.0508493668 OEEF_5366
+1
+OEEF_methylamine_0.04
+-1
+OEEF_methylamine_0.0
+0
+-20.4224845815 OEEF_5367
+1
+OEEF_methylene-imine_-0.01
+-1
+OEEF_methylene-imine_0.0
+0
+2.8002729326 OEEF_5368
+1
+OEEF_methylene-imine_-0.02
+-1
+OEEF_methylene-imine_0.0
+0
+3.6647826892 OEEF_5369
+1
+OEEF_methylene-imine_-0.03
+-1
+OEEF_methylene-imine_0.0
+0
+2.4573998756 OEEF_5370
+1
+OEEF_methylene-imine_-0.04
+-1
+OEEF_methylene-imine_0.0
+0
+-1.2867633891 OEEF_5371
+1
+OEEF_methylene-imine_0.01
+-1
+OEEF_methylene-imine_0.0
+0
+-4.6819579698 OEEF_5372
+1
+OEEF_methylene-imine_0.02
+-1
+OEEF_methylene-imine_0.0
+0
+-11.2443741959 OEEF_5373
+1
+OEEF_methylene-imine_0.03
+-1
+OEEF_methylene-imine_0.0
+0
+-19.7401602768 OEEF_5374
+1
+OEEF_methylene-imine_0.04
+-1
+OEEF_methylene-imine_0.0
+0
+-30.3157618625 OEEF_5375
+1
+OEEF_methylene-imine_0.05
+-1
+OEEF_methylene-imine_0.0
+0
+-43.5590530423 OEEF_5376
+1
+OEEF_n2_0.01
+-1
+OEEF_n2_0.0
+0
+-0.4668011572 OEEF_5377
+1
+OEEF_n2_0.02
+-1
+OEEF_n2_0.0
+0
+-1.8719165974 OEEF_5378
+1
+OEEF_n2_0.03
+-1
+OEEF_n2_0.0
+0
+-4.2293943750 OEEF_5379
+1
+OEEF_n2_0.04
+-1
+OEEF_n2_0.0
+0
+-7.5654298730 OEEF_5380
+1
+OEEF_n2_0.05
+-1
+OEEF_n2_0.0
+0
+-11.9243503602 OEEF_5381

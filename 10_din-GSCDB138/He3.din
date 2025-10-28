@@ -1,0 +1,607 @@
+# Dataset: He3
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Noncovalent
+# Description = 3-Body non-additive interaction energies in helium trimers
+# Theory level = CCSD(T)/d[67]Z +….+ FCI/a3Z
+# Number of datapoints = 49.0
+# RMS energy (kcal/mol) = 25.7868920708971
+# Min energy (kcal/mol) = -130.798074773066
+# Max energy (kcal/mol) = 5.39777374491671
+# Year last updated = 2023
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+He3_1
+3
+He3_He
+-1
+He3_1_dim12
+-1
+He3_1_dim23
+-1
+He3_1_dim31
+0
+5.3977737100 He3_3977
+1
+He3_2
+3
+He3_He
+-1
+He3_2_dim12
+-1
+He3_2_dim23
+-1
+He3_2_dim31
+0
+2.9909611378 He3_3978
+1
+He3_3
+3
+He3_He
+-1
+He3_3_dim12
+-1
+He3_3_dim23
+-1
+He3_3_dim31
+0
+1.0027601331 He3_3979
+1
+He3_4
+3
+He3_He
+-1
+He3_4_dim12
+-1
+He3_4_dim23
+-1
+He3_4_dim31
+0
+0.3496420016 He3_3980
+1
+He3_5
+3
+He3_He
+-1
+He3_5_dim12
+-1
+He3_5_dim23
+-1
+He3_5_dim31
+0
+0.2730481957 He3_3981
+1
+He3_6
+3
+He3_He
+-1
+He3_6_dim12
+-1
+He3_6_dim23
+-1
+He3_6_dim31
+0
+0.2371546540 He3_3982
+1
+He3_7
+3
+He3_He
+-1
+He3_7_dim12
+-1
+He3_7_dim23
+-1
+He3_7_dim31
+0
+0.2192078832 He3_3983
+1
+He3_8
+3
+He3_He
+-1
+He3_8_dim12
+-1
+He3_8_dim23
+-1
+He3_8_dim31
+0
+0.2099144679 He3_3984
+1
+He3_9
+3
+He3_He
+-1
+He3_9_dim12
+-1
+He3_9_dim23
+-1
+He3_9_dim31
+0
+0.2053399239 He3_3985
+1
+He3_10
+3
+He3_He
+-1
+He3_10_dim12
+-1
+He3_10_dim23
+-1
+He3_10_dim31
+0
+0.2028800867 He3_3986
+1
+He3_11
+3
+He3_He
+-1
+He3_11_dim12
+-1
+He3_11_dim23
+-1
+He3_11_dim31
+0
+0.2017317444 He3_3987
+1
+He3_12
+3
+He3_He
+-1
+He3_12_dim12
+-1
+He3_12_dim23
+-1
+He3_12_dim31
+0
+0.2013928893 He3_3988
+1
+He3_13
+3
+He3_He
+-1
+He3_13_dim12
+-1
+He3_13_dim23
+-1
+He3_13_dim31
+0
+0.1005332922 He3_3989
+1
+He3_14
+3
+He3_He
+-1
+He3_14_dim12
+-1
+He3_14_dim23
+-1
+He3_14_dim31
+0
+-0.0630898021 He3_3990
+1
+He3_15
+3
+He3_He
+-1
+He3_15_dim12
+-1
+He3_15_dim23
+-1
+He3_15_dim31
+0
+-0.0912085015 He3_3991
+1
+He3_16
+3
+He3_He
+-1
+He3_16_dim12
+-1
+He3_16_dim23
+-1
+He3_16_dim31
+0
+-0.1037398656 He3_3992
+1
+He3_17
+3
+He3_He
+-1
+He3_17_dim12
+-1
+He3_17_dim23
+-1
+He3_17_dim31
+0
+-0.1120167155 He3_3993
+1
+He3_18
+3
+He3_He
+-1
+He3_18_dim12
+-1
+He3_18_dim23
+-1
+He3_18_dim31
+0
+-0.1162586795 He3_3994
+1
+He3_19
+3
+He3_He
+-1
+He3_19_dim12
+-1
+He3_19_dim23
+-1
+He3_19_dim31
+0
+-0.1465171862 He3_3995
+1
+He3_20
+3
+He3_He
+-1
+He3_20_dim12
+-1
+He3_20_dim23
+-1
+He3_20_dim31
+0
+-0.1469752681 He3_3996
+1
+He3_21
+3
+He3_He
+-1
+He3_21_dim12
+-1
+He3_21_dim23
+-1
+He3_21_dim31
+0
+-0.1636858452 He3_3997
+1
+He3_22
+3
+He3_He
+-1
+He3_22_dim12
+-1
+He3_22_dim23
+-1
+He3_22_dim31
+0
+-0.1762423097 He3_3998
+1
+He3_23
+3
+He3_He
+-1
+He3_23_dim12
+-1
+He3_23_dim23
+-1
+He3_23_dim31
+0
+-0.1788778495 He3_3999
+1
+He3_24
+3
+He3_He
+-1
+He3_24_dim12
+-1
+He3_24_dim23
+-1
+He3_24_dim31
+0
+-0.1966991185 He3_4000
+1
+He3_25
+3
+He3_He
+-1
+He3_25_dim12
+-1
+He3_25_dim23
+-1
+He3_25_dim31
+0
+-0.2328436639 He3_4001
+1
+He3_26
+3
+He3_He
+-1
+He3_26_dim12
+-1
+He3_26_dim23
+-1
+He3_26_dim31
+0
+-0.2407377331 He3_4002
+1
+He3_27
+3
+He3_He
+-1
+He3_27_dim12
+-1
+He3_27_dim23
+-1
+He3_27_dim31
+0
+-0.2572600574 He3_4003
+1
+He3_28
+3
+He3_He
+-1
+He3_28_dim12
+-1
+He3_28_dim23
+-1
+He3_28_dim31
+0
+-0.3309422194 He3_4004
+1
+He3_29
+3
+He3_He
+-1
+He3_29_dim12
+-1
+He3_29_dim23
+-1
+He3_29_dim31
+0
+-0.5666473265 He3_4005
+1
+He3_30
+3
+He3_He
+-1
+He3_30_dim12
+-1
+He3_30_dim23
+-1
+He3_30_dim31
+0
+-0.5694020931 He3_4006
+1
+He3_31
+3
+He3_He
+-1
+He3_31_dim12
+-1
+He3_31_dim23
+-1
+He3_31_dim31
+0
+-0.7921052040 He3_4007
+1
+He3_32
+3
+He3_He
+-1
+He3_32_dim12
+-1
+He3_32_dim23
+-1
+He3_32_dim31
+0
+-0.9695021311 He3_4008
+1
+He3_33
+3
+He3_He
+-1
+He3_33_dim12
+-1
+He3_33_dim23
+-1
+He3_33_dim31
+0
+-1.1552449343 He3_4009
+1
+He3_34
+3
+He3_He
+-1
+He3_34_dim12
+-1
+He3_34_dim23
+-1
+He3_34_dim31
+0
+-1.2408372260 He3_4010
+1
+He3_35
+3
+He3_He
+-1
+He3_35_dim12
+-1
+He3_35_dim23
+-1
+He3_35_dim31
+0
+-1.2743462317 He3_4011
+1
+He3_36
+3
+He3_He
+-1
+He3_36_dim12
+-1
+He3_36_dim23
+-1
+He3_36_dim31
+0
+-1.5843986608 He3_4012
+1
+He3_37
+3
+He3_He
+-1
+He3_37_dim12
+-1
+He3_37_dim23
+-1
+He3_37_dim31
+0
+-1.6121345794 He3_4013
+1
+He3_38
+3
+He3_He
+-1
+He3_38_dim12
+-1
+He3_38_dim23
+-1
+He3_38_dim31
+0
+-2.6423168763 He3_4014
+1
+He3_39
+3
+He3_He
+-1
+He3_39_dim12
+-1
+He3_39_dim23
+-1
+He3_39_dim31
+0
+-4.3579277673 He3_4015
+1
+He3_40
+3
+He3_He
+-1
+He3_40_dim12
+-1
+He3_40_dim23
+-1
+He3_40_dim31
+0
+-5.4930923985 He3_4016
+1
+He3_41
+3
+He3_He
+-1
+He3_41_dim12
+-1
+He3_41_dim23
+-1
+He3_41_dim31
+0
+-6.9057417173 He3_4017
+1
+He3_42
+3
+He3_He
+-1
+He3_42_dim12
+-1
+He3_42_dim23
+-1
+He3_42_dim31
+0
+-7.8702237727 He3_4018
+1
+He3_43
+3
+He3_He
+-1
+He3_43_dim12
+-1
+He3_43_dim23
+-1
+He3_43_dim31
+0
+-11.1307629789 He3_4019
+1
+He3_44
+3
+He3_He
+-1
+He3_44_dim12
+-1
+He3_44_dim23
+-1
+He3_44_dim31
+0
+-17.7070622245 He3_4020
+1
+He3_45
+3
+He3_He
+-1
+He3_45_dim12
+-1
+He3_45_dim23
+-1
+He3_45_dim31
+0
+-27.0513057422 He3_4021
+1
+He3_46
+3
+He3_He
+-1
+He3_46_dim12
+-1
+He3_46_dim23
+-1
+He3_46_dim31
+0
+-41.7645202853 He3_4022
+1
+He3_47
+3
+He3_He
+-1
+He3_47_dim12
+-1
+He3_47_dim23
+-1
+He3_47_dim31
+0
+-63.2341292919 He3_4023
+1
+He3_48
+3
+He3_He
+-1
+He3_48_dim12
+-1
+He3_48_dim23
+-1
+He3_48_dim31
+0
+-91.3528286426 He3_4024
+1
+He3_49
+3
+He3_He
+-1
+He3_49_dim12
+-1
+He3_49_dim23
+-1
+He3_49_dim31
+0
+-130.7980739268 He3_4025

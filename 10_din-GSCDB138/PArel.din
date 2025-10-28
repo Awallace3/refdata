@@ -1,0 +1,139 @@
+# Dataset: PArel
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerization energies of protonated isomers
+# Theory level = CCSD(T)/def2-[TQ]ZVPP
+# Number of datapoints = 20.0
+# RMS energy (kcal/mol) = 6.2348835965298
+# Min energy (kcal/mol) = 0.600000713736158
+# Max energy (kcal/mol) = 17.8800133627181
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+PArel_A0
+1
+PArel_A1
+0
+1.6100010472 PArel_5511
+-1
+PArel_A0
+1
+PArel_A2
+0
+8.5000060820 PArel_5512
+-1
+PArel_T1
+1
+PArel_T0
+0
+2.9400023488 PArel_5513
+-1
+PArel_T1
+1
+PArel_T2
+0
+6.2200043886 PArel_5514
+-1
+PArel_T1
+1
+PArel_T3
+0
+7.1900053898 PArel_5515
+-1
+PArel_arg2
+1
+PArel_arg0
+0
+2.3800016026 PArel_5516
+-1
+PArel_his1
+1
+PArel_his2
+0
+1.1900008013 PArel_5517
+-1
+PArel_his1
+1
+PArel_his0
+0
+0.7900005372 PArel_5518
+-1
+PArel_his1
+1
+PArel_his3
+0
+7.0500055170 PArel_5519
+-1
+PArel_sugar0
+1
+PArel_sugar2
+0
+2.9800023124 PArel_5520
+-1
+PArel_sugar0
+1
+PArel_sugar4
+0
+3.4100025492 PArel_5521
+-1
+PArel_sugar0
+1
+PArel_sugar3
+0
+3.2100021034 PArel_5522
+-1
+PArel_aminocoohbz2
+1
+PArel_aminocoohbz1
+0
+0.6000007099 PArel_5523
+-1
+PArel_aminocoohbz2
+1
+PArel_aminocoohbz3
+0
+7.2100053716 PArel_5524
+-1
+PArel_h4p2o71
+1
+PArel_h4p2o72
+0
+2.3600016207 PArel_5525
+-1
+PArel_h2s2o71
+1
+PArel_h2s2o72
+0
+17.8800132470 PArel_5526
+-1
+PArel_s4o42
+1
+PArel_s4o41
+0
+11.2000086489 PArel_5527
+-1
+PArel_c2h2f41
+1
+PArel_c2h2f42
+0
+1.2700007286 PArel_5528
+-1
+PArel_c2cl43
+1
+PArel_c2cl42
+0
+2.4700021483 PArel_5529
+-1
+PArel_c2cl43
+1
+PArel_c2cl41
+0
+2.1500018115 PArel_5530

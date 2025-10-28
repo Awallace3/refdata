@@ -1,0 +1,91 @@
+# Dataset: AE18
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Absolute atomic energies of hydrogen through argon 
+# Theory level = Experimental fitting
+# Number of datapoints = 18.0
+# RMS energy (kcal/mol) = 148738.610099001
+# Min energy (kcal/mol) = -331036.347945612
+# Max energy (kcal/mol) = -313.75473703
+# Year last updated = 1993
+# Error (kcal/mol) = 0.06-2.4 difference of two estimates
+#
+#@ fieldasrxn 999
+1
+11_H_AE18
+0
+-313.7547350000 AE18_295
+1
+12_He_AE18
+0
+-1822.1117982284 AE18_296
+1
+13_Li_AE18
+0
+-4692.5534672282 AE18_297
+1
+14_Be_AE18
+0
+-9203.9072998992 AE18_298
+1
+15_B_AE18
+0
+-15470.5619975277 AE18_299
+1
+16_C_AE18
+0
+-23748.0958921500 AE18_300
+1
+17_N_AE18
+0
+-34255.2399597240 AE18_301
+1
+18_O_AE18
+0
+-47105.4416373310 AE18_302
+1
+19_F_AE18
+0
+-62583.9667300330 AE18_303
+1
+20_Ne_AE18
+0
+-80909.5650390720 AE18_304
+1
+21_Na_AE18
+0
+-101816.2980510620 AE18_305
+1
+22_Mg_AE18
+0
+-125535.1520019100 AE18_306
+1
+23_Al_AE18
+0
+-152074.4100166200 AE18_307
+1
+24_Si_AE18
+0
+-181575.5127297300 AE18_308
+1
+25_P_AE18
+0
+-214143.2542227300 AE18_309
+1
+26_S_AE18
+0
+-249817.7951017000 AE18_310
+1
+27_Cl_AE18
+0
+-288747.2276015600 AE18_311
+1
+28_Ar_AE18
+0
+-331036.3458038000 AE18_312

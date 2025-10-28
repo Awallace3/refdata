@@ -1,0 +1,175 @@
+# Dataset: PA26
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Thermochemistry
+# Description = Adiabatic proton affinities including amino acids
+# Theory level = W1-F12,W2-F12, CCSD(T)/def2-[TQ]ZVPP//PBEh-3c 
+# Number of datapoints = 26.0
+# RMS energy (kcal/mol) = 191.813640050595
+# Min energy (kcal/mol) = 106.200080523108
+# Max energy (kcal/mol) = 236.000178033838
+# Year last updated = 2017
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+1
+PA26_p2
+-1
+PA26_p2p
+0
+167.2001254399 PA26_5485
+1
+PA26_p4
+-1
+PA26_p4p
+0
+192.9001447593 PA26_5486
+1
+PA26_p6
+-1
+PA26_p6p
+0
+209.2001569319 PA26_5487
+1
+PA26_p8
+-1
+PA26_p8p
+0
+219.2001641611 PA26_5488
+1
+PA26_nh3
+-1
+PA26_nh3p
+0
+211.9001588713 PA26_5489
+1
+PA26_h2o
+-1
+PA26_h2op
+0
+171.4001285264 PA26_5490
+1
+PA26_c2h2
+-1
+PA26_c2h2p
+0
+157.4001180290 PA26_5491
+1
+PA26_sih4
+-1
+PA26_sih4p
+0
+156.9001172283 PA26_5492
+1
+PA26_ph3
+-1
+PA26_ph3p
+0
+192.8001442227 PA26_5493
+1
+PA26_h2s
+-1
+PA26_h2sp
+0
+174.3001302840 PA26_5494
+1
+PA26_hcl
+-1
+PA26_hclp
+0
+137.8001032073 PA26_5495
+1
+PA26_h2
+-1
+PA26_h2p
+0
+106.2000798360 PA26_5496
+1
+PA26_c2f6
+-1
+PA26_c2f6p
+0
+120.8000904157 PA26_5497
+1
+PA26_ethanol
+-1
+PA26_ethanolp
+0
+191.9001437854 PA26_5498
+1
+PA26_ch3cooh
+-1
+PA26_ch3coohp
+0
+190.9001428115 PA26_5499
+1
+PA26_gly
+-1
+PA26_glyp
+0
+218.2001631872 PA26_5500
+1
+PA26_phenol
+-1
+PA26_phenolp
+0
+200.4001498675 PA26_5501
+1
+PA26_ass
+-1
+PA26_assp
+0
+210.2001572784 PA26_5502
+1
+PA26_ch2s
+-1
+PA26_ch2sp
+0
+188.3001407813 PA26_5503
+1
+PA26_si2h6
+-1
+PA26_si2h6p
+0
+181.9001359288 PA26_5504
+1
+PA26_cys
+-1
+PA26_cysp
+0
+221.3001660181 PA26_5505
+1
+PA26_phosphapyrrol
+-1
+PA26_phosphapyrrolp
+0
+219.6001644252 PA26_5506
+1
+PA26_A
+-1
+PA26_Ap
+0
+192.9001447593 PA26_5507
+1
+PA26_T
+-1
+PA26_Tp
+0
+210.7001580791 PA26_5508
+1
+PA26_G
+-1
+PA26_Gp
+0
+236.0001765069 PA26_5509
+1
+PA26_C
+-1
+PA26_Cp
+0
+235.1001760696 PA26_5510

@@ -1,0 +1,181 @@
+# Dataset: DBH22
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Barrier Height
+# Description = Highly accurate subset of BH76 
+# Theory level = W4
+# Number of datapoints = 22.0
+# RMS energy (kcal/mol) = 29.2211625191144
+# Min energy (kcal/mol) = -2.39999971739726
+# Max energy (kcal/mol) = 82.1399968069566
+# Year last updated = 2008
+# Error (kcal/mol) = nan
+#
+#@ fieldasrxn 999
+-1
+57_h_lower_BH76
+-1
+67_n2o_BH76
+1
+68_n2ohts_BH76
+0
+17.1899994413 DBH22_2141
+-1
+57_h_lower_BH76
+-1
+46_hcl_lower_BH76
+1
+45_hclhts_BH76
+0
+17.5999990687 DBH22_2142
+-1
+22_ch3_lower_BH76
+-1
+29_clf_BH76
+1
+21_ch3fclts_BH76
+0
+6.8999993782 DBH22_2143
+-1
+27_clch3clcomp_BH76
+1
+28_clch3clts_BH76
+0
+13.5299996292 DBH22_2144
+-1
+35_fch3clcomp1_BH76
+1
+37_fch3clts_BH76
+0
+3.4999999574 DBH22_2145
+-1
+73_oh-_BH76
+-1
+20_ch3f_BH76
+1
+63_hoch3fts_BH76
+0
+-2.3999997019 DBH22_2146
+-1
+57_h_lower_BH76
+-1
+66_n2_BH76
+1
+59_hn2ts_BH76
+0
+14.3199995389 DBH22_2147
+-1
+57_h_lower_BH76
+-1
+11_c2h4_BH76
+1
+13_c2h5ts_BH76
+0
+1.8300002198 DBH22_2148
+-1
+48_hcn_BH76
+1
+49_hcnts_BH76
+0
+48.1399976752 DBH22_2149
+-1
+75_OH_upper_BH76
+-1
+25_CH4_BH76
+1
+81_RKT04_BH76
+0
+6.1299994503 DBH22_2150
+-1
+65_H_upper_BH76
+-1
+75_OH_upper_BH76
+1
+89_RKT14_BH76
+0
+10.6499997360 DBH22_2151
+-1
+65_H_upper_BH76
+-1
+44_H2S_BH76
+1
+90_RKT16_BH76
+0
+3.7699997121 DBH22_2152
+-1
+74_oh_lower_BH76
+-1
+66_n2_BH76
+1
+68_n2ohts_BH76
+0
+82.1399962755 DBH22_2153
+-1
+20_ch3f_BH76
+-1
+30_cl_lower_BH76
+1
+21_ch3fclts_BH76
+0
+59.3299969206 DBH22_2154
+-1
+36_fch3clcomp2_BH76
+1
+37_fch3clts_BH76
+0
+29.5299988967 DBH22_2155
+-1
+23_ch3oh_lower_BH76
+-1
+33_f-_BH76
+1
+63_hoch3fts_BH76
+0
+17.7699989143 DBH22_2156
+-1
+58_hn2_BH76
+1
+59_hn2ts_BH76
+0
+10.6999996905 DBH22_2157
+-1
+12_c2h5_lower_BH76
+1
+13_c2h5ts_BH76
+0
+41.8799977155 DBH22_2158
+-1
+60_hnc_BH76
+1
+49_hcnts_BH76
+0
+32.9199983266 DBH22_2159
+-1
+43_H2O_BH76
+-1
+24_CH3_upper_BH76
+1
+81_RKT04_BH76
+0
+19.3599993521 DBH22_2160
+-1
+42_H2_BH76
+-1
+72_O_BH76
+1
+89_RKT14_BH76
+0
+12.8999995741 DBH22_2161
+-1
+42_H2_BH76
+-1
+64_HS_BH76
+1
+90_RKT16_BH76
+0
+17.0899989046 DBH22_2162

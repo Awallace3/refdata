@@ -1,0 +1,157 @@
+# Dataset: ISOL23
+#
+# This set is part of GSCDB138 collection, compiled by Liang and Head-Gordon.
+# https://arxiv.org/pdf/2508.13468
+# https://github.com/JiashuLiang/GSCDB
+# Spin contaminated ('difficult') molecules have been removed.
+# Please also look up and cite the original refeference if you use this set.
+#
+# Datatype = Isomerization
+# Description = Isomerisation energies of large organic molecules
+# Theory level = PNO-LCCSD(T)-F12b/haQZ/Tight
+# Number of datapoints = 23.0
+# RMS energy (kcal/mol) = 28.0260008088615
+# Min energy (kcal/mol) = 0.139999873700682
+# Max energy (kcal/mol) = 71.0100539109629
+# Year last updated = 2023
+# Error (kcal/mol) = a few tenths
+#
+#@ fieldasrxn 999
+-1
+ISOL24_i1e
+1
+ISOL24_i1p
+0
+71.0100534515 ISOL23_4475
+-1
+ISOL24_i2e
+1
+ISOL24_i2p
+0
+38.5000290246 ISOL23_4476
+-1
+ISOL24_i3e
+1
+ISOL24_i3p
+0
+10.6900078572 ISOL23_4477
+-1
+ISOL24_i4e
+1
+ISOL24_i4p
+0
+69.0300514855 ISOL23_4478
+-1
+ISOL24_i5e
+1
+ISOL24_i5p
+0
+33.0800245366 ISOL23_4479
+-1
+ISOL24_i6e
+1
+ISOL24_i6p
+0
+24.4100179815 ISOL23_4480
+-1
+ISOL24_i7e
+1
+ISOL24_i7p
+0
+17.8800132470 ISOL23_4481
+-1
+ISOL24_i8e
+1
+ISOL24_i8p
+0
+22.0400163698 ISOL23_4482
+-1
+ISOL24_i9e
+1
+ISOL24_i9p
+0
+21.0900159780 ISOL23_4483
+-1
+ISOL24_i10e
+1
+ISOL24_i10p
+0
+6.4900047708 ISOL23_4484
+-1
+ISOL24_i12e
+1
+ISOL24_i12p
+0
+0.4200002459 ISOL23_4485
+-1
+ISOL24_i13e
+1
+ISOL24_i13p
+0
+33.0200245911 ISOL23_4486
+-1
+ISOL24_i14e
+1
+ISOL24_i14p
+0
+5.3200039513 ISOL23_4487
+-1
+ISOL24_i15e
+1
+ISOL24_i15p
+0
+4.1400031410 ISOL23_4488
+-1
+ISOL24_i16e
+1
+ISOL24_i16p
+0
+23.0000173801 ISOL23_4489
+-1
+ISOL24_i17e
+1
+ISOL24_i17p
+0
+9.8300073836 ISOL23_4490
+-1
+ISOL24_i18e
+1
+ISOL24_i18p
+0
+24.1400182268 ISOL23_4491
+-1
+ISOL24_i19e
+1
+ISOL24_i19p
+0
+18.0400137292 ISOL23_4492
+-1
+ISOL24_i20e
+1
+ISOL24_i20p
+0
+4.9700036418 ISOL23_4493
+-1
+ISOL24_i21e
+1
+ISOL24_i21p
+0
+11.9000086404 ISOL23_4494
+1
+ISOL24_i22e
+-1
+ISOL24_i22p
+0
+0.1399998728 ISOL23_4495
+-1
+ISOL24_i23e
+1
+ISOL24_i23p
+0
+24.6100184273 ISOL23_4496
+-1
+ISOL24_i24e
+1
+ISOL24_i24p
+0
+15.4000117353 ISOL23_4497
