@@ -164,7 +164,7 @@ make_input() {
   {
     printf 'memory %s\n' "$MEMORY"
     printf 'set_num_threads(%s)\n\n' "$THREADS"
-    printf 'core.set_output_file("%s.out", False, False)\n\n' "$molname"
+    printf 'core.set_output_file("%s.out", False)\n\n' "$molname"
     printf 'molecule %s {\n' "$molname"
     printf '%s %s\n' "$q" "$m"
     awk 'NR>=3 {print}' "$xyz_file"
@@ -181,7 +181,7 @@ make_input() {
     printf '  basis %s\n' "$basis"
     printf '  puream false\n'
     printf '  writer_file_label %s\n' "$molname"
-    # printf '  molden_write true \n'
+    printf '  molden_write true \n'
     printf '}\n\n'
     printf "energy('%s-xmd')\n" "$method"
     printf 'qcvars = psi4.core.variables()\n'
