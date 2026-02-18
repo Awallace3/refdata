@@ -186,11 +186,11 @@ make_input() {
     printf "energy('%s-xdm')\n" "$method"
     printf 'qcvars = psi4.core.variables()\n'
     printf 'np.set_printoptions(precision=12, suppress=True)\n'
-    printf 'core.print_out("C6s\n")\n'
+    printf 'core.print_out("C6s\\n")\n'
     printf 'core.print_out(np.array2string(qcvars["XDM C6 COEFFICIENTS"].np))\n'
-    printf 'core.print_out("C8s\n")\n'
+    printf 'core.print_out("C8s\\n")\n'
     printf 'core.print_out(np.array2string(qcvars["XDM C8 COEFFICIENTS"].np))\n'
-    printf 'core.print_out("C10s\n")\n'
+    printf 'core.print_out("C10s\\n")\n'
     printf 'core.print_out(np.array2string(qcvars["XDM C10 COEFFICIENTS"].np))\n'
   } > "$out_file"
 
