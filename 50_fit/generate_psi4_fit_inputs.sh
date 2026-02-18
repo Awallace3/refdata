@@ -181,14 +181,17 @@ make_input() {
     printf '  basis %s\n' "$basis"
     printf '  puream false\n'
     printf '  writer_file_label %s\n' "$molname"
-    printf '  molden_write true \n'
+    # printf '  molden_write true \n'
     printf '}\n\n'
-    printf "energy('%s-xmd')\n" "$method"
+    printf "energy('%s-xdm')\n" "$method"
     printf 'qcvars = psi4.core.variables()\n'
     printf 'np.set_printoptions(precision=12, suppress=True)\n'
-    printf 'print(np.array2string(qcvars["XDM C6 COEFFICIENTS"].np), separator=", ")\n'
-    printf 'print(np.array2string(qcvars["XDM C8 COEFFICIENTS"].np), separator=", ")\n'
-    printf 'print(np.array2string(qcvars["XDM C10 COEFFICIENTS"].np), separator=", ")\n'
+    printf 'core.print_out("C6s\n")\n'
+    printf 'core.print_out(np.array2string(qcvars["XDM C6 COEFFICIENTS"].np))\n'
+    printf 'core.print_out("C8s\n")\n'
+    printf 'core.print_out(np.array2string(qcvars["XDM C8 COEFFICIENTS"].np))\n'
+    printf 'core.print_out("C10s\n")\n'
+    printf 'core.print_out(np.array2string(qcvars["XDM C10 COEFFICIENTS"].np))\n'
   } > "$out_file"
 
   if [[ -n "$nat" && "$nat" =~ ^[0-9]+$ ]]; then
