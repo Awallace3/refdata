@@ -164,6 +164,7 @@ make_input() {
   {
     printf 'memory %s\n' "$MEMORY"
     printf 'set_num_threads(%s)\n\n' "$THREADS"
+    printf 'core.set_output_file("%s.out", False, False)\n\n' "$molname"
     printf 'molecule %s {\n' "$molname"
     printf '%s %s\n' "$q" "$m"
     awk 'NR>=3 {print}' "$xyz_file"
@@ -180,9 +181,14 @@ make_input() {
     printf '  basis %s\n' "$basis"
     printf '  puream false\n'
     printf '  writer_file_label %s\n' "$molname"
-    printf '  model_write true \n'
+    # printf '  molden_write true \n'
     printf '}\n\n'
-    printf "energy('%s')\n" "$method"
+    printf "energy('%s-xmd')\n" "$method"
+    printf 'qcvars = psi4.core.variables()\n'
+    printf 'np.set_printoptions(precision=12, suppress=True)\n'
+    printf 'print(np.array2string(qcvars["XDM C6 COEFFICIENTS"].np), separator=", ")\n'
+    printf 'print(np.array2string(qcvars["XDM C8 COEFFICIENTS"].np), separator=", ")\n'
+    printf 'print(np.array2string(qcvars["XDM C10 COEFFICIENTS"].np), separator=", ")\n'
   } > "$out_file"
 
   if [[ -n "$nat" && "$nat" =~ ^[0-9]+$ ]]; then
@@ -219,53 +225,56 @@ while IFS='|' read -r method basis _a1 _a2; do
 
   printf 'OK\t%s\t%d\t%s\n' "$combo" "$count" "$combo_dir"
 done <<'EOF'
-b3lyp|6-31+g*|0.4515|2.1357
-b3lyp|6-31+g**|0.4306|2.2076
-b3lyp|6-311+g(2d,2p)|0.4376|2.1607
-b3lyp|aug-cc-pvdz|0.6224|1.7068
 b3lyp|aug-cc-pvtz|0.6356|1.5119
-pw86pbe|6-31+g*|0.6336|1.9148
-pw86pbe|6-31+g**|0.6935|1.7519
-pw86pbe|aug-cc-pvdz|0.6736|1.9327
-pw86pbe|aug-cc-pvtz|0.7564|1.4545
-pbe|6-31+g*|0.2445|3.2596
-pbe|6-31+g**|0.2746|3.1857
-pbe|aug-cc-pvdz|0.2061|3.5486
-pbe|aug-cc-pvtz|0.4492|2.5517
-pbe0|6-31+g*|0.0845|3.7940
-pbe0|6-31+g**|0.1163|3.7191
-pbe0|aug-cc-pvdz|0.1389|3.8310
-pbe0|aug-cc-pvtz|0.4186|2.6791
-blyp|6-31+g*|0.5942|1.4555
-blyp|6-31+g**|0.5653|1.5460
-blyp|aug-cc-pvdz|0.9742|0.3427
-blyp|aug-cc-pvtz|0.7647|0.8457
-bhahlyp|6-31+g*|0.1483|3.3435
-bhahlyp|6-31+g**|0.1432|3.3705
-bhandh|aug-cc-pvtz|0.5610|1.9894
-bhandhlyp|aug-cc-pvtz|0.5610|1.9894
-bhalfandhalf|aug-cc-pvtz|0.5610|1.9894
-bhalfandhalf|aug-cc-pvdz|0.1247|3.5725
-cam-b3lyp|6-31+g*|0.2315|3.2123
-cam-b3lyp|6-31+g**|0.2365|3.2081
-cam-b3lyp|aug-cc-pvdz|0.1849|3.5140
-cam-b3lyp|aug-cc-pvtz|0.3248|2.8607
-camb3lyp|aug-cc-pvtz|0.3248|2.8607
-camb3lyp|aug-cc-pvdz|0.1849|3.5140
-lc-wpbe|aug-cc-pvtz|1.0149|0.6755
-lcwpbe|aug-cc-pvtz|1.0149|0.6755
-lc-wpbe|6-31+g*|0.8134|1.3736
-lcwpbe|6-31+g*|0.8134|1.3736
-lc-wpbe|6-31+g**|0.8934|1.1466
-lcwpbe|6-31+g**|0.8934|1.1466
-lcwpbe|aug-cc-pvdz|1.1800|0.4179
-b971|aug-cc-pvtz|0.1998|3.5367
-b97-1|aug-cc-pvtz|0.1998|3.5367
-b97-1|6-31+g*|0.0118|4.1784
-b97-1|6-31+g**|0.0429|4.1090
-hf|aug-cc-pvdz|0.3698|2.1961
-hf|aug-cc-pvtz|0.3698|2.1961
-b86bpbe|aug-cc-pvtz|0.7839|1.2544
-tpss|aug-cc-pvtz|0.6612|1.5111
-hse06|aug-cc-pvtz|0.3691|2.8793
 EOF
+# done <<'EOF'
+# b3lyp|6-31+g*|0.4515|2.1357
+# b3lyp|6-31+g**|0.4306|2.2076
+# b3lyp|6-311+g(2d,2p)|0.4376|2.1607
+# b3lyp|aug-cc-pvdz|0.6224|1.7068
+# b3lyp|aug-cc-pvtz|0.6356|1.5119
+# pw86pbe|6-31+g*|0.6336|1.9148
+# pw86pbe|6-31+g**|0.6935|1.7519
+# pw86pbe|aug-cc-pvdz|0.6736|1.9327
+# pw86pbe|aug-cc-pvtz|0.7564|1.4545
+# pbe|6-31+g*|0.2445|3.2596
+# pbe|6-31+g**|0.2746|3.1857
+# pbe|aug-cc-pvdz|0.2061|3.5486
+# pbe|aug-cc-pvtz|0.4492|2.5517
+# pbe0|6-31+g*|0.0845|3.7940
+# pbe0|6-31+g**|0.1163|3.7191
+# pbe0|aug-cc-pvdz|0.1389|3.8310
+# pbe0|aug-cc-pvtz|0.4186|2.6791
+# blyp|6-31+g*|0.5942|1.4555
+# blyp|6-31+g**|0.5653|1.5460
+# blyp|aug-cc-pvdz|0.9742|0.3427
+# blyp|aug-cc-pvtz|0.7647|0.8457
+# bhahlyp|6-31+g*|0.1483|3.3435
+# bhahlyp|6-31+g**|0.1432|3.3705
+# bhandh|aug-cc-pvtz|0.5610|1.9894
+# bhandhlyp|aug-cc-pvtz|0.5610|1.9894
+# bhalfandhalf|aug-cc-pvtz|0.5610|1.9894
+# bhalfandhalf|aug-cc-pvdz|0.1247|3.5725
+# cam-b3lyp|6-31+g*|0.2315|3.2123
+# cam-b3lyp|6-31+g**|0.2365|3.2081
+# cam-b3lyp|aug-cc-pvdz|0.1849|3.5140
+# cam-b3lyp|aug-cc-pvtz|0.3248|2.8607
+# camb3lyp|aug-cc-pvtz|0.3248|2.8607
+# camb3lyp|aug-cc-pvdz|0.1849|3.5140
+# lc-wpbe|aug-cc-pvtz|1.0149|0.6755
+# lcwpbe|aug-cc-pvtz|1.0149|0.6755
+# lc-wpbe|6-31+g*|0.8134|1.3736
+# lcwpbe|6-31+g*|0.8134|1.3736
+# lc-wpbe|6-31+g**|0.8934|1.1466
+# lcwpbe|6-31+g**|0.8934|1.1466
+# lcwpbe|aug-cc-pvdz|1.1800|0.4179
+# b971|aug-cc-pvtz|0.1998|3.5367
+# b97-1|aug-cc-pvtz|0.1998|3.5367
+# b97-1|6-31+g*|0.0118|4.1784
+# b97-1|6-31+g**|0.0429|4.1090
+# hf|aug-cc-pvdz|0.3698|2.1961
+# hf|aug-cc-pvtz|0.3698|2.1961
+# b86bpbe|aug-cc-pvtz|0.7839|1.2544
+# tpss|aug-cc-pvtz|0.6612|1.5111
+# hse06|aug-cc-pvtz|0.3691|2.8793
+# EOF
